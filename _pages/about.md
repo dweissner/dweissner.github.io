@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+------
+![](/images/Snail.jpg)
 
-
-This website is under construction. 
+Welcome. This website is under construction. 
 ======
+
+
 I am currently learning how to build this site using GitHub Pages, Jekyll, Sphinx and LaTeX. I am also exploring other types of content to stage here. 
 
 Next Steps
