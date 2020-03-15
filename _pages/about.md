@@ -28,5 +28,5 @@ My email is [mailto](mailto:drweissner@gmail.com)
 
 Thank you for visiting!
 ------
-![Editing a markdown file for a talk](/images/Family.png)
+[Thank you for visiting!](/images/Family.png)
 
