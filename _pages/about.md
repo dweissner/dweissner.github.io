@@ -22,11 +22,11 @@ Next Steps
 
 For questions or inquiries:
 ------
-My email is [mailto](mailto:drweissner@gmail.com)
+My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
 
 
 
 Thank you for visiting!
 ------
-[Thank you for visiting!](/images/Family.png)
+[Thank you for visiting!](/images/Family.jpg)
 
