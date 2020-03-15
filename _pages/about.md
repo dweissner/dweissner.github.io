@@ -24,7 +24,7 @@ Next Steps
 1. Incorporate LaTeX.
 
 
-For questions or inquiries:
+Let's connect!
 ------
 My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
 
