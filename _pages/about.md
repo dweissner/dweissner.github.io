@@ -28,5 +28,5 @@ My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
 
 Thank you for visiting!
 ------
-![Thank you for visiting!](/images/Family.jpg)
+![](/images/Family.jpg)
 
