@@ -3,17 +3,14 @@ main:
   - title: "Thesis"
     url: /thesis/
 
-  - title: "Test"
-    url: /Test/    
-
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
 #  - title: "CV"
 #   url: /cv/
