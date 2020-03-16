@@ -2,6 +2,9 @@
 main:
   - title: "Thesis"
     url: /thesis/
+    
+  - title: "Thesis Docs"
+    url: /Thesis/
 
 #  - title: "Teaching"
 #    url: /teaching/    
