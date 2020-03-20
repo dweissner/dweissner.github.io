@@ -18,6 +18,7 @@ Thesis Documentation
 
 
 <img src="/images/changelog.jpg" width="20">
+
 Change Log
 -------------
 {% if author.googlescholar %}
