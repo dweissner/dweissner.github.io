@@ -15,7 +15,7 @@ Thesis Documenation
 [Thesis Documentation](https://dweissner.github.io/Thesis/)
 
 
-
+![](images/changelog.jpg | width=50)
 Change Log
 -------------
 {% if author.googlescholar %}
