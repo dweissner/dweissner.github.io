@@ -10,12 +10,14 @@ Thesis PDF
 [Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
 
 
-Thesis Documenation
+Thesis Documentation
 ------------------
 [Thesis Documentation](https://dweissner.github.io/Thesis/)
 
 
+
 ![](images/changelog.jpg | width=50)
+
 Change Log
 -------------
 {% if author.googlescholar %}
