@@ -14,7 +14,7 @@ redirect_from:
 Thesis
 ------
 
-[Link to Thesis Page] (https://dweissner.github.io/thesis/)
+[Link to Thesis Page](https://dweissner.github.io/thesis/)
 
 
 Beware of falling debris!  
