@@ -13,7 +13,7 @@ redirect_from:
 
 Beware of falling debris!  
 ------
-This website is under construction. 
+This site is under construction. 
 
 
 Thank you for visiting!
