@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![](/images/sunset.JPG)
+![](/images/sunset.JPG =25x)
 
 
 Beware of falling debris!  
