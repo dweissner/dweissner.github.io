@@ -16,9 +16,8 @@ Thesis Documentation
 
 
 
-![](/images/changelog.jpg)
-<img src="/images/changelog.jpg" width="20">
 
+![]<img src="/images/changelog.jpg" width="20">
 
 Change Log
 -------------
