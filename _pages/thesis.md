@@ -4,9 +4,16 @@ title: "Thesis"
 permalink: /thesis/
 author_profile: true
 ---
-See Current Draft
+
+Thesis PDF
 ------------------
-[Link to Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
+[Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
+
+
+Thesis Documenation
+------------------
+[Thesis Documentation](https://dweissner.github.io/Thesis/)
+
 
 
 Change Log
