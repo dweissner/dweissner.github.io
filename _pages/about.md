@@ -13,7 +13,8 @@ redirect_from:
 Welcome... 
 ======
 
-Beware of falling debris! This website is under construction. 
+Beware of falling debris!  
+This website is under construction. 
 ------
 I am currently learning how to build this site using GitHub Pages, Jekyll, Sphinx and LaTeX. I am also exploring other types of content to stage here. 
 
