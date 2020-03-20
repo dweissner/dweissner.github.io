@@ -15,10 +15,6 @@ Thesis Documentation
 [Thesis Documentation](https://dweissner.github.io/Thesis/)
 
 
-
-
-<img src="/images/changelog.jpg" width="20">
-
 Change Log
 -------------
 {% if author.googlescholar %}
