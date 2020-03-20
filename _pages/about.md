@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-![](images/NYC_sunset.jpg)
+![](/images/NYC_sunset.jpg)
 
 
 Beware of falling debris!  
