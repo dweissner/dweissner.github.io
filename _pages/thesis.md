@@ -16,7 +16,7 @@ Thesis Documentation
 
 
 
-![](images/changelog.jpg | width=50)
+![](images/changelog.jpg)
 
 Change Log
 -------------
