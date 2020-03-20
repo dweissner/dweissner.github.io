@@ -16,14 +16,7 @@ Beware of falling debris!
 This website is under construction. 
 
 
-
-Let's connect!
-------
-My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
-
-
-
 Thank you for visiting!
 ------
-![](/images/Family.jpg)
+Let's connect! My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
 
