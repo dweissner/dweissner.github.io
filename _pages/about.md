@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![](/images/NYC_sunset.jpg)
+![](/images/sunset.JPG)
 
 
 Beware of falling debris!  
