@@ -11,9 +11,11 @@ redirect_from:
 
 ![](/images/sunset.png)
 
-Beware of falling debris!  
+Thesis
 ------
-This site is under construction. 
+[Link to Thesis Page] (https://dweissner.github.io/thesis/)
+
+*Beware of falling debris!  This site is under construction.*
 
 
 Thank you for visiting!
