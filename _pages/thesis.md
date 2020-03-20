@@ -7,8 +7,8 @@ author_profile: true
 
 Thesis
 ------------------
-*[Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
-*[Thesis Documentation](https://dweissner.github.io/Thesis/)
+* [Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
+* [Thesis Documentation](https://dweissner.github.io/Thesis/)
 
 
 Change Log
