@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-------
+
+
 ![](/images/NYC_sunset.jpg)
 
 
