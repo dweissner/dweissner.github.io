@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome to my page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,10 @@ redirect_from:
 ------
 ![](images/NYC_sunset.jpg)
 
-Welcome!
-======
 
 Beware of falling debris!  
-This website is under construction. 
 ------
+This website is under construction. 
 
 
 
