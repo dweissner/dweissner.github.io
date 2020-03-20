@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-![](/images/sunset.JPG)
+![](/images/sunset.png)
+#![]<img src="/images/sunset.JPG" width="200">
 
 Beware of falling debris!  
 ------
