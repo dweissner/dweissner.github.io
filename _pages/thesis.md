@@ -8,7 +8,7 @@ author_profile: true
 * [Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
 * [Thesis Calculations (Stata & Python)](https://dweissner.github.io/Thesis/)
 * [Research Directory](https://docs.google.com/spreadsheets/d/1-60Z1ANmqZIE7t7hpedMYl3IBQkZ3P6RpbtgP72lFz8/edit?usp=sharing)
-* [Thesis Notes - no content yet](https://dweissner.github.io/Thesis-Notes//)
+* [Thesis Notes](https://dweissner.github.io/Thesis-Notes//)
 
 Primary Care Demand Map
 -------------
