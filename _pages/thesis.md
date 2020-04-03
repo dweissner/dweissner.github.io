@@ -5,11 +5,11 @@ permalink: /thesis/
 author_profile: true
 ---
 
-* [Current Draft of Thesis](https://dweissner.github.io/files/Thesis.pdf)
-* [Thesis Calculations (Stata & Python)](https://dweissner.github.io/Thesis/)
+* <a href="https://dweissner.github.io/files/Thesis.pdf" target="_blank">Current Draft of Thesis</a>
+* <a href="https://dweissner.github.io/Thesis/" target="_blank">Thesis Calculations (Stata & Python)</a>
 * <a href="https://docs.google.com/spreadsheets/d/1-60Z1ANmqZIE7t7hpedMYl3IBQkZ3P6RpbtgP72lFz8/edit?usp=sharing" target="_blank">Research Directory</a>
 * <a href="https://docs.google.com/spreadsheets/d/1KG4yOQIFhWRRtHNYKzxzP65X2NnufRSVXMNc-JffMfs/edit?usp=sharing" target="_blank">State by state index of Medicaid Expansion and NP SOP status</a>
-* [Notes & Next Steps](https://dweissner.github.io/Thesis-Notes//)
+* <a href="https://dweissner.github.io/Thesis-Notes//" target="_blank">Notes & Next Steps</a>
 
 Primary Care Demand Map
 -------------
