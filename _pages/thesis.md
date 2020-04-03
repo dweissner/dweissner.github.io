@@ -17,7 +17,7 @@ Primary Care Demand Map
 
 
 
-Change Log
+#Change Log
 -------------
 {% include base_path %}
 
