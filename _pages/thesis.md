@@ -11,9 +11,6 @@ author_profile: true
 * <a href="https://docs.google.com/spreadsheets/d/1KG4yOQIFhWRRtHNYKzxzP65X2NnufRSVXMNc-JffMfs/edit?usp=sharing" target="_blank">State by state index of Medicaid Expansion and NP SOP status</a>
 * <a href="https://dweissner.github.io/Thesis-Notes//" target="_blank">Notes & Next Steps</a>
 
-Primary Care Demand Map
--------------
-![](/files/mindmap1.PNG)
 
 
 
