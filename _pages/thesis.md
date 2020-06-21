@@ -14,8 +14,6 @@ author_profile: true
 
 
 
-#Change Log
--------------
 {% include base_path %}
 
 {% for post in site.thesis reversed %}
