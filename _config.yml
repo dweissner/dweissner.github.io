@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _thesis (formerly: _publications)
   - scope:
       path: ""
       type: thesis
