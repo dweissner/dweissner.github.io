@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Deborah R. Weissner"
 title_separator          : "-"
 name                     : &name "Deborah R. Weissner"
-description              : &description "Nurse Practioners in Primary Care"
+description              : &description ""
 url                      : https://dweissner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dweissner/dweissner.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deborah Weissner"
+  name             : "Dev"
   avatar           : "riding bike.jpg"
   bio              : #""
-  location         : "New York, NY"
+  location         : "New York & Tel Aviv"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
