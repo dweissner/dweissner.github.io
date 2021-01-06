@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my page"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,10 +11,6 @@ redirect_from:
 
 ![](/images/sunset.png)
 
-Thesis
-------
-
-[Link to Thesis Page](https://dweissner.github.io/thesis/)
 
 
 Beware of falling debris!  
@@ -22,7 +18,7 @@ Beware of falling debris!
 This site is under construction.
 
 
-Thank you for visiting!
+Let's connect!
 ------
-Let's connect! My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
+My email is [drweissner@gmail.com](mailto:drweissner@gmail.com)
 
