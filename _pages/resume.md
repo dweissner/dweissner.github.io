@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-* <a href="https://dweissner.github.io/files/Resume_WeissnerDeborah.pdf" target="_blank">Current Resume</a>
+<a href="https://dweissner.github.io/files/Resume_WeissnerDeborah.pdf" target="_blank">Current Resume</a>
 
 
 
