@@ -1,9 +1,5 @@
 # main links links
 main:
-  - title: "Resume"
-    url: /resume/
-    
-    
 #  - title: "Thesis Docs"
 #    url: /Thesis/
 
@@ -15,7 +11,8 @@ main:
         
   - title: "Traveling" #testing
     url: /year-archive/ #testing
-
+  - title: "Resume"
+    url: /resume/
 #  - title: "TBD" #testing
 #    url: /travel-archive/ #testing
 
