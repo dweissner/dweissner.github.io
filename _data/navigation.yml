@@ -13,10 +13,10 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog" #testing
+  - title: "Traveling" #testing
     url: /year-archive/ #testing
 
-  - title: "Travel" #testing
+  - title: "TBD" #testing
     url: /travel-archive/ #testing
 
   - title: "Thesis"
