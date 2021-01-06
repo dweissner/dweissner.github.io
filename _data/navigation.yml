@@ -16,8 +16,8 @@ main:
   - title: "Traveling" #testing
     url: /year-archive/ #testing
 
-  - title: "TBD" #testing
-    url: /travel-archive/ #testing
+#  - title: "TBD" #testing
+#    url: /travel-archive/ #testing
 
   - title: "Thesis"
     url: /thesis/
