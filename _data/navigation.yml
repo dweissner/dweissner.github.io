@@ -16,6 +16,9 @@ main:
   - title: "Blog" #testing
     url: /year-archive/ #testing
 
+  - title: "Travel" #testing
+    url: /travel-archive/ #testing
+
   - title: "Thesis"
     url: /thesis/
     
