@@ -12,6 +12,10 @@ redirect_from:
 ![](/images/sunset.png)
 
 
+Stay tuned!
+------------------------------------------
+A site dedicated to jazz, traveling and economics
+
 
 Beware of falling debris!  
 ------------------------------------------
