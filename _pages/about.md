@@ -12,14 +12,9 @@ redirect_from:
 ![](/images/sunset.png)
 
 
-Stay tuned!
-------------------------------------------
-A site dedicated to jazz, traveling and economics
-
-
 Beware of falling debris!  
 ------------------------------------------
-This site is under construction.
+This will be a site dedicated to jazz, traveling and economics but is currently under construction.
 
 
 Let's connect!
