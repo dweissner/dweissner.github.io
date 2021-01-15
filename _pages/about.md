@@ -14,7 +14,7 @@ redirect_from:
 
 Beware of falling debris!  
 ------------------------------------------
-This will be a site dedicated to jazz, traveling and economics but is currently under construction.
+This will be a site dedicated to jazz and classical music, traveling and economics but is currently under construction.
 
 
 Let's connect!
