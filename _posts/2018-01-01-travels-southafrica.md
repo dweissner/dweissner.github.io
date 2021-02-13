@@ -4,6 +4,7 @@ date: 2018-01-01
 permalink: /posts/2020/05/blog-post-4/
 tags:
 posttype: leisure
+category: leisure
 ---
 
 Thoughts from my travels... 
