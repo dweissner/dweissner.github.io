@@ -15,11 +15,11 @@ main:
   - title: "Blog Posts 2" #testing
     url: /year-archive/ #testing
 
-  - title: "Blog Posts 3" #testing
-    url: /categories/ #testing
+#  - title: "Blog Posts 3" #testing
+#    url: /categories/ #testing
 
-  - title: "Blog Posts 4" #testing
-    url: /categorie/ #testing
+#  - title: "Blog Posts 4" #testing
+#    url: /categorie/ #testing
 
   - title: "Resume"
     url: /resume/
