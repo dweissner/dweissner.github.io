@@ -15,6 +15,9 @@ main:
   - title: "Blog Posts 2" #testing
     url: /categories/ #testing
 
+  - title: "Blog Posts 3" #testing
+    url: /categorie/ #testing
+
   - title: "Resume"
     url: /resume/
 #  - title: "TBD" #testing
