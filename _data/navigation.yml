@@ -13,7 +13,7 @@ main:
     url: /year-archive/ #testing
 
   - title: "Econ Posts" #testing
-    url: /econ-archive/ #testing
+    url: /categories/econ #testing
 
   - title: "Resume"
     url: /resume/
