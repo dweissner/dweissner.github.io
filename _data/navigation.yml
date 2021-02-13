@@ -11,6 +11,10 @@ main:
         
   - title: "Blog Posts" #testing
     url: /year-archive/ #testing
+
+  - title: "Econ Posts" #testing
+    url: /econ-archive/ #testing
+
   - title: "Resume"
     url: /resume/
 #  - title: "TBD" #testing
