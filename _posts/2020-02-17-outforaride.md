@@ -3,6 +3,7 @@ title: 'Out for a Ride'
 date: 2020-02-17
 permalink: /posts/2020/02/blog-post-4/
 tags:
+posttype: econ 
 ---
 
 Photos taken and meditative thoughts I've had during recent bicycle rides.
