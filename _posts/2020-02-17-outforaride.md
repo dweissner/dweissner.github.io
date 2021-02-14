@@ -2,8 +2,6 @@
 title: 'Out for a Ride'
 date: 2020-02-17
 permalink: /posts/2020/02/blog-post-4/
-header:
-  teaser: "/images/outforaride13.jpg"
 tags:
 posttype:econ
 category: econ 
