@@ -2,7 +2,6 @@
 title: 'Moved by sound'
 date: 2020-06-08
 permalink: /posts/2020/06/blog-post-2/
-posttype: leisure
 category: leisure
 tags:
 Excerpt: Commentary
