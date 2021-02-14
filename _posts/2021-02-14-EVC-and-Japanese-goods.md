@@ -1,5 +1,5 @@
 ---
-title: 'EVC and Japanese Goods'
+title: 'EVC and Japanese Paper'
 date: 2021-02-14
 permalink: /posts/2021/02/Pricing-EVC-Japanese/
 tags:
