@@ -10,11 +10,12 @@ redirect_from:
 
 
 ![](/images/sunset.png)
+<sub>Photo taken on an early morning run along the East River in New York.
 
 
 Beware of falling debris!  
 ------------------------------------------
-This will be a site dedicated to jazz, traveling and economics but is currently under construction.
+This site is under construction as of December 3, 2021.
 
 
 Let's connect!
