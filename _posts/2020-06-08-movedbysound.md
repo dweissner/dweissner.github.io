@@ -1,6 +1,6 @@
 ---
 title: 'Moved by sound'
-date: 2020-06-08
+date: 2019-06-08
 permalink: /posts/2020/06/blog-post-2/
 category: leisure
 tags:
@@ -9,10 +9,10 @@ Excerpt: Commentary
 
 
 
-Prisoner of the State An opera I truly enjoyed which was even relatively low budget. Prisoner of the State. 
+Prisoner of the State at Lincoln Center June 7th, 2019. 
 ![](/images/classical.jpg)
 
-Gilad Hekselman. Incredible musician, and on the same level of incredibility, a genuinely good human being. 
+Gilad Hekselman, New York City 
 ![](/images/jazz1.jpg)
 
 
