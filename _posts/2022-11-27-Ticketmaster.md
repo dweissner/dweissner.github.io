@@ -1,8 +1,8 @@
 ---
-title: 'Hiking Yotvata'
+title: 'Ticketmaster Debacle'
 date: 2022-11-30
-permalink: /posts/2022/11/Yotvata/
-category: leisure
+permalink: /posts/2022/11/Ticketmaster_Debacle/
+category: econ
 tags:
 Excerpt: Commentary
 ---
