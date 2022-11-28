@@ -29,12 +29,15 @@ A monopoly is not a concern when obtained by having superior and innovative prod
 
 Part of Ticketmaster's market power can be attributed to how the primary ticketing business is structured. In the ticketing business, high startup costs create **barriers to entry** for potential competitors. Venues also typically sign *long-term, exclusive contracts* with one primary ticketing company. 
 
-**What does this have to do with Taylor Swift?**
-The main problems for Swifties are (1) Ticketmaster pre-sale jumble and (2) high prices.
-The amassed market power 
-The allegations 
-It has been speculated that Ticketmaster's dominance allows it to fearlessly add on even more fees through a drip pricing mechanism whereby add on costs are revealed in the finalization stages of a transaction when consumers are less likely to compare offerings from other vendors. 
+**What is bad is when a monopoly gives a firm unfair advantage over not only consumers but also other businesses**
+Market power can give a firm sway over negotiations with key stakeholders. Below is a flow chart illustrating how the three key players in the primary ticketing game interact. One can easily conclude that Live Nation has a profitability incentive to either give preferential treatment to venues that contract with Ticketmaster or employ exclusionary tactics to harm venues that do not. 
 
+
+
+**What does this have to do with Taylor Swift?**
+The main problems for Swifties are (1) Ticketmaster pre-sale fiasco and (2) sometimes high ticket prices. It has been speculated that Ticketmaster's dominance allows it to fearlessly add on even more fees through a drip pricing mechanism whereby add on costs are revealed in the finalization stages of a transaction when consumers are less likely to compare offerings from other vendors. 
+
+**How the Three Major Stakeholder Groups Connect in the Primary Ticketing Business:**
 ![](/images/Ticketmaster_explained.png)
 
 
