@@ -21,7 +21,7 @@ Live Nation Entertainment now owns both the largest primary ticket seller and th
 
 In a 2010 report, the DOJ  estimated that Ticketmaster held at least 80 percent of market share in 2008 (Competitive Impact Statement, United States of America v. Ticketmaster Entertainment, Inc., No. 1:10-cv-00139 (D.D.C. Jan. 25, 2010)). 
 
-***Is 80% market share high enough to constitute a monopoly? ***
+***Is 80% market share high enough to constitute a monopoly?***
 On their website, the FTC states that when making conclusions about a firm's conduct, they look at whether the firm has significant and durable market power to raise price or exclude competitors but if the estimtate of market share is less than 50 percent of the sales of a particular product or service within a geographic area, then the firm is usually deemed not to have monopoly power. 
 
 **Monopolies are not inherently bad though.**
