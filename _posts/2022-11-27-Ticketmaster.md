@@ -39,7 +39,11 @@ How the Three Major Stakeholder Groups Connect in the Primary Ticketing Business
 
 
 **What does this have to do with Taylor Swift?**
-The main problems for Swifties are (1) Ticketmaster pre-sale fiasco and (2) sometimes high ticket prices. It has been speculated that Ticketmaster's dominance allows it to fearlessly add on even more fees through a drip pricing mechanism whereby add on costs are revealed in the finalization stages of a transaction when consumers are less likely to compare offerings from other vendors. 
+The main problems for Swifties are (1) Ticketmaster pre-sale fiasco and (2) sometimes high ticket prices. 
+
+On inferior service, it is possible that Ticketmaster has been underinvesting in site stability resulting in lackluster service and that had it faced credible competition it may not have taken the consumer experience for granted. 
+
+For pricing, there are two points to speak of, the question of the actual market clearing price for concert tickets and the abuse of market power to extract additional profit. The first will require a longer follow up post. On market power, it has been speculated that Ticketmaster's dominance allows it to fearlessly add on even more fees through a drip pricing mechanism whereby add on costs are revealed in the finalization stages of a transaction when consumers are less likely to compare offerings from other vendors. 
 
 
 ------
