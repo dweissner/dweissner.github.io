@@ -24,7 +24,7 @@ In a 2010 report, the DOJ  estimated that Ticketmaster held at least 80 percent 
 ***Is 80% market share high enough to constitute a monopoly? ***
 On their website, the FTC states that when making conclusions about a firm's conduct, they look at whether the firm has significant and durable market power to raise price or exclude competitors but if the estimtate of market share is less than 50 percent of the sales of a particular product or service within a geographic area, then the firm is usually deemed not to have monopoly power. 
 
-**Monopolies are not inherently bad though. **
+**Monopolies are not inherently bad though.**
 A monopoly is not a concern when obtained by having superior and innovative products or service. It becomes a problem when that dominance is achieved through predatory means, or wehn unfair advantage grants the firm the ability to penalize consumers through unethically high prices and exclusionary practices.  
 
 
