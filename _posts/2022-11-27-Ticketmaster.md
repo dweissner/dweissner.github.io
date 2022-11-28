@@ -7,17 +7,25 @@ tags:
 Excerpt: Commentary
 ---
 
+Over this past week, Ticketmaster made headlines for mishandling ticket sales for an upcoming Taylor Swift tour. 
 
-testing change
-On Thursday, November 11th, 2021 I joined a group of friends and strangers (soon to become friends) at the Tel Aviv Central Bus Station to embark on what was my first multi-day hiking adventure. Our bus dropped us off right at Yotvata which is just a few miles from Eilat in the Negev desert of Israel and there we camped on the ground right outside the trail. On Friday November 12th, we hiked Wadi Yotvata (Stats: 20km, 1000m ascent, 400m descent)
+Demand for tickets was higher than their online systems could handle and as millions of Taylor Swift fans signed on and called in only to wait on virtual queues behind thousands of other Swifties with many receiving error messages and being kicked out of the system altogether. 
 
-On Saturday, we hiked through the valley of the Timna. (Stats: 24Km 750m ascents, 1200m descents) 
+Joining the vocal backlash of disappointed fans, Taylor Swift made the following  statement on November 18th, “I’m not going to make excuses for anyone because we asked them, multiple times, if they could handle this kind of demand and we were assured they could.”
 
-![](/images/2021-11-Yotvata.jpg)
+The question is why would Ticketmaster allow this to happen? Why wouldn't they have taken measures to mitigate the risk of system overload for one of the highest grossing artists of the age? Some might say that the market power amassed by Ticketmaster over the last ten years has allowed them the slack to disappoint fans and stakeholders without the fear of losing that business.  
 
+In 2010, the US Justice Department (DOJ) approved a merger between Ticketmaster and Live Nation giving birth to the colossal Live Nation Entertainment. 
 
+Live Nation Entertainment now owns both the largest primary ticket seller and the largest promoter which gives it the ability to bundle ticketing services and access to artists. 
 
-![](/images/2021-12-Yotvata-IMG_2311.jpg)
+In a 2010 report, the DOJ  estimated that Ticketmaster held at least 80 percent of market share in 2008 (Competitive Impact Statement, United States of America v. Ticketmaster Entertainment, Inc., No. 1:10-cv-00139 (D.D.C. Jan. 25, 2010)). 
+
+***Is 80% market share high enough to constitute a monopoly? ***
+On their website, the FTC states that when making conclusions about a firm's conduct, they look at whether the firm has significant and durable market power to raise price or exclude competitors but if the estimtate of market share is less than 50 percent of the sales of a particular product or service within a geographic area, then the firm is usually deemed not to have monopoly power. 
+
+**Monopolies are not inherently bad though. **
+A monopoly is not a concern when obtained by having superior and innovative products or service. It becomes a problem when that dominance is achieved through predatory means, or wehn unfair advantage grants the firm the ability to penalize consumers through unethically high prices and exclusionary practices.  
 
 
 ------
