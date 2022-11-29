@@ -15,7 +15,7 @@ redirect_from:
 
 Beware of falling debris!  
 ------------------------------------------
-This site is under construction as of December 3, 2021.
+This site is under construction.
 
 
 Let's connect!
