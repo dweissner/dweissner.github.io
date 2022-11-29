@@ -9,10 +9,10 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Posts" 
+  - title: "Blog" 
     url: /year-archive/
 
-  - title: "Econ Matters" 
+  - title: "Econ" 
     url: /year-archive-2/    
 
 
