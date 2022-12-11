@@ -15,7 +15,7 @@ Tickets went on sale on November 15th, and people all over the U.S. queued up to
 Joining the vocal backlash of disappointed fans, Taylor Swift made the following  statement on November 18th, “I’m not going to make excuses for anyone because we asked them, multiple times, if they could handle this kind of demand and we were assured they could.”
 
 
-## Why would Ticketmaster allow this to happen? Why wouldn't they have taken measures to mitigate the risk of system overload for one of the highest grossing artists of the age? 
+## Why would a firm not take measures to mitigate the risk of system failure for one of the highest grossing artists of the age? 
 ### Because Market Power Kills Innovation!
 In competitive markets, firms seek innovation and efficiency as needed to stay on par with other firms in their market competing for business. With less competition, there is less pressure to innovate. Therefore, market power could allow companies the slack to spend less on innovation and efficiency. Why should they fear losing the business of angry fans and stakeholders if there aren't other players in the market? 
 
