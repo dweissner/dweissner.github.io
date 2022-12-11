@@ -21,11 +21,11 @@ In 2010, the US Justice Department (DOJ) approved a merger between Ticketmaster 
 
 In a 2010 report, the DOJ estimated that Ticketmaster held at least 80 percent of market share in 2008 (Competitive Impact Statement, United States of America v. Ticketmaster Entertainment, Inc., No. 1:10-cv-00139 (D.D.C. Jan. 25, 2010)). 
 
-***Is 80% market share enough to constitute a monopoly?***
-On their website, the FTC states that when making conclusions about a firm's conduct, they look at whether the firm has significant and durable market power to raise price or exclude competitors but if the estimtate of market share is less than 50 percent of the sales of a particular product or service within a geographic area, then the firm is usually deemed not to have monopoly power. 
+#### Is 80% market share enough to constitute a monopoly?
+It is not always clear but on their website, the FTC states that when making conclusions about a firm's conduct, they look at whether the firm has significant and durable market power to raise price or exclude competitors but if the estimate of market share is less than 50 percent of the sales of a particular product or service within a geographic area, then the firm is usually deemed not to have monopoly power. 
 
-**Monopolies are not inherently bad though.**
-A monopoly is not a concern when obtained by having superior and innovative products or service. It becomes a problem when that dominance is achieved through predatory means, or when unfair advantage grants the firm the ability to penalize consumers through unethically high prices and exclusionary practices. 
+#### Monopolies are not inherently bad though
+A monopoly is not a concern when achieved through superior service and innovative products. It becomes a problem when that dominance is achieved through predatory means, or when unfair advantage grants the firm the ability to penalize consumers with unethically high prices or exclusionary practices that elbow out other firms from the market. 
 
 Part of Ticketmaster's market power can be attributed to how the primary ticketing business is structured. In the ticketing business, high startup costs create **barriers to entry** for potential competitors. Having venues typically sign *long-term, exclusive contracts* could  also discourage new entrants into primary ticketing in a seemingly saturated market. 
 
