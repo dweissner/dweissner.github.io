@@ -8,7 +8,7 @@ Excerpt: Commentary
 ---
 
 
-Ticketmaster made headlines over the past two weeks for mishandling ticket sales for an upcoming Taylor Swift tour but with all the griping, it was easy to lose sight of the main issues causing it. Each person I asked offered a different hypothesis of the issue tossing around phrases like ***monopoly*** and ***high prices***. 
+Ticketmaster made headlines over the past two weeks for mishandling ticket sales for an upcoming Taylor Swift tour but with all the griping, it was easy to lose sight of the main issues causing it. Each person I asked offered a different hypothesis of the issue tossing around phrases like *monopoly* and *high prices*. 
 
 Tickets went on sale on November 15th, and people all over the U.S. queued up to purchase but it turned out that demand was higher than Ticketmaster's systems could handle. As fans signed on and called in to wait on virtual queues behind thousands, the systems became overwhelmed. After waiting for hours, many people were confronted with error messages and subsequently kicked out of the system. 
 
@@ -48,7 +48,7 @@ The main problems for Swifties are (1) Ticketmaster pre-sale fiasco and (2) high
 
 Market power may have led Ticketmaster to underinvest in site stability resulting in lackluster service. Had it faced credible competition it may not have taken the consumer experience for granted. 
 
-High ticket prices can arise naturally via market forces of supply and demand and with the markup on ticket prices seen in the secondary market, it could even be that the face value initially set for the primary market is lower than that actual market clearing price. Another way for ticket sellers to extract revenue is through add-on fees like drip pricing mechanisms whereby add-on costs are revealed in the finalization stages of a transaction when consumers are least likely to make comparisons and weigh their decision.
+High ticket prices can arise naturally via market forces of supply and demand. The high markup on ticket prices seen in the secondary market, even suggest that the face value initially set for the primary market is lower than that *actual* market clearing price. However, another way for ticket sellers to extract revenue is through add-on fees like **drip pricing** mechanisms whereby add-on costs are revealed in the finalization stages of a transaction when consumers are least likely to make comparisons and weigh their decision.
 
 
 <sub><sup>Note: These views are my own and do not reflect those of my employer or any other organization of which I am a member.</sup></sub>
