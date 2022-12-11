@@ -6,16 +6,17 @@ category: econ
 tags:
 Excerpt: Commentary
 ---
-<sub><sup><sub><sup>Note: These views are my own and do not reflect those of my employer or any other organization of which I am a member.</sup></sub></sup></sub>
+<sub><sup>Note: These views are my own and do not reflect those of my employer or any other organization of which I am a member.</sup></sub>
 
 
-Over this past week, Ticketmaster made headlines for mishandling ticket sales for an upcoming Taylor Swift tour. With all the griping at Ticketmaster about prices and monopolization, it was easy to lose sight of the big picture.  
+Ticketmaster made headlines over the past two weeks for mishandling ticket sales for an upcoming Taylor Swift tour but with all the griping, it was easy to lose sight of the main issues causing it. Each person I asked offered a different hypothesis of the critical issue tossing around phrases like monopoly and high prices. 
 
-Mainly, tickets went on sale on Tuesday, November 15th, and people all over the U.S. were queued up to purchase their share but it turned out that demand was higher than Ticketmaster's systems could handle. As fans signed on and called in only to wait on virtual queues often behind thousands, Ticketmaster systems were unable to hand the load with many receiving error messages and being kicked out of the queuing system altogether. 
+Mainly, tickets went on sale on Tuesday, November 15th, and people all over the U.S. were queued up to purchase their share but it turned out that demand was higher than Ticketmaster's systems could handle. As fans signed on and called in to wait on virtual queues often behind thousands, Ticketmaster systems became overwhelmed. After waiting for hours, many people were confronted with error messages and subsequently kicked out of the system altogether. 
 
 Joining the vocal backlash of disappointed fans, Taylor Swift made the following  statement on November 18th, “I’m not going to make excuses for anyone because we asked them, multiple times, if they could handle this kind of demand and we were assured they could.”
 
-Why would Ticketmaster allow this to happen? Why wouldn't they have taken measures to mitigate the risk of system overload for one of the highest grossing artists of the age? Some might attribute it to market power giving Ticketmaster the slack to spend less on system efficiency. Why should they fear losing the business of angry fans and stakeholders if there is no other player in the market? 
+#### Why would Ticketmaster allow this to happen? Why wouldn't they have taken measures to mitigate the risk of system overload for one of the highest grossing artists of the age? 
+In competitive markets, firms seek innovation and efficiency as needed to stay on par with other firms in their market competing for business. With less competition, there is less pressure to innovate. Therefore, market power could allow companies the slack to spend less innovation and efficiency. Why should they fear losing the business of angry fans and stakeholders if there aren't other players in the market? 
 
 In 2010, the US Justice Department (DOJ) approved a merger between Ticketmaster and Live Nation giving birth to the colossal Live Nation Entertainment. Live Nation Entertainment now owns both the largest primary ticket seller and the largest promoter. A promoter team contracts directly with the band or artist and is responsible for securing venues, advertising, transportation and other touring needs. Since primary ticket sellers like Ticketmaster contract with venues and venues benefit from access to tours with high grossing artists, a promoter and primary ticket sales partnership might raise incentives of coercing venues to work exclusively with Ticketmaster in order to gain access to the promoter's set of tours. Furthermore, Ticketmaster-venue partnerships are often secured through exclusive, multi-year contracts which may point to some form of coersion. 
 
