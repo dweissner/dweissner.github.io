@@ -6,7 +6,7 @@ category: econ
 tags:
 Excerpt: Commentary
 ---
-Note: These views are my own and do not reflect those of my employer or any other organization of which I am a member.
+<sub><sup><sub><sup>Note: These views are my own and do not reflect those of my employer or any other organization of which I am a member.</sup></sub></sup></sub>
 
 
 Over this past week, Ticketmaster made headlines for mishandling ticket sales for an upcoming Taylor Swift tour. With all the griping at Ticketmaster about prices and monopolization, it was easy to lose sight of the big picture.  
