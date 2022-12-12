@@ -1,12 +1,12 @@
 ---
-title: 'EVC and Japanese Paper'
+title: 'Washi Paper'
 date: 2021-02-14
-permalink: /posts/2021/02/Pricing-EVC-Japanese/
+permalink: /posts/2021/02/Pricing-Washi/
 tags:
 category: econ
 ---
 
-A moment that I am not proud of is when I purchased a small package of white paper for fifty dollars. To put this in perspective, a five hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. Washi paper itself sells for under twenty on Amazon. I am someone with a well-earned reputation for buying only what I need and for taking great care to evaluate value on the basis of quality and price so this was way out of step for me. 
+One of my least graceful decisions of 2020 was purchasing a fifty-count package of white paper for fifty five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking great care to evaluate value on the basis of quality and price, this was way out of step for me. 
 
 But there I was exiting the store with a stupid grin on my face making my descent down the stairwell even waving goodbye to the store owner. It wasn't until I got home and my boyfriend picked up my receipt looking at me in pure astonishment when I realized, what had I done? Was there a drug lurking in the air the shop luring open my wallet while muting my brain? 
 
