@@ -7,7 +7,6 @@ tags:
 Excerpt: Commentary
 ---
 
-
 Ticketmaster made headlines over the past two weeks for mishandling ticket sales for an upcoming Taylor Swift tour but with all the griping, it was easy to lose sight of the main issues causing it. Each person I asked offered a different hypothesis of the issue tossing around phrases like *monopoly* and *high prices*. 
 
 Tickets went on sale on November 15th, and people all over the U.S. queued up to purchase but it turned out that demand was higher than Ticketmaster's systems could handle. As fans signed on and called in to wait on virtual queues behind thousands, the systems became overwhelmed. After waiting for hours, many people were confronted with error messages and subsequently kicked out of the system. 
