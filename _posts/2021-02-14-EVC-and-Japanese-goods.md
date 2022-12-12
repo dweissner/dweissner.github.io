@@ -6,14 +6,18 @@ tags:
 category: econ
 ---
 
-As I exited the store and began my descent down the stairwell, I waved at the salesperson with with a sense of pride. Step by step, I thought about that package of Japanese paper and carefully reviewed the insignificant life decision I had just made and by the fifth step, pride had dissipated into crushing guilt. What - have - I - done?
+A moment that I am not proud of is when I purchased a small package of white paper for fifty dollars. To put this in perspective, a five hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. Washi paper itself sells for under twenty on Amazon. I am someone with a well-earned reputation for buying only what I need and for taking great care to evaluate value on the basis of quality and price so this was way out of step for me. 
 
-I bought a pack of a paper for fifty dollars, and this was not Costco. I now am too ashamed to admit this. I am the type of person who chooses generic over brand wherever possible, and when shopping for services looks for areas in my neighborhood where the competition is high knowing I'll get the biggest bang for my buck there. 
+But there I was exiting the store with a stupid grin on my face making my descent down the stairwell even waving goodbye to the store owner. It wasn't until I got home and my boyfriend picked up my receipt looking at me in pure astonishment when I realized, what had I done? Was there a drug lurking in the air the shop luring open my wallet while muting my brain? 
 
-I picked up a pack of watercolors thinking I might give painting a try but remembering that I had no paper at home, I simply asked "would you possibly have any paper to go with this?" The quiet, seemingly shy store owner looked over at the corner where a single pack of paper stood on a white shelf appearing as though a light were shining over it. He said, we actually have "Washi" paper." It is hand woven and well-designed; it very high quality and hard to find. 
+The feeling in this shop was that of pure pleasure. The style was minimalism and every item, plate, bowl and lampshade seemed perfectly situated. Inspiration was at its peak when I spotted a display of watercolor paint with a brush packaged neatly in a woven box. This was during a covid lockdown in Tel Aviv and it was my first time in a store after several weeks. It was the right time to try my hand at painting so I brought it to the front where the shy store owner stood and realizing I had no paper, I asked if he had any. He gestured toward a table and said "we have hand-woven Washi." There stood a single pack of paper, a fine white light shining over it like it were the legendary Koh-I-Noor diamond itself. 
 
-Never have I valued a sheet of paper so highly as I did in that moment. Never have I thought for even a millisecond about the value of a sheet of paper until I stood in that store smiling at this shy man... tbc
+Never until this moment had I valued paper so highly. In this moment, all I wanted was this paper. Only handwoven paper for the princess who has never laid her finger on a paint brush in her life. 
 
+I'd like to better understand the factors that drove up my valuation for this paper in this moment: 
+* The store's design favorably influenced my mood, ripening it for inspiration. 
+* It was a complementary good to watercolors which I already decided to purchase 
+* Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
 ![](/images/washi-paper.jpg)
 
 ------
