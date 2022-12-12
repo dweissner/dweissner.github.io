@@ -1,7 +1,7 @@
 ---
 title: 'The Irony of Ticket Pricing'
 date: 2022-12-07
-permalink: /posts/2022/11/Ticketmaster_Debacle/
+permalink: /posts/2022/11/Ticket_Pricing/
 category: econ
 tags:
 Excerpt: Commentary
