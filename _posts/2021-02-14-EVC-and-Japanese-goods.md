@@ -18,6 +18,12 @@ I'd like to better understand the factors that drove up my valuation for this pa
 * The store's design favorably influenced my mood, ripening it for inspiration. 
 * It was a complementary good to watercolors which I already decided to purchase 
 * Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
+* Being told that the paper was "handwoven" gave the perception of high quality
+* Lastly, I was in a different country and that may have imparted uncertainty with regard to price level expectations
+
+tbc
+
+#### Japanese Washi Paper: 
 ![](/images/washi-paper.jpg)
 
 ------
