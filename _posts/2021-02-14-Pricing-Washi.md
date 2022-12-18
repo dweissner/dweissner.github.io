@@ -5,7 +5,7 @@ permalink: /posts/2021/02/Pricing-Washi/
 tags:
 category: econ
 ---
-<sub><sup>This is intended to be a casual pondering of consumer psychology through reflecting on my own experience.</sup></sub>
+<sub><sup>This is a casual exploration of consumer psychology through my own introspection, and the item itself is irrelevant insofar as it sheds light on my own bias. </sup></sub>
 
 One of my least graceful decisions of 2020 was purchasing a fifty-count package of white paper for seventy-five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking great care to evaluate value on the basis of quality and price, this was way out of step for me. 
 
