@@ -7,7 +7,7 @@ category: econ
 ---
 <sub><sup>This is a casual exploration of consumer psychology through my own introspection, and the item itself is irrelevant insofar as it sheds light on my own bias. </sup></sub>
 
-One of my least graceful decisions in 2020 was purchasing a fifty-count package of white paper for seventy-five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking great care to evaluate value on the basis of quality and price, this was way out of step for me. 
+One of my least graceful decisions in 2020 was purchasing a fifty-count package of white paper for seventy-five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. The same package of Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking great care to evaluate value on the basis of quality and price, this was way out of step for me. 
 
 But there I was exiting the store with a stupid grin on my face making my descent down the stairwell even waving goodbye to the store owner. It wasn't until I got home and my partner picked up my receipt and looked up at me in pure astonishment when I realized, what had I done? 
 
