@@ -5,7 +5,7 @@ permalink: /posts/2021/02/Pricing-EVC-Japanese/
 tags:
 category: econ
 ---
-
+test
 As I exited the store and began my descent down the stairwell, I waved at the salesperson with with a sense of pride. Step by step, I thought about that package of Japanese paper and carefully reviewed the insignificant life decision I had just made and by the fifth step, pride had dissipated into crushing guilt. What - have - I - done?
 
 I bought a pack of a paper for fifty dollars, and this was not Costco. I now am too ashamed to admit this. I am the type of person who chooses generic over brand wherever possible, and when shopping for services looks for areas in my neighborhood where the competition is high knowing I'll get the biggest bang for my buck there. 
