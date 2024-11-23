@@ -13,9 +13,6 @@ redirect_from:
 <sub>Photo taken on an early morning run along the East River in New York.
 
 
-Beware of falling debris!  
-------------------------------------------
-This site is under construction.
 
 
 Let's connect!
