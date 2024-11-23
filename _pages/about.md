@@ -10,8 +10,7 @@ redirect_from:
 
 
 ![](/images/sunset.png)
-<sub>Photo taken on an early morning run along the East River in New York.
-
+<sub>Photo taken on an early morning run along the East River in New York City.
 
 
 
