@@ -9,12 +9,11 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Posts" 
+  - title: "Econ" 
+    url: /year-archive-2/   
+    
+  - title: "Blog" 
     url: /year-archive/
-
-  - title: "Econ Matters" 
-    url: /year-archive-2/    
-
 
   - title: "Resume"
     url: /resume/
