@@ -5,7 +5,16 @@ permalink: /posts/2024/11/Pricing-Process/
 tags:
 category: econ
 ---
-It's tempting in the heat of a negotiation in which you have several dials to turn but one of those dials shines brighter than the others and seems to be in closest proximity. As the room gets hot with all the tension, you reach to turn the dial in the hopes of alleviating the pressure and reaching agreement but to your surprise, the other party turns away leaving you hanging with your offer. Whether you are selling a service or an antique wooden chest on Facebook Marketplace, the price you ask will be not only a number but a creator of perception of value. 
+It's tempting in the heat of a negotiation after you've made your first pitch and set the price but the party comes back and asks you to sharpen your pencils so now you have several dials to turn but one of those dials shines brighter than all the others. As the "room" gets increasingly hot with rising tension, you reach for the dial in the hopes of alleviating the pressure and hearing a resounding yes for reaching an agreement but to your surprise, the other party turns away leaving you hanging with your offer. 
+
+But was it because the price? The price may not be the lever in need of pulling at all. 
+I argue that it is often cognitive laziness which leads us into the pitfalls of believing it is. Often sellers go into a sales situation without undergoing the due diligence of analyzing the other side's value drivers and requirements. Then when the other side is frustrated by their proposition, they wiggle down the price in a brute force effort to fit the misshapen puzzle piece. 
+
+
+Whether you are selling a service or an antique wooden chest on Facebook Marketplace, the price is not merely a number but a stake whose value you should be prepared to defend. 
+
+
+A few months ago, I was hunting for a wooden chest to be both a statement piece and also a reading seat underneath my window on Facebook Marketplace.
 
 Pricing is not a lever to be pushed and pulled with eyes closed. Pricing requires  strategic design to align with value drivers and within the context of an ongoing relationship. Pricing does not refer merely to a set of numbers but can rather be thought of as a sort of pinball machine of cascading effects once the lever is pulled with the end customer's decision in that moment being just one of them. 
 
