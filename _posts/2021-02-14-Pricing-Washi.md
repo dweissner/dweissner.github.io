@@ -16,7 +16,9 @@ It wasn't until I got home and my partner picked up my receipt and looked up at 
 
 The feeling in this shop was of pure pleasure. The style was inspiringly minimalistic with item and lampshade perfectly situated. It was there I spotted a set of watercolor paints neatly packaged in a soft woven box. 
 
-This was my first time in any store after several weeks of lockdown due to Covid-19 when many people leaning into a myriad of new hobbies they could do at home from the fear of leaving the house and also that maybe this was the end. I picked up the paint box and brought it to the shy store owner at the front excitedly taking out my wallet. Quickly realizing I had no paper, I asked if he had that as well, and he gestured toward a table. 
+This was my first time in any store after several weeks of lockdown due to Covid-19 and actually all non-essential shops were still closed. This one was quietly opening its doors to those who dared to quietly ask. I needed to call ahead to make an appointment. I felt lucky to even reach someone. 
+
+At this time, many people were  leaning into a myriad of new hobbies at home for the dual fear of leaving the house and that maybe this was the end. I picked up the paint box and brought it to the shy store owner at the front excitedly taking out my wallet. Quickly realizing I had no paper, I asked if he had that as well, and he gestured toward a table. 
 
 There stood a single pack of paper, a fine white light shining over it like it were the legendary Koh-I-Noor diamond itself. 
 
@@ -25,18 +27,18 @@ There stood a single pack of paper, a fine white light shining over it like it w
 
 Never until this moment had I valued paper so highly. In this moment, all I wanted was this paper. Only handwoven paper for the princess who has never laid her finger on a paint brush in her life. 
 
-I'd like to better understand the factors that drove up my valuation, or lack thereof, in this moment. It was an impulsive decision to buy watercolors, after all. The paper was secondary.  
+Can consumer psychology help us better understand the factors that drove up my valuation, or lack of oversight, in this moment? It was an impulsive decision to buy watercolors, after all. The paper was secondary.  
  
-Likely influential factors: 
+Influential actors: 
 * The store's design favorably influenced my mood, ripening it for inspiration. 
 * It was a complementary good to watercolors which I already decided to purchase 
-* Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
+* Few stores were open during lockdown. Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
 * Being told that the paper was "handwoven" gave the perception of high quality
-* Lastly, I was in a different country and that may have imparted uncertainty with regard to price level expectations
+* Lastly, I was in a different country and that may have imparted uncertainty with regard to price level expectations.
 
 ------
 
-tbc
+to be continued...
 
 #### Japanese Washi Paper: 
 ![](/images/washi-paper.jpg)
