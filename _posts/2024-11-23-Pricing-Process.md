@@ -1,7 +1,7 @@
 ---
 title: 'Price as a default negotiation strategy is a dangerous game'
 date: 2024-11-23
-permalink: /posts/2024/11/Pricing-Process/
+permalink: /posts/2024/11/Pricing-dangerous/
 tags:
 category: econ
 ---
