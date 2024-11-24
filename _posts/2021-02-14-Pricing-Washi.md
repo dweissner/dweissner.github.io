@@ -1,5 +1,5 @@
 ---
-title: 'Washi Paper & an honest introspection of Consumer Psychology'
+title: 'Washi paper & an honest introspection on consumer psychology'
 date: 2021-02-14
 permalink: /posts/2021/02/Pricing-Washi/
 tags:
