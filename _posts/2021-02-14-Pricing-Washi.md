@@ -21,7 +21,7 @@ The feeling in this shop was of pure pleasure. The style was inspiringly minimal
 
 This was my first time in any store after several weeks of lockdown due to Covid-19 and actually all non-essential shops were still closed. This one was quietly opening its doors to those who dared to quietly ask. I needed to call ahead to make an appointment. I felt lucky to even reach someone. 
 
-At this time, many people were  leaning into a myriad of new hobbies at home for the dual fear of leaving the house and that maybe this was the end. I picked up the paint box and brought it to the shy store owner at the front excitedly taking out my wallet. Quickly realizing I had no paper, I asked if he had that as well, and he gestured toward a table. 
+At this time, people were leaning into a myriad of new hobbies at home for fear of leaving the house and also that maybe this was the end. Forbes reported that in 2020, Etsy, the virtual marketplace for handmade items, more than doubled its revenues. I picked up the paint box and brought it to the shy store owner at the front excitedly taking out my wallet. Quickly realizing I had no paper, I asked if he had that as well, and he gestured toward a table. 
 
 There stood a single pack of paper, a fine white light shining over it like it were the legendary Koh-I-Noor diamond itself. 
 
@@ -32,7 +32,7 @@ Never until this moment had I valued paper so highly. In this moment, all I want
 
 Can consumer psychology help us better understand the factors that drove up my valuation, or lack of oversight, in this moment? It was an impulsive decision to buy watercolors, after all. The paper was secondary.  
  
-Influential actors: 
+Influential factors: 
 * The store's design favorably influenced my mood, ripening it for inspiration. 
 * It was a complementary good to watercolors which I already decided to purchase 
 * Few stores were open during lockdown. Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
