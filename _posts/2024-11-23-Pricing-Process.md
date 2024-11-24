@@ -5,7 +5,7 @@ permalink: /posts/2024/11/Pricing-Process/
 tags:
 category: econ
 ---
-It's tempting in the heat of a negotiation in which you have several dials to turn but one of those dials shines brighter than the others and seems to be in closest proximity. As the room gets hot with all the tension, you reach to turn the dial in the hopes of alleviating the pressure and reaching agreement but to your surprise, the other party turn away leaving you hanging with your offer. Whether you are selling a service or an antique wooden chest on Facebook Marketplace, the price you ask will be not only a number but a perception of value. 
+It's tempting in the heat of a negotiation in which you have several dials to turn but one of those dials shines brighter than the others and seems to be in closest proximity. As the room gets hot with all the tension, you reach to turn the dial in the hopes of alleviating the pressure and reaching agreement but to your surprise, the other party turns away leaving you hanging with your offer. Whether you are selling a service or an antique wooden chest on Facebook Marketplace, the price you ask will be not only a number but a creator of perception of value. 
 
 Pricing is not a lever to be pushed and pulled with eyes closed. Pricing requires  strategic design to align with value drivers and within the context of an ongoing relationship. Pricing does not refer merely to a set of numbers but can rather be thought of as a sort of pinball machine of cascading effects once the lever is pulled with the end customer's decision in that moment being just one of them. 
 
