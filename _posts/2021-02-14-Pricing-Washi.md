@@ -5,7 +5,7 @@ permalink: /posts/2021/02/Pricing-Washi/
 tags:
 category: econ
 ---
-<sub>Note: This is a casual exploration of consumer psychology through my own introspection, and the item itself is irrelevant insofar as it sheds light on my own bias as a consumer. </sub>
+
 
 #### Japanese Washi Paper: 
 ![](/images/washi-paper.jpg)
