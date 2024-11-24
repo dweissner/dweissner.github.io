@@ -5,7 +5,7 @@ permalink: /posts/2024/11/Pricing-Process/
 tags:
 category: econ
 ---
-It's tempting in the heat of a negotiation after you've made your first pitch and set the price but the party comes back and asks you to sharpen your pencils so now you have several dials to turn but one of those dials shines brighter than all the others. As the "room" gets increasingly hot with rising tension, you reach for the dial in the hopes of alleviating the pressure and hearing a resounding yes for reaching an agreement but to your surprise, the other party turns away leaving you hanging with your offer. 
+It's tempting in the heat of a negotiation after you've made your first pitch and set the price but the party comes back and vaguely asks for more so now you have several dials to turn but one shines brighter than all the others. As the "room" gets hot with the rising tension, you reach for the dial in the hopes of alleviating the pressure and hearing a resounding yes for reaching an agreement but to your surprise, the other party turns away leaving you hanging with your offer. 
 
 But was it because the price? The price may not be the lever in need of pulling at all. 
 I argue that it is often cognitive laziness which leads us into the pitfalls of believing it is. Often sellers go into a sales situation without undergoing the due diligence of analyzing the other side's value drivers and requirements. Then when the other side is frustrated by their proposition, they wiggle down the price in a brute force effort to fit the misshapen puzzle piece. 
