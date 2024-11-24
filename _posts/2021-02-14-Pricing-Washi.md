@@ -7,8 +7,8 @@ category: econ
 ---
 
 
-#### Japanese Washi Paper: 
 ![](/images/washi-paper.jpg)
+<sub> Japanese Washi Paper
 
 One of my least graceful decisions in 2020 was at the height of the pandemic when I purchased a fifty-count package of white paper I needed for my impulse pet painting project at a whopping price of seventy-five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. The same package of Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking care to evaluate price on the basis of quality and value, this was out of step for me. 
 
