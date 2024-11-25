@@ -6,14 +6,13 @@ tags:
 category: econ
 ---
 
-One of my least graceful decisions in 2020 was at the height of the pandemic when I purchased a fifty-count package of white paper I needed for my impulse pet painting project at a whopping price of seventy-five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. The same package of Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking care to evaluate price on the basis of quality and value, this was out of step for me. 
+One of my less graceful decisions in 2020 was at the height of the pandemic when I purchased a fifty-count package of white paper I needed for my impulse pet painting project at a whopping price of seventy-five dollars. To put this in perspective, a five-hundred pack of white paper currently sells on Amazon, Target and Bestbuy for under ten dollars total. The same package of Washi paper itself sells for under twenty on Amazon. As someone with a well-earned reputation for buying only what I need and for taking care to evaluate price on the basis of quality and value, this was out of step for me. But there I was exiting the store with a stupid grin on my face descending down the stairwell while performing a royal wave of goodbyes toward the store owner.
+
 
 ![](/images/washi-paper.jpg)
 <sub> Japanese Washi Paper
 
 
-
-But there I was exiting the store with a stupid grin on my face descending down the stairwell while performing a royal wave of goodbyes toward the store owner.
 
 It wasn't until I got home and my partner picked up my receipt and looked up at me from the couch in pure astonishment that I realized an error had been made. I could not even give him an explanation when he asked me. Why did I not pay attention to the price? Was there a drug lurking in the air the shop impairing my thinking or a black whispering like that of Frodo's ring luring me to open my wallet? 
 
