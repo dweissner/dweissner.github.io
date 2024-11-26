@@ -14,10 +14,12 @@ Using price as a default strategy can be a dangerous game not just for the busin
 In addition to identifying value drivers other than price to negotiate on, there are other considerations to consider when considering a price decrease:
 ### How would sales targets need to change to attain the same profit levels? 
 With lower prices diminishing the contribution per unit sold (price - variable cost), how many more units need to be sold to reach the same profit level as that attained at the higher price level before the change? In other words lowering the price effectively should raise the sales target. Sales targets should be defined within a framework of price ranges to be meaningful. Sales targets should be redefined as contribution targets. If a service costs 50 dollars to produce each time then selling it at 100 dollars yields 50 dollars in profit but selling it at 75 dollars only yields 25 dollars. Therefore 25 percent off the sales price diminishes 50 percent of the profit. 
+
 ### How will lower prices impact demand? 
 Will enough people be enticed by the reduced prices for demand to rise sufficiently to meet higher sales targets? 
 * If demand is very elastic, then lowering prices may very well open the demand floodgates leading to higher profitability. 
 * If demand is not so elastic, then the contribution loss from lowered prices may outweigh any sales gain. 
+
 ### How might lower prices for a service affect its perceived value? 
 There is a perception effect in play when it comes to prices. Prices often signal quality so that customers often place more value on higher priced goods and services. Customers may assume the service entails a higher cost to produce. Lowering the price can signal just the opposite and that can lead to commoditization. This is especially true for services which are opaque and difficult to judge quality on. 
 
