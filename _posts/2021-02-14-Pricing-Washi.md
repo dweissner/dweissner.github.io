@@ -32,17 +32,23 @@ Never until this moment had I valued paper so highly. In this moment, all I want
 
 How can consumer psychology help us better understand the factors that drove up my valuation of paper, or lack of oversight, in this moment? It was an impulsive decision to buy watercolors, after all. The paper was secondary.  
  
-### Buying vs Shopping Experience 
-When I walked into the store, it did not feel like a store but more like an art gallery sans the snootiness. The store's design favorably influenced my mood, ripening it for inspiration. 
+### Retail Experience 
+The store felt like more of an art gallery than a store sans the snootiness. This favorably influenced my mood and stirred up inspiration. 
 
 
+### Complementary good
 * It was a complementary good to watercolors which I already decided to purchase 
-* Few stores were open during lockdown. Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
+
+
+### Scarcity 
+Few stores were open during lockdown. Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
+
 
 ### Anchoring 
-* Being told that the paper was "handwoven" gave the perception of high quality
+Being told that the paper was "handwoven" gave the perception of high quality
 
-* Lastly, I was in a different country and that may have imparted uncertainty with regard to price level expectations.
+### Ambiguity
+Lastly, I was in a different country and that may have imparted uncertainty with regard to price level expectations.
 
 ------
 
