@@ -37,7 +37,7 @@ The store felt like more of an art gallery than a store sans the snootiness. Thi
 
 
 ### Complementary good
-* It was a complementary good to watercolors which I already decided to purchase 
+It was a complementary good to watercolors which I already decided to purchase 
 
 
 ### Scarcity 
