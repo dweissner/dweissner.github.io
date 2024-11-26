@@ -18,8 +18,8 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Thesis"
-    url: /thesis/
+ # - title: "Thesis"
+ #   url: /thesis/
         
     
 #  - title: "CV"
