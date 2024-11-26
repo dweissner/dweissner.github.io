@@ -37,8 +37,7 @@ The store felt like more of an art gallery than a store sans the snootiness. Thi
 
 
 ### Complementary good
-It was a complementary good to watercolors which I already decided to purchase 
-
+It was a complementary good to watercolors which I already decided to purchase. If I went home without the paper, my loss would have included the watercolors even if I had still purchased them. Prospect theory terms, I would have felt a deeper pain from not being able to use my new paints than the pain of paying considerably more to have both the watercolors and paper. 
 
 ### Scarcity 
 Few stores were open during lockdown. Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
