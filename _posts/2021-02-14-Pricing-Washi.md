@@ -17,7 +17,7 @@ One of my less graceful decisions in 2020 was at the height of the pandemic when
 It wasn't until I got home and my partner picked up my receipt and looked up at me from the couch in pure astonishment that I realized an error had been made. I could not even give him an explanation when he asked me. Why did I not pay attention to the price? Was there a drug lurking in the air the shop impairing my thinking or a black whispering like that of Frodo's ring luring me to open my wallet? 
 
 
-The feeling in this shop was of pure pleasure. The style was inspiringly minimalistic with item and lampshade perfectly situated. It was there I spotted a set of watercolor paints neatly packaged in a soft woven box. 
+The feeling in the shop was pure pleasure. The style was inspiringly minimalistic and spaciously staged for slow pondering with every item, art and lampshade thoughtfully placed. It was there where I spotted a set of watercolors neatly packaged in a soft beige, woven box with Japanese lettering etched across the top. 
 
 This was my first time in any store after several weeks of lockdown due to Covid-19 and actually all non-essential shops were still closed. This one was quietly opening its doors to those who dared to quietly ask. I needed to call ahead to make an appointment. I felt lucky to even reach someone. 
 
@@ -30,13 +30,18 @@ There stood a single pack of paper, a fine white light shining over it like it w
 
 Never until this moment had I valued paper so highly. In this moment, all I wanted was this paper. Only handwoven paper for the princess who has never laid her finger on a paint brush in her life. 
 
-Can consumer psychology help us better understand the factors that drove up my valuation, or lack of oversight, in this moment? It was an impulsive decision to buy watercolors, after all. The paper was secondary.  
+How can consumer psychology help us better understand the factors that drove up my valuation of paper, or lack of oversight, in this moment? It was an impulsive decision to buy watercolors, after all. The paper was secondary.  
  
-Influential factors: 
-* The store's design favorably influenced my mood, ripening it for inspiration. 
+### Buying vs Shopping Experience 
+When I walked into the store, it did not feel like a store but more like an art gallery sans the snootiness. The store's design favorably influenced my mood, ripening it for inspiration. 
+
+
 * It was a complementary good to watercolors which I already decided to purchase 
 * Few stores were open during lockdown. Low supply due to covid lockdown restrictions may have pushed up my perception of actual price
+
+### Anchoring 
 * Being told that the paper was "handwoven" gave the perception of high quality
+
 * Lastly, I was in a different country and that may have imparted uncertainty with regard to price level expectations.
 
 ------
