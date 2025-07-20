@@ -4,6 +4,7 @@ date: 2019-06-08
 permalink: /posts/2020/06/blog-post-2/
 category: leisure
 tags:
+  - lifeandtravel
 Excerpt: Commentary
 ---
 
