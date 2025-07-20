@@ -12,8 +12,8 @@ main:
   - title: "Writing" 
     url: /year-archive-2/   
     
- # - title: "Blog" 
- #   url: /year-archive/
+  - title: "Blog" 
+    url: /year-archive/
 
   - title: "Resume"
     url: /resume/
