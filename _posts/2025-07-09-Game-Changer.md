@@ -5,7 +5,7 @@ permalink: /posts/2025/07/Pricing-Impact/
 tags:
 category: econ
 ---
-Lately, I've been contemplating how prices shape the world as we experience it. Prices affect us at an individualand macro level. They influence choices ranging from clothing, decisions to own (or not) car and frequency of routine purchases like a morning cup of coffee en route to work and haircuts.
+Lately, I've been contemplating how prices shape the world as we experience it. Prices affect us at an individual and macro level. They influence choices ranging from clothing, decisions to own (or not) car and frequency of routine purchases like a morning cup of coffee en route to work and haircuts.
 
 Over lunch in Williamsburg a few months ago friends were discussing the skyrocketing prices of haircuts since the pandemic when one of them, a high earning architect at a major firm, resolutely said, "I started cutting my own hair." A wave of silence floated over our table as we looked up in shock at our friend, a former model who grew up in the aesthetically conscious cities of Moscow and Berlin. She continued, "there are excellent YouTube videos online for it." 
 
