@@ -1,13 +1,13 @@
 ---
-title: 'How Pricing Impacts Our Lives on a Grand Scale'
+title: 'How Pricing Shapes Behavior on a Grander Scale'
 date: 2025-07-09
 permalink: /posts/2025/07/Pricing-Impact/
 tags:
 category: econ
 ---
-I have been contemplating how prices impact our lives and how they shape the world as we experience it. Prices affect us at an individual level but also at a macro level. They influence choices ranging from clothing, decisions to own (or not) car and frequency of routine purchases like a morning cup of coffee en route to work and haircuts.  
-
-Over lunch in Williamsburg a few months ago, a couple of high earning friends were discussing the skyrocketing prices of haircuts since the pandemic when one of them, a former model and ballerina who grew up in Moscow and Berlin, now an architect at a major firm in the city, resolutely said, "I started cutting my own hair." We all looked up at her in shock as she continued, "there are excellent YouTube videos online for it." I was struck at thinking about how prices have shot up so high that even high earning professionals are changing their behaviors and opting out of what was once considered routine self-care to have a haircut and are fully administering the care our actual selves. Surely, hair professionals never intended to price themselves out of relevance in the market and shape behavior in this way pricing. 
+Lately, I've been contemplating the impact of pricing and how prices shape the world as we experience it. Prices affect us at an individualand macro level. They influence choices ranging from clothing, decisions to own (or not) car and frequency of routine purchases like a morning cup of coffee en route to work and haircuts.
+Over lunch in Williamsburg a few months ago friends were discussing the skyrocketing prices of haircuts since the pandemic when one of them, a high earning architect at a major firm, resolutely said, "I started cutting my own hair." We all looked up in shock at our friend, a former model who grew up in the aesthetically conscious cities of Moscow and Berlin, as she continued, "there are excellent YouTube videos online for it." 
+I was struck that prices have shot up so much that even high earning professionals are changing their behaviors and opting out of what was once considered routine self-care to have a haircut and are fully administering the care our actual selves. Surely, hair professionals never intended to price themselves out of relevance in the market and shape behavior in this way pricing. 
 
 Pricing strategy looks beyond choosing prices to a wider range of decisions affecting design, the supply chain and operational structure. In  the introduction to "Game Changer," Jean-Manuel Izaret and Arnab Sinha points to the power of pricing strategy to reshape business, industry and society highlighting Ford's introduction of the Model T in the early 1900s as an example. 
 At a time when cars were a luxury for the few, Ford sought to change that by building a car "that even his own factory workers could afford." Doing that required a comprehensive pricing strategy which led to breakthroughs in design, manufacturing and labor management in the following ways:
