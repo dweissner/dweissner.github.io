@@ -9,10 +9,10 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Writing" 
+  - title: "Pricing" 
     url: /year-archive-2/   
     
-  - title: "Blog" 
+  - title: "Life&Travel" 
     url: /lifeandtravel/
 
   - title: "Resume"
