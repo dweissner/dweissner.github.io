@@ -10,7 +10,7 @@ main:
 #    url: /portfolio/
         
   - title: "Pricing" 
-    url: /year-archive-2/   
+    url: /pricing/
     
   - title: "Life&Travel" 
     url: /lifeandtravel/
