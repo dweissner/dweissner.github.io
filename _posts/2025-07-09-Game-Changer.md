@@ -1,35 +1,38 @@
 ---
-title: 'Price as a default negotiation strategy is a dangerous game'
-date: 2024-11-23
-permalink: /posts/2024/11/dangerous-pricing/
+title: 'How Pricing Impacts Our Lives on a Grand Scale'
+date: 2025-07-09
+permalink: /posts/2025/07/Pricing-Impact/
 tags:
 category: econ
 ---
-It's tempting in the heat of a negotiation after you've made your first pitch and set the price but the party comes back and vaguely asks for more so now you have several dials to turn but one shines brighter than all the others. As the "room" gets hot with  rising tension, you reach for the dial in the hopes of alleviating the pressure and hearing a resounding yes for reaching an agreement but to your surprise, the other party turns away leaving you hanging with your offer. 
+I have been contemplating how prices impact our lives and how they shape the world as we experience it. Prices affect us at an individual level but also at a macro level. They influence choices ranging from clothing, decisions to own (or not) car and frequency of routine purchases like a morning cup of coffee en route to work and haircuts.  
 
-But was it because of price? The price may not be the lever that needs pulling. I argue that it is cognitive laziness which often leads us into the pitfalls of believing it is. Often sellers go into a sales situation without undergoing the due diligence of analyzing the other side's value drivers and requirements. When the prospect rejects their proposition maybe because the competition has done the work and offered a more optimal solution, in a last ditch effort, they wiggle down the price in a brute force attempt to fit the misshapen piece into the puzzle. This might make sense in B2C situations like selling an overripe avocado or other static product, but most B2B situations are more complex with tailored solutions and contract terms, and thus more potential value drivers to align with price. Relationship building in B2B contexts can help identify those drivers so that when the time comes to set the ball of contracting in motion, more cards might be in play rather than just price. 
+Over lunch in Williamsburg a few months ago, a couple of high earning friends were discussing the skyrocketing prices of haircuts since the pandemic when one of them, a former model and ballerina who grew up in Moscow and Berlin, now an architect at a major firm in the city, resolutely said, "I started cutting my own hair." We all looked up at her in shock as she continued, "there are excellent YouTube videos online for it." I was struck at thinking about how prices have shot up so high that even high earning professionals are changing their behaviors and opting out of what was once considered routine self-care to have a haircut and are fully administering the care our actual selves. Surely, hair professionals never intended to price themselves out of relevance in the market and shape behavior in this way pricing. 
 
-Using price as a default strategy can be a dangerous game not just for the business but for the entire market. See it as a sort of pinball machine of cascading effects whereby once the lever is pulled, there is the end customer's decision in that moment but also reactions of competitors, any trickle effect to other customers, a reduction in contribution margin and the associated impact on the business's cost drivers which may conflict with the very value drivers of higher paying customers. That sounds like a cannibalistic downward spiral.
+Pricing strategy looks beyond choosing prices to a wider range of decisions affecting design, the supply chain and operational structure. In  the introduction to "Game Changer," Jean-Manuel Izaret and Arnab Sinha points to the power of pricing strategy to reshape business, industry and society highlighting Ford's introduction of the Model T in the early 1900s as an example. 
+At a time when cars were a luxury for the few, Ford sought to change that by building a car "that even his own factory workers could afford." Doing that required a comprehensive pricing strategy which led to breakthroughs in design, manufacturing and labor management in the following ways:
+* Design: the model T was standardized and only available in black. Ford is famous for saying that "any customer can have a car painted any color that he wants so long as it is black."
+* Manufacturing: overhauls in the modern assembly made mass production of cars more possible than ever. 
+* Labor Management: the $5 workday - a wage substantially above the prevailing standards of the time. Ford stated, “We believe in making 25,000 men prosperous and contented rather than follow the plan of making a few slave drivers in our establishment multi-millionaires” making it possible for factory workers themselves to buy Ford's cars.  
+From <https://corporate.ford.com/articles/history/moving-assembly-line.html> 
 
-In addition to identifying value drivers other than price to negotiate on, there are other considerations to consider when considering a price decrease:
-### How would sales targets need to change to attain the same profit levels? 
-With lower prices diminishing the contribution per unit sold (price - variable cost), how many more units need to be sold to reach the same profit level as that attained at the higher price level before the change? In other words lowering the price effectively should raise the sales target. Sales targets should be defined within a framework of price ranges to be meaningful. Sales targets should be redefined as contribution targets. If a service costs 50 dollars to produce each time then selling it at 100 dollars yields 50 dollars in profit but selling it at 75 dollars only yields 25 dollars. Therefore 25 percent off the sales price diminishes 50 percent of the profit. 
+In 1910 before the Model T, only X owned cars. The "Swiss Army Knife of automobiles" changed the landscape of car ownership and in 1925 1 in 5 Americans were car owners. 
 
-### How will lower prices impact demand? 
-Will enough people be enticed by reduced prices for demand to rise sufficiently to meet the higher sales targets? 
-* If demand is very elastic, then lowering prices may very well open the demand floodgates leading to higher profitability. 
-* If demand is not so elastic, then the contribution loss from lowered prices may outweigh any sales gain. 
+Ford not only set out to capture market share but to expand the size of the market and to do it drastically.
 
-### How might lower prices for a service affect its perceived value? 
-There is a perception effect in play when it comes to prices. Prices often signal quality so that customers often place more value on higher priced goods and services. Customers may assume the service entails a higher cost to produce. Lowering the price can signal just the opposite and that can lead to commoditization. This is especially true for services which are opaque and difficult to judge quality on. 
-
-### How will lower prices affect demand for other products in the line? 
-Will it cannibalize sales for products that command far higher contribution margins and thus eat away  at profits? The product at the higher price might have been offered as a bundle with a different product and lowering the price might also affect whether customers purchase the item vs the bundle. 
-
-
-### How will competitors react to lower prices? 
-Lowering prices can lead to effects that cascade across the market, and that can lead to a price war, resulting in a downward spiral of prices, and ultimately the destruction of value as competitors seeking cost cutting measures and further quality detetioration.
+So many other major examples of this from recent memory include the dissemination of laptops and smartphones, first in the hands of the rich few to becoming necessities. The path that products take from being luxury symbols to becoming necessities seems to require overhauls of the business infrastructures developing them with the end result seeming as simple as a lower price. 
 
 
 
-A pin ball machine, no? 
+
+
+So when does has this happened in reverse? Haircut prices have skyrocketed above 27% from 2019 to 2024. Additionally, services that were previously free of charge now come at a cost to consumers like a shampoo and blow-dry.  This is shaping American behavior in the following ways: 
+* Women are now washing their own hair before hair appointments
+* Skipping a blow-dry after their cut
+* Reducing frequency of cuts and color services
+
+And as my friend above shared, some are even taking a stab at the art of cutting and coloring their own hair. 
+
+### Resources:
+* https://www.wsj.com/lifestyle/hair-salons-rising-prices-9d499b41?gaa_at=eafs&gaa_n=ASWzDAgv4dUYIMoITh0_qOiUNvXMj4F2GSTowix1KkUteQ8Ef3galRc26MT4&gaa_sig=JNnlkhdA_lXEx8hOW5oQdFY4NZBzuDPcpwU27Bg4rzVBpOI340cYANq32CWDphWUQqLmbU3MSuyu5liqdz8ulw%3D%3D&gaa_ts=687c28e9&utm_source=chatgpt.com
+* https://corporate.ford.com/articles/history/moving-assembly-line.html
