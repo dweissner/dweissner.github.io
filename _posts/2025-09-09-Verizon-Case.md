@@ -1,10 +1,11 @@
 ---
-title: 'How Share Everything changed everything about how communication is monetized'
+title: 'How Share Everything changed everything'
 date: 2025-09-09
 permalink: /posts/2025/09/Pricing-Impact/
 tags:
 category: econ
 ---
+
 Major changes in communication technology happened over the decade starting around 2005 that boosted speeds of data transfer and set in motion forces which altered how we communicate. An orchestration of innovation lends to this symphony of change with the introduction of smartphones and the iPhone's release in 2007, the advancement of LTE technology boosting internet data transfer and changes to how we contract and pay for these services which is the focus of this paper. 
 
 Verizon’s former pricing model focused monetization heavily on voice minutes and text messages but included options for data. A bucket of minutes was purchased and shared between lines on a plan. For smartphones, data was purchased for each device separately. Tablets could be connected to the internet through Verizon as well but not through the same plan. Instead separate agreements for created for each device with a range of data and price tiers to choose from thereby competing with the glorious ease of a WiFi-connection.  
@@ -19,5 +20,5 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 
 
 For consumers the savings is huge. 
-For cellular service providers, Verizon paved a new path to monetizing our growing reliance on data as web-based forms of communication became ever more ubiquitous. Savings and greater ease induced more consumers to switch to smartphones and tablets for the first time and then with network effects and growing speeds of communication, this led to even high volumes of data usage - which had now become Verizon's core service by reshaping how their service is monetized. Adding tablets to a family plan made connecting to the internet far easier. By adding tablets onto established shared plans for $10 per month, Verizon eliminated the extra hurdle of having to navigate separate tablet pricing and establishing a new agreement as well as sales costs as mentioned on a Verizon shareholder call introducing the new plan. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
+For cellular service providers, Verizon paved a new path to monetizing our growing reliance on data as web-based forms of communication became ever more ubiquitous. Savings and greater ease induced more consumers to switch to smartphones and tablets for the first time and then with network effects and growing speeds of communication, this led to even high volumes of data usage - which had now become Verizon's core service by reshaping how their service is monetized. Adding tablets to a family plan made connecting to the internet far easier. By adding tablets onto established shared plans for |$10 per month, Verizon eliminated the extra hurdle of having to navigate separate tablet pricing and establishing a new agreement as well as sales costs as mentioned on a Verizon shareholder call introducing the new plan. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
 ![Verizon Share Everything Pricing Comparison](/images/VerizonCase/chart2.png)
