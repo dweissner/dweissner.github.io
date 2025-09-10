@@ -17,6 +17,7 @@ For Verizon the ease of connecting more devices to the family plan also led to a
 Furthermore, the new structure facilitates more differentiation on data usage.  To  illustrate, a Family Nationwide Share Talk and Text Plan with four smartphones had a base price of \\$250, and if three members of the family use only 1GB of data and another has more intensive usage of 3GB every month, then for each individual data would cost $30 entitling them to unlimited data for a total data cost of \\$120. That's a total cost of \\$370 for the plan under Nationwide. 
 
 For a family that only requires 6GB of data, Share Everything changes that equation with a family plan base cost of \\$160 for the four devices, and then instead of purchasing data for each device, 6GB of data is added to the plan for \\$80 dollars and that 6GB is shared by all four devices resulting in a total of \\$240. See chart below. 
+![Verizon Share Everything Pricing Comparison](/images/verizoncase/verizonsharechange.png)
 
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
