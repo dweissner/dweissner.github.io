@@ -18,7 +18,7 @@ Furthermore, the new structure facilitates more differentiation on data usage.  
 
 For a family that only requires 6GB of data, Share Everything changes that equation with a family plan base cost of \\$160 for the four devices, and then instead of purchasing data for each device, 6GB of data is added to the plan for \\$80 dollars and that 6GB is shared by all four devices resulting in a total of \\$240. See chart below. 
 ![Verizon Share Everything Pricing Comparison](/images/verizoncase/verizonsharechange.png)
-![Verizon Share Everything Pricing Comparison](/images/.verizonsharechange.png)
+![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
 
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
