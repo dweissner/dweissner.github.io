@@ -6,7 +6,7 @@ tags:
 category: econ
 ---
 
-Major changes in communication technology happened over the decade starting around 2005 that boosted speeds of data transfer and set in motion forces which altered how we communicate. An orchestration of innovation lends to this symphony of change with the introduction of smartphones and the iPhone's release in 2007, the advancement of LTE technology boosting internet data transfer and changes to how we contract and pay for these services which is the focus of this essay. 
+Major changes in communication technology happened over the decade  2005-2015 that boosted speeds of data transfer and set in motion forces that altered how we communicate. An orchestration of innovation lends to this symphony of change with the introduction of smartphones and the iPhone's release in 2007, the advancement of LTE technology boosting internet data transfer and changes to how we contract and pay for these services which is the focus of this essay. 
 
 Verizon’s former pricing model focused monetization  on voice minutes and text messages and included options for data. A bucket of minutes was purchased and shared between lines on a plan. For smartphones, data was purchased for each device separately. Tablets could be connected to the internet through Verizon as well but not through the same plan. Instead separate agreements were created for each device with a range of data and price tiers to choose from thereby competing with the glorious ease of a WiFi-connection.  
 
