@@ -18,7 +18,7 @@ The ease of connecting more devices induced customers to connect their tablets a
 
 Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
 
-For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back this data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240. See right side of chart 1 below. 
+For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back this data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240, \\$130 less than under Nationwide, a substantial savings for consumers. See right side of chart 1 below. 
 
 #### Chart 1: Nationwide vs Share Everything Price Structure: for a Family of Four with mixed data usage.
 ![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
@@ -27,6 +27,7 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
 
-For consumers the savings is huge. 
+
+
 For cellular service providers, Verizon paved a new path to monetizing our growing reliance on data as web-based forms of communication became ever more ubiquitous. Savings and greater ease induced more consumers to switch to smartphones and tablets for the first time and then with network effects and growing speeds of communication, this led to even high volumes of data usage - which had now become Verizon's core service by reshaping how their service is monetized. Adding tablets to a family plan made connecting to the internet far easier. By adding tablets onto established shared plans for \\$10 per month, Verizon eliminated the extra hurdle of having to navigate separate tablet pricing and establishing a new agreement as well as sales costs as mentioned on a Verizon shareholder call introducing the new plan. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
 ![Verizon Share Everything Pricing Comparison](/images/chart2.png)
