@@ -23,7 +23,7 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 #### Chart 1: Nationwide vs Share Everything Price Structure: for a Family of Four with mixed data usage.
 ![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
 
-
+#### Chart 2: Bar chart of voice/text vs data share of plan cost for family of four that uses only 6GB of data.
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
 
