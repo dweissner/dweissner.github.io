@@ -16,11 +16,12 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 
 The ease of connecting more devices induced customers to connect their tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. Each additional device incrased average revenue per user (ARPU) while raising switching costs for families. The more devices and individuals under a household's plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. 
 
-Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250. If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package coming to a total data cost of \\$120 and the total plan cost of \\$370 under Nationwide. 
+Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250. If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for $30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See chart 1 below. 
 
 For a family that only requires 6GB of data, Share Everything changes the equation with a family plan base cost of \\$160 for the four devices, and instead of purchasing data for each device, 6GB of data is added to the plan for \\$80 dollars and that 6GB is shared by all four devices resulting in a total of \\$240. See chart below. 
-
+## Nationwide vs Share Everything Cost Structure:
 ![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
+#### chart 1: Nationwide vs Share Everything Price Structure for a Family of Four with mixed data usage.
 
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
