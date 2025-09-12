@@ -16,9 +16,9 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 
 The ease of connecting more devices induced customers to connect their tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. Each additional device incrased average revenue per user (ARPU) while raising switching costs for families. The more devices and individuals under a household's plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. 
 
-Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Share Talk and Text Plan with four smartphones had a base price of \\$250, and if three members of the family use only 1GB of data and another has more intensive usage of 3GB every month, then for each individual data would cost $30 entitling them to unlimited data for a total data cost of \\$120. That's a total cost of \\$370 for the plan under Nationwide. 
+Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250. If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package coming to a total data cost of \\$120 and the total plan cost of \\$370 under Nationwide. 
 
-For a family that only requires 6GB of data, Share Everything changes that equation with a family plan base cost of \\$160 for the four devices, and then instead of purchasing data for each device, 6GB of data is added to the plan for \\$80 dollars and that 6GB is shared by all four devices resulting in a total of \\$240. See chart below. 
+For a family that only requires 6GB of data, Share Everything changes the equation with a family plan base cost of \\$160 for the four devices, and instead of purchasing data for each device, 6GB of data is added to the plan for \\$80 dollars and that 6GB is shared by all four devices resulting in a total of \\$240. See chart below. 
 
 ![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
 
