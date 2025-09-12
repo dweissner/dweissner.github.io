@@ -1,7 +1,7 @@
 ---
-title: 'How Share Everything changed everything'
+title: 'Verizon Case Study: How Share Everything changed everything'
 date: 2025-09-09
-permalink: /posts/2025/09/Pricing-Impact/
+permalink: /posts/2025/09/Verizon-Case-Study/
 tags:
 category: econ
 ---
