@@ -40,3 +40,6 @@ For cellular service providers, Verizon paved a new path to monetizing our growi
 
 Adding tablets to a family plan made connecting to the internet far easier. By adding tablets onto established shared plans for \\$10 per month, Verizon eliminated the extra hurdle of having to navigate separate tablet pricing and establishing a new agreement as well as sales costs as mentioned on a Verizon shareholder call introducing the new plan. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
 ![Verizon Share Everything Pricing Comparison](/images/chart2.png)
+
+
+## Key Takeaways
