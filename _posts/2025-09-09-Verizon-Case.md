@@ -23,19 +23,12 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 #### Chart 1: Nationwide vs Share Everything Price Structure: for a Family of Four with mixed data usage.
 ![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
 
-<br>
-<img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto;"> 
->>Differentiating price on the amount of data and giving consumers the ability to pool data allows a family of four who previously spent \\$120 (\\$30 per smartphone) on data with Nationwide to spend only $80 under Share Everything. 
-
-<blockquote>
-  <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; display: inline-block; vertical-align: middle; margin-right: 10px;"> Differentiating price on the amount of data and giving consumers the ability to pool data allows a family of four who previously spent $120 ($30 per smartphone) on data with Nationwide to spend only $80 under Share Everything.
-</blockquote>
 
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">Differentiating price on the amount of data and giving consumers the ability to pool data allows a family of four who previously spent $120 ($30 per smartphone) on data with Nationwide to spend only $80 under Share Everything.</p>
+      <p style="margin: 0;"Differentiating price on the amount of data and giving consumers the ability to pool data allows a family of four who previously spent $120 ($30 per smartphone) on data with Nationwide to spend only $80 under Share Everything.</p>
     </div>
   </div>
 </blockquote>
