@@ -35,7 +35,7 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 #### Chart 2: Bar chart illustrates cost savings breakdown across voice, text and data as shares of plan cost for a family of four that uses only 6GB of data.
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
-
+### A New Windfall for Cellular Service Providers
 For cellular service providers, Verizon paved a new path to monetizing our growing reliance on data as web-based forms of communication became ever more ubiquitous. Savings and greater ease induced more consumers to buy smartphones and  tablets. Network effects along with growing speeds of communication led to even higher volumes of data usage as new forms of social media and other forms of communication   expanded. This shifted Verizon's core service offering  from voice and text to data usage in concert with reshaping how these services are monetized. 
 
 Adding tablets to a family plan made connecting to the internet far easier. By adding tablets onto established shared plans for \\$10 per month, Verizon eliminated the extra hurdle of having to navigate separate tablet pricing and establishing a new agreement as well as sales costs as mentioned on a Verizon shareholder call introducing the new plan. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
