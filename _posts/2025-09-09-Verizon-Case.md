@@ -21,9 +21,12 @@ The ease of connecting more devices induced customers to connect more smartphone
 
 More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. Group plans are structured so that margin is traded for massive reductions in churn. 
 
-<img src="/images/whatsinitforme.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
+<img src="/images/whatsinitforme.png" alt="magnify" style="width: 500px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
-For consumers, the new structure facilitated differentiation on data usage. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to generate a windfall in savings. 
+For consumers, the new pricing structure facilitated optimization on actual data use. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to generate a windfall in savings. 
+
+Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize that especially as voice and text utilization was on the decline.  
+
 
 To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
 
