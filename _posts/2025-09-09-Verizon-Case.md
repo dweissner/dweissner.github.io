@@ -46,14 +46,18 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 
 
 Not everyone would benefit from new price structure. For example, an individual that used a high amount of data but minimally used voice and text, could end up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan that had an unlimited data package. 
+
+An individual using 3GB of monthly data on an Individual Nationwide Talk and Text paid $60 for 450 voice minutes and unlimited domestic texting and $30 for unlimited data thus totaling $90. 
+This produces a $20 savings over the $40 device fee + $70 3GB of data, a total of $110.  See diagram below. 
+
+
 ![Verizon Share Everything Loss](/images/VerizonShareEverythingLoss.png)
 
 
 
-
-### Realignment with revenue drivers
+### Realignment with key revenue drivers
 For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based forms of communication became ever more ubiquitous. 
-Before Share Everything, Verizon's price structure was out of alignment with the direction communication was taking as data-reliant forms were replacing traditional voice and text.  With tiered pricing for voice and text and a very low price set for unlimited data, Verizon was unable to capture the shift as revenues decreased from falling demand for voice and text.  at a time when people were shifting away from voice calls and text and toward services that rely on data. Under this structure, revenues from voice calls and text would decrease as revenues from data utilization would stagnate given the $30 for unlimited data.  
+Before Share Everything, Verizon's price structure was falling further out of alignment with the direction communication was taking as data-reliant forms were replacing traditional voice and text.  With tiered pricing for voice and text and a very low price set for unlimited data, Verizon was unable to capture the shift as revenues decreased from falling demand for voice and text.  at a time when people were shifting away from voice calls and text and toward services that rely on data. Under this structure, revenues from voice calls and text would decrease as revenues from data utilization would stagnate given the $30 for unlimited data.  
 
 Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize the soaring data usage especially as voice and text utilization was on the decline.  
 
