@@ -21,7 +21,7 @@ The ease of connecting more devices induced customers to connect more smartphone
 
 More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. Group plans are structured so that margin is traded for massive reductions in churn. 
 
-<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 500px; height: auto; flex-shrink: 0;">
+<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 1000px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
 For consumers, the new pricing structure facilitated optimization on actual data use. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to generate a windfall in savings. 
 
