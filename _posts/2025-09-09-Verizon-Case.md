@@ -25,9 +25,6 @@ More devices on a plan also raises switching costs. The more devices and individ
 ### What's in it for me? 
 For consumers, the new pricing structure facilitated optimization on actual data use. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to generate a windfall in savings. 
 
-Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize that especially as voice and text utilization was on the decline.  
-
-
 To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
 
 For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back this data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240, \\$130 less than under Nationwide, a substantial savings for consumers. See right side of chart 1 below. 
@@ -48,7 +45,12 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
 
-Not everyone would benefit from new price structure. For example, a family that used a high amount of data but voice and text more minimally, could end up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan that had an unlimited data package. 
+Not everyone would benefit from new price structure. For example, an individual that used a high amount of data but minimally used voice and text, could end up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan that had an unlimited data package. 
+![Verizon Share Everything Pricing Comparison](/images/verizonshareeverythingloss.png)
+
+
+Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize that especially as voice and text utilization was on the decline.  
+
 
 Verizon rolled out the new plan at the time when consumers were switching from 3G networks to faster LTE networks which enabled them to tie the switch to shared data plans with the upgrade to better 4G LTE networks. The 4G LTE network was a remarkable improvement over 3G especially for speed and broadcasting video.  
 
