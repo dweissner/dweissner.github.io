@@ -19,9 +19,10 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 #### “The greatest subscription retention product in history is The Family Plan,” - Brian Norgard, former Chief Product Officer at Tinder
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. 
 
-More devices on a plan also raises the switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. Group plans are structured so that margin is traded for massive reductions in churn. 
+More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. Group plans are structured so that margin is traded for massive reductions in churn. 
 
-
+<img src="/images/whatsinitforme.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
+### What's in it for me? 
 Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
 
 For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back this data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240, \\$130 less than under Nationwide, a substantial savings for consumers. See right side of chart 1 below. 
@@ -67,3 +68,4 @@ Adding tablets to a family plan made connecting to the internet far easier. By a
 
 ## Resources
 "https://startupspells.com/p/family-plans-saas-retention-churn-reduction"
+Images generated using MS Publisher, MS Excel & ChatGPT 5. 
