@@ -15,7 +15,7 @@ Verizon’s earlier pricing model monetized primarily through voice minutes and 
 The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that by streamlining how we contract for cellular services. It replaced device-by-device pricing with a single, shared data pool - an overhaul that made multi-device connectivity far simpler. Verizon also moved beyond smartphones to allowing other internet-enabled devices like tablets and laptops to enroll in the same family plan as smartphone devices and also share in the data pool. By no longer requiring separate agreements for each device, the complexity of connecting new devices to the internet is greatly reduced. 
 
 
-### More Devices, More Sticky
+### Families that Telekom Together, Stick Together 
 #### “The greatest subscription retention product in history is The Family Plan,” - Brian Norgard, former Chief Product Officer at Tinder
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. 
 
