@@ -16,6 +16,7 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 
 
 ### Families that Telekom Together, Stick Together 
+### More Devices, More Sticky
 #### “The greatest subscription retention product in history is The Family Plan,” - Brian Norgard, former Chief Product Officer at Tinder
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. 
 
