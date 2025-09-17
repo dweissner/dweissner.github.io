@@ -47,8 +47,8 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 
 Not everyone would benefit from new price structure. For example, an individual that used a high amount of data but minimally used voice and text, could end up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan that had an unlimited data package. 
 
-An individual using 3GB of monthly data on an Individual Nationwide Talk and Text paid $60 for 450 voice minutes and unlimited domestic texting and $30 for unlimited data thus totaling $90. 
-This produces a $20 savings over the $40 device fee + $70 3GB of data, a total of $110.  See diagram below. 
+An individual using 3GB of monthly data on an Individual Nationwide Talk and Text paid \\$60 for 450 voice minutes and unlimited domestic texting and \\$30 for unlimited data thus totaling \\$90. 
+This produces a \\$20 savings over the \\$40 device fee + \\$70 3GB of data, a total of \\$110.  See diagram below. 
 
 
 ![Verizon Share Everything Loss](/images/VerizonShareEverythingLoss.png)
@@ -64,7 +64,7 @@ Doing away with unlimited data plans and increasing price differentiation on dat
 
 Verizon rolled out the new plan at a time when consumers were switching from 3G networks to faster LTE networks which enabled them to tie the switch to shared data plans with the upgrade to better 4G LTE networks. The 4G LTE network was a remarkable improvement over 3G especially for speed and broadcasting video.  
 
-S
+
 Savings and greater ease induced more consumers to buy smartphones and  tablets. Network effects along with growing speeds of communication led to even more data consumption as new forms of social media and other forms of communication expanded.
 
 And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
