@@ -21,7 +21,7 @@ The ease of connecting more devices induced customers to connect more smartphone
 
 More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. Group plans are structured so that margin is traded for massive reductions in churn. 
 
-<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 1000px; height: auto; flex-shrink: 0;">
+<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 800px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
 For consumers, the new pricing structure facilitated optimization on actual data use. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to generate a windfall in savings. 
 
@@ -49,17 +49,18 @@ Not everyone would benefit from new price structure. For example, an individual 
 ![Verizon Share Everything Pricing Comparison](/images/verizonshareeverythingloss.png)
 
 
-Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize that especially as voice and text utilization was on the decline.  
-
-
-Verizon rolled out the new plan at the time when consumers were switching from 3G networks to faster LTE networks which enabled them to tie the switch to shared data plans with the upgrade to better 4G LTE networks. The 4G LTE network was a remarkable improvement over 3G especially for speed and broadcasting video.  
 
 
 ### Realignment with revenue drivers
 For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based forms of communication became ever more ubiquitous. 
 Before Share Everything, Verizon's price structure was out of alignment with the direction communication was taking as data-reliant forms were replacing traditional voice and text.  With tiered pricing for voice and text and a very low price set for unlimited data, Verizon was unable to capture the shift as revenues decreased from falling demand for voice and text.  at a time when people were shifting away from voice calls and text and toward services that rely on data. Under this structure, revenues from voice calls and text would decrease as revenues from data utilization would stagnate given the $30 for unlimited data.  
 
+Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize the soaring data usage especially as voice and text utilization was on the decline.  
 
+
+Verizon rolled out the new plan at a time when consumers were switching from 3G networks to faster LTE networks which enabled them to tie the switch to shared data plans with the upgrade to better 4G LTE networks. The 4G LTE network was a remarkable improvement over 3G especially for speed and broadcasting video.  
+
+S
 Savings and greater ease induced more consumers to buy smartphones and  tablets. Network effects along with growing speeds of communication led to even more data consumption as new forms of social media and other forms of communication expanded.
 
 And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
