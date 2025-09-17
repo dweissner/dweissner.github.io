@@ -46,7 +46,7 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 
 
 Not everyone would benefit from new price structure. For example, an individual that used a high amount of data but minimally used voice and text, could end up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan that had an unlimited data package. 
-![Verizon Share Everything Pricing Comparison](/images/verizonshareeverythingloss.png)
+![Verizon Share Everything Loss](/images/VerizonShareEverythingLoss.png)
 
 
 
