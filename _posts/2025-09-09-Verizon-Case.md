@@ -23,7 +23,9 @@ More devices on a plan also raises switching costs. The more devices and individ
 
 <img src="/images/whatsinitforme.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
-Furthermore, the new structure facilitated more differentiation on data usage.  To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
+For consumers, the new structure facilitated differentiation on data usage. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to yield a windfall in savings. 
+
+To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
 
 For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back this data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240, \\$130 less than under Nationwide, a substantial savings for consumers. See right side of chart 1 below. 
 
