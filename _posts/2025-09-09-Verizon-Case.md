@@ -71,20 +71,13 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” </p>
+      <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” 
+      </br>
+      “...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.</p>
     </div>
   </div>
 </blockquote>
 
-
-<blockquote>
-  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
-    <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
-    <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.</p>
-    </div>
-  </div>
-</blockquote>
 
 
 
