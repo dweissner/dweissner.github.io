@@ -16,7 +16,6 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 
 
 ### Families that Telekom Together, Stick Together 
-### More Devices, More Sticky
 #### “The greatest subscription retention product in history is The Family Plan,” - Brian Norgard, former Chief Product Officer at Tinder
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. 
 
@@ -57,12 +56,21 @@ This produces a \\$20 savings over the \\$40 device fee + \\$70 3GB of data, a t
 
 
 ### Realignment with key revenue drivers
-For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based forms of communication became ever more ubiquitous. Verizon's previous price structure had fallen out of alignment with emerging trends. While voice and text revenues previously ratcheted up the bulk of revenues for telecoms, declining utilization were leading consumers to lower price tiers. With the \\$30 price tag for unlimited data under Nationwide, Verizon had unwisely capped its own revenues at a time when the sands were shifting and IOT was continuing to give new forms to communication and knowledge sharing. Verizon could not effectively capture the shift toward data utilization as revenues declined from falling demand for voice and text. 
+For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based forms of communication became ever more ubiquitous. Verizon's previous price structure had fallen out of alignment with these emerging trends. 
+
+Verizon rolled out the new plan at the time when consumers were switching from 3G networks to faster LTE networks so that they could tie the switch to shared data plans with the major upgrade. 
+4G LTE (stands for long-term evolution) introduced a different network architecture called packet-switching which was different from the circuits previously used for voice and data transmission and this improved bandwidth for enhanced video and network capacity to support more connected devices. LTE also reduced latency which boosted response times for real-time applications like games and internet connected household-appliances. The incentive to ditch the old pricing and switch to 4G was well founded to leap into the expanding Internet of Things. 
+
+Verizon also made subsidized phone upgrades available only to customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
+
+
+
+
+While voice and text revenues previously ratcheted up the bulk of revenues for telecoms, declining utilization were leading consumers to lower price tiers. With the \\$30 price tag for unlimited data under Nationwide, Verizon had unwisely capped its own revenues at a time when the sands were shifting and IOT was continuing to give new forms to communication and knowledge sharing. Verizon could not effectively capture the shift toward data utilization as revenues declined from falling demand for voice and text. 
 
 Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize soaring data usage.  
 
 
-Verizon rolled out the new plan at a time when consumers were switching from 3G networks to faster LTE networks. This created an opportunity for Verizon to tie the switch to shared data plans with the upgrade to better 4G LTE networks. The 4G LTE network was a remarkable improvement over 3G especially for speed and broadcasting video.  
 
 
 Savings and greater ease induced more consumers to buy smartphones and  tablets. Network effects along with growing speeds of communication led to even more data consumption as new forms of social media and other forms of communication expanded.
