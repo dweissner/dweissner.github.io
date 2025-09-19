@@ -81,12 +81,12 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” </p>
+      <p style="margin: 0;">“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.</p>
     </div>
   </div>
 </blockquote>
 
-said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.
+
 
 
 While voice and text revenues previously ratcheted up the bulk of revenues for telecoms, declining utilization were leading consumers to lower price tiers. With the \\$30 price tag for unlimited data under Nationwide, Verizon had unwisely capped its own revenues at a time when the sands were shifting and IOT was continuing to give new forms to communication and knowledge sharing. Verizon could not effectively capture the shift toward data utilization as revenues declined from falling demand for voice and text. 
