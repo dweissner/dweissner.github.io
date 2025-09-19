@@ -64,13 +64,27 @@ Verizon rolled out the new plan at the time when consumers were switching from 3
 Verizon also made subsidized phone upgrades available only to customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
 
 
-Better aligned price with value 
 For telecoms, the shift to 4G LTE, a tiered price structure for data and making that shareable across multiple devices effectively turned data into a revenue driver. Faster data transmission and quality video provided by 4G and the ease of adding devices to surf from on facilitated a feedback loop of increasingly higher data utilization. 
 
 
-"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” 
+<blockquote>
+  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+    <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
+    <div style="flex: 1; min-width: 200px;">
+      <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” </p>
+    </div>
+  </div>
+</blockquote>
 
-“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,”
+
+<blockquote>
+  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+    <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
+    <div style="flex: 1; min-width: 200px;">
+      <p style="margin: 0;">“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” </p>
+    </div>
+  </div>
+</blockquote>
 
 said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.
 
