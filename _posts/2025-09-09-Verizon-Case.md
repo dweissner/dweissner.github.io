@@ -19,15 +19,15 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 #### “The greatest subscription retention product in history is The Family Plan,” - Brian Norgard, former Chief Product Officer at Tinder
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and increased overall market share. 
 
-More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. Group plans are structured so that margin is traded for massive reductions in churn. 
+More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. This gave Verizon greater traction and price stickiness in the market for family plans. It is in this way group plans are structured so that margin is traded for massive reductions in churn. 
 
 <img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 800px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
-For consumers, the new pricing structure facilitated optimization on actual data use. For consumers who relied heavily on voice and text but used data sparingly, this had the potential to generate a windfall in savings. 
+For consumers, the new pricing structure allowed them to optimize data use and generate a windfall in savings especially if they relied heavily on voice and text but used data sparingly. 
 
-To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they each would each need to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
+To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they would each have needed to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
 
-For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back this data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240, \\$130 less than under Nationwide, a substantial savings for consumers. See right side of chart 1 below. 
+For a family that only requires 6GB of data, Share Everything changes that equation by allowing the family to scale back their data allotment to exactly the amount they need (6GB) in this case. Under Share Everything, each smartphone device pays an enrollment fee of $40 for unlimited voice and text for a base cost under the family plan of \\$160 for all four devices, and instead of purchasing a data package for each device, 6GB of data is purchased for the entire plan for \\$80 dollars and is shared by all four devices. This amounts to a total plan cost of \\$240, \\$130 less than under Nationwide, a substantial savings for consumers. See right side of chart 1 below. 
 
 #### Chart 1: Nationwide vs Share Everything Price Structure: for a Family of Four with mixed data usage.
 ![Verizon Share Everything Pricing Comparison](/images/verizonsharechange.png)
@@ -45,24 +45,23 @@ For a family that only requires 6GB of data, Share Everything changes that equat
 ![Verizon Share Everything Pricing Comparison](/images/chart1.png)
 
 
-Not everyone benefited from the new price structure. For example, an individual that used a lot of data but relied much less on voice and text, could have ended up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan with an unlimited data package. 
+Not everyone benefited from the new price structure. An individual that used a lot of data but relied much less on voice and text, could have ended up paying more on a Share Everything than staying grandfathered on a Nationwide Family Plan with an unlimited data package. 
 
 An individual using 3GB of monthly data on an Individual Nationwide Talk and Text paid \\$60 for 450 voice minutes and unlimited domestic texting and \\$30 for unlimited data thus totaling \\$90. 
-This produces a \\$20 savings over the \\$40 device fee + \\$70 3GB of data, a total of \\$110.  See diagram below. 
+This produces a \\$20 savings with Nationwide over the \\$40 device fee + \\$70 3GB of data, a total of \\$110.  See diagram below. 
 
 
 ![Verizon Share Everything Loss](/images/VerizonShareEverythingLoss.png)
 
 
+### Turning LTE into a a Pricing Catalyst 
+For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based communication became the norm. It's earlier pricing model had fallen out of alignment as it still leaned on voice and text, even as consumer behavior shifted decisively toward data-heavy applications like video streaming, messaging and social networking applications. 
 
-### Realignment with key revenue drivers
-For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based forms of communication became ever more ubiquitous. Verizon's previous price structure had fallen out of alignment with these emerging trends. 
+Verizon timed the launch of its Share Everything plan with the industry's transition from 3G to 4G LTE. This was no coincidence: LTE was not just faster, it was transformative. Offering speeds up to ten times higher than 3G and significantly lower latency, LTE made real-time applications--video calls, online gaming, and app-driven services--practical at scale. It also expanded network capacity, allowing more devices to connect simultaneously without congestion. 
 
-Verizon rolled out the new plan at the time when consumers were switching from 3G networks to faster LTE networks so that they could tie the switch to shared data plans with the major upgrade. 
-4G LTE (stands for long-term evolution) introduced a different network architecture called packet-switching which was different from the circuits previously used for voice and data transmission and this improved bandwidth for enhanced video and network capacity to support more connected devices. LTE also reduced latency which boosted response times for real-time applications like games and internet connected household-appliances. The incentive to ditch the old pricing and switch to 4G was well founded to leap into the expanding Internet of Things. 
+By linking a major technological upgrade with a new pricing structure, Verizon reframed data as the centerpiece of its value proposition. The LTE rollout created both the technical foundation and the consumer demand to justify shared data plans, positioning Verizon to capture revenue growth from rising data consumption and paving the way for future categories like connected devicse and the early Internet of Things. 
 
-Verizon also made subsidized phone upgrades available only to customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
-
+Another incentive Verizon offered was subsidizing phone upgrades only for customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
 
 For telecoms, the shift to 4G LTE, a tiered price structure for data and making that shareable across multiple devices effectively turned data into a revenue driver. Faster data transmission and quality video provided by 4G and the ease of adding devices to surf from on facilitated a feedback loop of increasingly higher data utilization. 
 
