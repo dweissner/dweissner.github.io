@@ -61,6 +61,18 @@ Verizon timed the launch of its Share Everything plan with the industry's transi
 
 By linking a major technological upgrade with a new pricing structure, Verizon reframed data as the centerpiece of its value proposition. The LTE rollout created both the technical foundation and the consumer demand to justify shared data plans, positioning Verizon to capture revenue growth from rising data consumption and paving the way for future categories like cellularly enabled household devices in the early Internet of Things. 
 
+
+<blockquote>
+  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+    <img src="/images/quotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
+    <div style="flex: 1; min-width: 200px;">
+      <p style="margin: 0;">"And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
+” </p>
+    </div>
+  </div>
+</blockquote>
+
+
 For telecoms, the shift to 4G LTE, a tiered price structure for data and making that shareable across multiple devices effectively turned data into a revenue driver. Faster data transmission and quality video provided by 4G and the ease of adding devices to surf from on facilitated a feedback loop of increasingly higher data utilization. 
 
 
@@ -69,27 +81,14 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
     <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
       <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” </p>
-      <p>
-      “...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.</p>
+      
+      <p>“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.</p>
     </div>
   </div>
 </blockquote>
 
 
-
-Another incentive Verizon offered was subsidizing phone upgrades but availability became restricted only to customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
-
-
-While voice and text revenues previously ratcheted up the bulk of revenues for telecoms, declining utilization were leading consumers to lower price tiers. With the \\$30 price tag for unlimited data under Nationwide, Verizon had unwisely capped its own revenues at a time when the sands were shifting and IOT was continuing to give new forms to communication and knowledge sharing. Verizon could not effectively capture the shift toward data utilization as revenues declined from falling demand for voice and text. 
-
-Doing away with unlimited data plans and increasing price differentiation on data usage at a time when data consumption was on the rise allowed Verizon to more effectively monetize soaring data usage.  
-
-
-
-
-Savings and greater ease induced more consumers to buy smartphones and  tablets. Network effects along with growing speeds of communication led to even more data consumption as new forms of social media and other forms of communication expanded.
-
-And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
+Another incentive to join Share Everything was subsidized phone upgrades which stopped being available under the older plans. To stay on grandfathered plans that offered unlimited data, those customers now had to pay the full cost for new replacement phones. 
 
 So we see that if you look at it we have about a third of our customers on shared, we have a third of our customers on LTE. And if you think about a third of that customer on LTE is consuming 64% of the data traffic in Verizon, you can imagine what that is in New York because that 64% is across the entire US.  
 
