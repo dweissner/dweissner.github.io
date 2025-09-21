@@ -76,7 +76,7 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
 </blockquote>
 
 
-...and also in November 2013 shareholder statements:
+and in November 2013 shareholder statements:
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/quotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
@@ -87,12 +87,12 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
   </div>
 </blockquote>
 
-Fran Shammo also made remarks demonstrating progress made to that effect: 
+and Shammo's remarks demonstrating the progress made to that effect: 
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/quotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex:1; min-width: 200px;"> 
-      <p style="margin: 0;"> So we see that if you look at it we have about a third of our customers on shared, we have a third of our customers on LTE. And if you think about a third of that customer on LTE is consuming 64% of the data traffic in Verizon, you can imagine what that is in New York because that 64% is across the entire US." 
+      <p style="margin: 0;"> So we see that if you look at it we have about a third of our customers on shared, we have a third of our customers on LTE. And if you think about a third of that customer on LTE is consuming 64% of the data traffic in Verizon, you can imagine what that is in New York because that 64% is across the entire US,"  
       </p>
     </div>
   </div>
