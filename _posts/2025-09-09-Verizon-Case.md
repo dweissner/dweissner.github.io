@@ -59,9 +59,7 @@ For cellular service providers, Verizon paved a new path to monetizing the growi
 
 Verizon timed the launch of its Share Everything plan with the industry's transition from 3G to 4G LTE. This was no coincidence: LTE was not just faster, it was transformative. Offering speeds up to ten times higher than 3G and significantly lower latency, LTE made real-time applications--video calls, online gaming, and app-driven services--practical at scale. It also expanded network capacity, allowing more devices to connect simultaneously without congestion. 
 
-By linking a major technological upgrade with a new pricing structure, Verizon reframed data as the centerpiece of its value proposition. The LTE rollout created both the technical foundation and the consumer demand to justify shared data plans, positioning Verizon to capture revenue growth from rising data consumption and paving the way for future categories like connected devicse and the early Internet of Things. 
-
-Another incentive Verizon offered was subsidizing phone upgrades only for customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
+By linking a major technological upgrade with a new pricing structure, Verizon reframed data as the centerpiece of its value proposition. The LTE rollout created both the technical foundation and the consumer demand to justify shared data plans, positioning Verizon to capture revenue growth from rising data consumption and paving the way for future categories like cellularly enabled household devices in the early Internet of Things. 
 
 For telecoms, the shift to 4G LTE, a tiered price structure for data and making that shareable across multiple devices effectively turned data into a revenue driver. Faster data transmission and quality video provided by 4G and the ease of adding devices to surf from on facilitated a feedback loop of increasingly higher data utilization. 
 
@@ -71,7 +69,7 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
     <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
       <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” 
-      <br></br>
+      
       “...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,” said by Verizon CFO Fran Shammo at November 2013 Morgan Stanley TMT Conference.</p>
     </div>
   </div>
@@ -79,6 +77,7 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
 
 
 
+Another incentive Verizon offered was subsidizing phone upgrades only for customers under the Share Everything plan. To stay on grandfathered plans that offered unlimited data, customers had to pay the full cost for new replacement phones. 
 
 
 While voice and text revenues previously ratcheted up the bulk of revenues for telecoms, declining utilization were leading consumers to lower price tiers. With the \\$30 price tag for unlimited data under Nationwide, Verizon had unwisely capped its own revenues at a time when the sands were shifting and IOT was continuing to give new forms to communication and knowledge sharing. Verizon could not effectively capture the shift toward data utilization as revenues declined from falling demand for voice and text. 
