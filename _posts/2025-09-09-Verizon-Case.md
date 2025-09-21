@@ -76,21 +76,30 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
 </blockquote>
 
 
-...and also in 2013 shareholder statements:
+...and also in November 2013 shareholder statements:
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/quotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">"And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
+      <p style="margin: 0;">And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
 ” </p>
     </div>
   </div>
 </blockquote>
 
+Fran Shammo also made remarks demonstrating progress made to that effect: 
+<blockqote>
+  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+    <img src="/images/qquotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
+    <div style="flex:1; min-width: 200px;"> 
+      <p style="margin: 0;"> So we see that if you look at it we have about a third of our customers on shared, we have a third of our customers on LTE. And if you think about a third of that customer on LTE is consuming 64% of the data traffic in Verizon, you can imagine what that is in New York because that 64% is across the entire US." </p>
+        </div>
+      </div>
+</blockquote>
+
 
 Another incentive to join Share Everything was subsidized phone upgrades which stopped being available under the older plans. To stay on grandfathered plans that offered unlimited data, those customers now had to pay the full cost for new replacement phones. 
 
-So we see that if you look at it we have about a third of our customers on shared, we have a third of our customers on LTE. And if you think about a third of that customer on LTE is consuming 64% of the data traffic in Verizon, you can imagine what that is in New York because that 64% is across the entire US.  
 
 Adding tablets to a family plan made connecting to the internet far easier. By adding tablets onto established shared plans for \\$10 per month, Verizon eliminated the extra hurdle of having to navigate separate tablet pricing and establishing a new agreement as well as sales costs as mentioned on a Verizon shareholder call introducing the new plan. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
 ![Verizon Share Everything Pricing Comparison](/images/chart2.png)
