@@ -88,7 +88,7 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
 </blockquote>
 
 Fran Shammo also made remarks demonstrating progress made to that effect: 
-<blockqote>
+<blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/quotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
     <div style="flex:1; min-width: 200px;"> 
