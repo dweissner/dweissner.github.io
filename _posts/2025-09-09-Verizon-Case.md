@@ -54,9 +54,21 @@ Not everyone benefited from the new price structure. An individual that used a l
 
 An individual using 3GB of monthly data on an Individual Nationwide Talk and Text paid \\$60 for 450 voice minutes and unlimited domestic texting and \\$30 for unlimited data thus totaling \\$90. 
 This produces a \\$20 savings with Nationwide over the \\$40 device fee + \\$70 3GB of data, a total of \\$110.  See diagram below. 
-
-
 ![Verizon Share Everything Loss](/images/VerizonShareEverythingLoss.png)
+
+
+
+<blockquote>
+  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+    <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
+    <div style="flex: 1; min-width: 200px;">
+      <p style="margin: 0;"> This chart demonstrates how Share Everything transformed device connectivity overall</p>
+    </div>
+  </div>
+</blockquote>
+
+![Verizon Share Everything Pricing Comparison](/images/chart2.png)
+
 
 
 ### Turning LTE into a a Pricing Catalyst 
@@ -70,7 +82,7 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
 
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
-    <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
+    <img src="/images/quotemarks.png" alt="quotemarks" style="width: 75px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
       <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” </p>
       
@@ -84,7 +96,7 @@ For telecoms, the shift to 4G LTE, a tiered price structure for data and making 
 and in November 2013 shareholder statements:
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
-    <img src="/images/quotemarks.png" alt="quotemarks" style="width: 100px; height: auto; flex-shrink: 0;">
+    <img src="/images/quotemarks.png" alt="quotemarks" style="width: 75px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
       <p style="margin: 0;">And if you think about the generations to come, video is going to become much more efficient to put through that network. So the initial LTE network is extremely efficient compared to 3G, but then when you get to 4G advance and then 5G ultimately the compression technology, the speed technology, video is going to be more consumption into the future. 
 ” </p>
