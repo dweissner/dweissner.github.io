@@ -117,10 +117,15 @@ and Shammo's remarks demonstrating the progress made to that effect:
 
 Another incentive to join Share Everything was subsidized phone upgrades which stopped being available under the older plans. To stay on grandfathered plans that offered unlimited data, those customers now had to pay the full cost for new replacement phones. 
 
+Share Everything turned out to be a great success transforming not only Verizon but for the entire telecom industry as AT&T soon followed with a similar structure.  
+
+Many Verizon customers held onto their Nationwide unlimited data deals with white knuckles. Here is an entire Reddit thread dedicated to collectively strategizing how to stay on them: https://www.reddit.com/r/verizon/comments/12ujc9z/verizon_grandfathered_unlimited_data_plan_2999/
+
+It's rare to see a transformation like this that gets adopted and accepted the way Verizon's was. 
 
 ## Key Takeaways
-
+* Switching from unlimited data to capped price tiers allowed consumers to optimize cost and the firm to effectively monetize the growing dependence on data. 
 
 ## Resources
-"https://startupspells.com/p/family-plans-saas-retention-churn-reduction"
-Images generated using MS Publisher, MS Excel & ChatGPT 5. 
+* "https://startupspells.com/p/family-plans-saas-retention-churn-reduction"
+* Images generated using MS Publisher, MS Excel & ChatGPT 5. 
