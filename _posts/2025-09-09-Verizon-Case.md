@@ -124,7 +124,9 @@ Many Verizon customers held onto their Nationwide unlimited data deals with whit
 It's rare to see a transformation like this that gets adopted and accepted the way Verizon's was. 
 
 ## Key Takeaways
-* Switching from unlimited data to capped price tiers allowed consumers to optimize cost and the firm to effectively monetize the growing dependence on data. 
+* Switching from unlimited data to capped price tiers allowed consumers to optimize cost and the firm (Verizon) to effectively monetize the growing dependence on data. 
+* Timing the switch with rollout of new technology made aligned the switch with the interests of both consumers and the firm. 
+* Reducing the complexity of adding more devices incentivized more connectivity, utilization and reduced churn via higher switching costs. 
 
 ## Resources
 * "https://startupspells.com/p/family-plans-saas-retention-churn-reduction"
