@@ -20,7 +20,8 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and an increase in overall market share. 
 
-> "Verizon is gaining market share in wireless. Unless one believes that industry growth rates accelerated — and we certainly don’t — Verizon’s gain is AT&T’s, Sprint’s, and T-Mobile’s loss,” Sanford Bernstein analyst Craig Moffett in the [NYPost](https://nypost.com/2012/10/18/verizons-share-everything-plan-boosts-third-quarter-earnings/), 
+> "Verizon is gaining market share in wireless. Unless one believes that industry growth rates accelerated — and we certainly don’t — Verizon’s gain is AT&T’s, Sprint’s, and T-Mobile’s loss,” 
+#### said by Sanford Bernstein analyst Craig Moffett in the [NYPost](https://nypost.com/2012/10/18/verizons-share-everything-plan-boosts-third-quarter-earnings/), 
 
 
 This also reduced sales complexity. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
