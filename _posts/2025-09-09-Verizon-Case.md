@@ -124,7 +124,7 @@ Another incentive to join Share Everything was subsidized phone upgrades which s
 
 Share Everything turned out to be a great success transforming not only Verizon but for the entire telecom industry as AT&T soon followed with a similar structure.  
 
-Many Verizon customers held onto their Nationwide unlimited data deals with white knuckles. Here is an entire Reddit thread dedicated to collectively strategizing how to stay on them: https://www.reddit.com/r/verizon/comments/12ujc9z/verizon_grandfathered_unlimited_data_plan_2999/
+Many Verizon customers held onto their Nationwide unlimited data deals with white knuckles. Here is an entire [Reddit thread](https://www.reddit.com/r/verizon/comments/12ujc9z/verizon_grandfathered_unlimited_data_plan_2999/) dedicated to collectively strategizing how to stay on them.
 
 It's rare to see a transformation like this that gets adopted and accepted the way Verizon's was. 
 
