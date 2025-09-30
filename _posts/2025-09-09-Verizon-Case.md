@@ -82,13 +82,13 @@ Verizon timed the launch of its Share Everything plan with the industry's transi
 
 By linking a major technological upgrade with a new pricing structure, Verizon reframed data as the centerpiece of its value proposition. The LTE rollout created both the technical foundation and the consumer demand to justify shared data plans, positioning Verizon to capture revenue growth from rising data consumption and paving the way for future categories like cellularly enabled household devices in the early Internet of Things. 
 
-For telecoms, the shift to 4G LTE, a tiered price structure for data and making that shareable across multiple devices effectively turned data into a revenue driver. Faster data transmission and quality video provided by 4G and the ease of adding devices to surf from on facilitated a feedback loop of increasingly higher data utilization. This was well articulated by Fran Shammo, Verizon Communications Inc., EVP & CFO at the Morgan Stanley TMT conferences in 2013:
+For telecoms, the shift to 4G LTE, a tiered price structure for data and making that shareable across multiple devices effectively turned data into a revenue driver. Faster data transmission and quality video provided by 4G and the ease of adding devices to surf from on facilitated a feedback loop of increasingly higher data utilization. This was well articulated by Fran Shammo, Verizon Communications Inc., EVP & CFO at the [Morgan Stanley TMT conferences  in 2013](https://www.verizon.com/about/system/files/investor-event-transcript/ms_vz_conf_transcript.pdf):
 
 <blockquote>
   <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
     <img src="/images/quotemarks.png" alt="quotemarks" style="width: 75px; height: auto; flex-shrink: 0;">
     <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” </p>
+      <p style="margin: 0;">"...what's also driving this growth is the fact that you have 3G customers migrating to 4G and what we see is that the minute that they migrate over their video consumption goes way up and they're more than doubling, if not doubling, their usage on the 4G network versus the 3G network,” </p> 
       
 
       <p>“...it's really the consumption of the data and the LTE network really allows video to perform very nicely. And what we're seeing is that consumption is driving usage up so people are buying up in the tier. So, really, it's base consumption and device attachment that's really generating the growth,”.</p>
