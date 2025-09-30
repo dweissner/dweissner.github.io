@@ -134,5 +134,5 @@ It's rare to see a transformation like this that gets adopted and accepted the w
 * Reducing the complexity of adding more devices incentivized more connectivity, utilization and reduced churn via higher switching costs. 
 
 ## Resources
-* "https://startupspells.com/p/family-plans-saas-retention-churn-reduction"
 * Images generated using MS Publisher, MS Excel & ChatGPT 5. 
+* [Article: How Family and Group Plans Improve SaaS Retention and Reduce Churn](https://startupspells.com/p/family-plans-saas-retention-churn-reduction)
