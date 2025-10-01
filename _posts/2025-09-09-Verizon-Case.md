@@ -8,7 +8,7 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 ---
 
 ## Key Takeaways
-<div style="border: 1px solid #007bff; padding: 15px; margin: 10px 0;">
+<div style="border-top: 3px solid #6c757d; border-left: 1px solid #6c757d; padding: 15px; margin: 10px 0;">
 <small>
 * Verizon's Share Everything plan changed the industry's pricing framework transforming how data was monetized 
 * It replaced device-by-device pricing with a single, shared data pool accessible by all devices enrolled on the same plan. Previously, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
