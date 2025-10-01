@@ -11,10 +11,10 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 <div style="border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding: 15px; margin: 10px 0;">
 
 * <small>Verizon's _Share Everything_ plan changed the industry's pricing framework transforming how data was monetized</small> 
-* <small>It replaced device-by-device pricing with a single, shared data pool accessible by all devices enrolled on the same plan. Previously, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. </small>
-* Verizon gave consumers the ability to optimize on data usage across devices by offering capped tiers instead of an unlimited option. 
+* <small>_Share Everything_ replaced device-by-device pricing with a single, shared data pool accessible by all devices on the same plan. </small>
+* Verizon gave consumers the ability to optimize data usage across devices via data tiers
 * This allowed Verizon to more effectively monetize the growing dependence on data. 
-* Verizon timed the switch with the rollout of 4G LTE aligning their interests with its customers to encourage adoption of the new structure.  
+* Verizon timed switch with rollout of LTE aligning interests with customers encouraging adoption
 * Increasing the number of devices raised the costs of switching plans and reduced churn.
 * The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchasing higher data tiers generating more revenue for Verizon.
 </div>
