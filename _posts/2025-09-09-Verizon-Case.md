@@ -7,12 +7,11 @@ category: econ
 ---
 
 ## Key Takeaways
-* In June 2012, Verizon introduced a new wireless plan called Share Everything which changed the industry's pricing framework and transformed how data was monetized. 
-* Share Everything replaced device-by-device pricing with a single, shared data pool accessible by all smartphones and other internet-accessible devices enrolled on one plan. Before this, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
-* Switching from unlimited data to capped price tiers 
-  * Gave consumers the ability to optimize on data usage costs across all devices on a family plan
-  * Allowed Verizon to effectively monetize the growing dependence on data. 
-* Verizon timed the switch with the rollout of 4G LTE aligning  the interests of both consumers and Verizon,  helping encourage adoption of the new price structure.  
+* In June 2012, Verizon introduced the Share Everything which changed the industry's pricing framework and transformed how data was monetized 
+* Share Everything replaced device-by-device pricing with a single, shared data pool accessible by all smartphones and other internet-accessible devices enrolled on the same plan. Before this, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
+* Switching from unlimited data to capped price tiers gave consumers the ability to optimize on data usage across  devices on a plan. 
+* For Verizon, the switch allowed it to more effectively monetize the growing dependence on data. 
+* Verizon timed the switch with the rollout of 4G LTE thus aligning the interests of both consumers and Verizon,  helping encourage adoption of the new price structure.  
 * Increasing the number of devices raised the costs of switching plans and reduced churn.
 * The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchase of higher data tiers generating more revenue for Verizon.
 
