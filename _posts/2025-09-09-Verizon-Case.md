@@ -48,7 +48,7 @@ More devices on a single family plan also raises the cost of switching providers
 
 
 <img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 300px; height: auto; flex-shrink: 0;">
-### What's in it for me? 
+### Customer Adoption: What's in it for me? 
 For consumers, the new pricing structure allowed them to optimize data use and generate a windfall in savings especially if they relied heavily on voice and text but used data sparingly. 
 
 To  illustrate, a Family Nationwide Unlimited Talk and Text Plan with four smartphones had a base price of \\$250 (\\$150 for 2 members plus \\$50 for each additional). If three members of the family use only 1GB of data per month and another has more intensive usage of 3GB every month, then they would each have needed to add on an unlimited data package for \\$30 arriving at a data cost of \\$120 and a total plan cost of $370 under Nationwide. See the left side of chart 1 below. 
