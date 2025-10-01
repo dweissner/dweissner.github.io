@@ -27,12 +27,11 @@ The ease of connecting more devices induced customers to connect more smartphone
 #### said by Sanford Bernstein analyst Craig Moffett in the [NYPost](https://nypost.com/2012/10/18/verizons-share-everything-plan-boosts-third-quarter-earnings/), 
 
 
-This also reduced sales complexity. Inducing more customers to enroll their own phones and those of their family members as well as other devices creates even more reliance on Verizon which makes customers more price sticky and thus inelastic in the long run to avoid the cost of switching for everyone on the phone plan.
 
-More devices on a plan also raises switching costs. The more devices and individuals under a plan, the more cumbersome it is to change providers. Tying multiple users into a shared plan creates a network of emotional, social and economic commitments. Family members will want to avoid inconveniencing other members or breaking shared routines. Primary subscribers feel responsible for the disruption that cancellation would cause their entire group. With more devices attached, the members of a plan become even more reliant. This gave Verizon more traction and price stickiness in the market for family plans. It is in this way group plans are structured so that margin is traded for massive reductions in churn. 
+More devices on a single family plan also raises the cost of switching providers. The more devices and individuals under a single plan, the more cumbersome it is to change. Tying multiple users into a shared plan creates a network of emotional, social and economic commitments. Family members will want to avoid inconveniencing other members or breaking shared routines. Primary subscribers feel responsible for the disruption that cancellation would cause their entire group. With more devices attached, the members of a plan become even more reliant. This gave Verizon more traction and price stickiness in the market for family plans. It is in this way group plans are structured so that margin is traded for massive reductions in churn. 
 
 
-<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 600px; height: auto; flex-shrink: 0;">
+<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 500px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
 For consumers, the new pricing structure allowed them to optimize data use and generate a windfall in savings especially if they relied heavily on voice and text but used data sparingly. 
 
@@ -80,7 +79,7 @@ This produces a \\$20 savings with Nationwide over the \\$40 device fee + \\$70 
 
 
 ### Turning LTE into a a Pricing Catalyst 
-For cellular service providers, Verizon paved a new path to monetizing the growing reliance on data as web-based communication became the norm. It's earlier pricing model had fallen out of alignment as it still leaned on voice and text, even as consumer behavior shifted decisively toward data-heavy applications like video streaming, messaging and social networking applications. 
+For cellular service providers, Verizon paved a new path to monetizing users' growing reliance on data as web-based communication became the norm. It's earlier pricing model had fallen out of alignment by leaning heavily on voice and text, even as consumer behavior shifted decisively toward data-heavy applications like video streaming, messaging and social networking applications. 
 
 Verizon timed the launch of its Share Everything plan with the industry's transition from 3G to 4G LTE. This was no coincidence: LTE was not just faster, it was transformative. Offering speeds up to ten times higher than 3G and significantly lower latency, LTE made real-time applications--video calls, online gaming, and app-driven services--practical at scale. It also expanded network capacity, allowing more devices to connect simultaneously without congestion. 
 
@@ -129,12 +128,16 @@ Share Everything turned out to be a great success transforming not only Verizon 
 
 Many Verizon customers held onto their Nationwide unlimited data deals with white knuckles. Here is an entire [Reddit thread](https://www.reddit.com/r/verizon/comments/12ujc9z/verizon_grandfathered_unlimited_data_plan_2999/) dedicated to collectively strategizing how to stay on them.
 
-It's rare to see a transformation like this that gets adopted and accepted the way Verizon's was. 
 
 ## Key Takeaways
-* Switching from unlimited data to capped price tiers allowed consumers to optimize cost and the firm (Verizon) to effectively monetize the growing dependence on data. 
-* Timing the switch with rollout of new technology made aligned the switch with the interests of both consumers and the firm. 
-* Reducing the complexity of adding more devices incentivized more connectivity, utilization and reduced churn via higher switching costs. 
+* Verizon's Share data plans changed the industry's framework
+* Switching from unlimited data to capped price tiers 
+  * Gave consumers the ability to optimize on data usage costs across all devices on a family plan
+  * Allowed Verizon to effectively monetize the growing dependence on data. 
+* Verizon timed the switch with the rollout of 4G LTE aligning  the interests of both consumers and Verizon, and thus encouraging adoption of the new price structure.  
+* Increasing the number of devices raised the costs of switching plans and lowered churn.
+* The new LTE technology brought faster data speeds and higher quality video which also catalyzed data and incentivized purchasing larger buckets of data and thus more revenue to Verizon.
+
 
 ## Resources
 * Images generated using MS Publisher, MS Excel & ChatGPT 5. 
