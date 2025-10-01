@@ -6,6 +6,22 @@ tags:
 category: econ
 ---
 
+## Quick Context & Key Takeaways
+
+### Quick Context
+
+
+### Key Takeaways
+* Verizon's Share data plans changed the industry's pricing framework
+* Switching from unlimited data to capped price tiers 
+  * Gave consumers the ability to optimize on data usage costs across all devices on a family plan
+  * Allowed Verizon to effectively monetize the growing dependence on data. 
+* Verizon timed the switch with the rollout of 4G LTE aligning  the interests of both consumers and Verizon, and thus encouraging adoption of the new price structure.  
+* Increasing the number of devices raised the costs of switching plans and reduced churn.
+* The new LTE technology brought faster data speeds and higher quality video which also catalyzed data and incentivized purchasing larger buckets of data and thus more revenue to Verizon.
+
+
+## Verizon Case Study
 Between 2005 and 2015, communication technology underwent a seismic shift. Faster data transfer, the rise of smartphones catalyzed by the iPhone’s 2007 release, and the rollout of LTE technology reshaped how we connect. These innovations not only changed how people communicated but also transformed how carriers structured and monetized their services. This case study focuses on one pivotal case: Verizon’s shift in pricing models.
 
 ### Old Model: Voice First 
@@ -129,14 +145,6 @@ Share Everything turned out to be a great success transforming not only Verizon 
 Many Verizon customers held onto their Nationwide unlimited data deals with white knuckles. Here is an entire [Reddit thread](https://www.reddit.com/r/verizon/comments/12ujc9z/verizon_grandfathered_unlimited_data_plan_2999/) dedicated to collectively strategizing how to stay on them.
 
 
-## Key Takeaways
-* Verizon's Share data plans changed the industry's pricing framework
-* Switching from unlimited data to capped price tiers 
-  * Gave consumers the ability to optimize on data usage costs across all devices on a family plan
-  * Allowed Verizon to effectively monetize the growing dependence on data. 
-* Verizon timed the switch with the rollout of 4G LTE aligning  the interests of both consumers and Verizon, and thus encouraging adoption of the new price structure.  
-* Increasing the number of devices raised the costs of switching plans and lowered churn.
-* The new LTE technology brought faster data speeds and higher quality video which also catalyzed data and incentivized purchasing larger buckets of data and thus more revenue to Verizon.
 
 
 ## Resources
