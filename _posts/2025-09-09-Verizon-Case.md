@@ -14,7 +14,7 @@ category: econ
   * Allowed Verizon to effectively monetize the growing dependence on data. 
 * Verizon timed the switch with the rollout of 4G LTE aligning  the interests of both consumers and Verizon,  helping encourage adoption of the new price structure.  
 * Increasing the number of devices raised the costs of switching plans and reduced churn.
-* The new LTE technology brought faster data speeds and higher quality video which also catalyzed data and incentivized purchasing larger buckets of data and thus more revenue to Verizon.
+* The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchase of higher data tiers generating more revenue for Verizon.
 
 
 ## Verizon Case Study
