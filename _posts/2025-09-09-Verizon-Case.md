@@ -10,12 +10,13 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 ## Key Takeaways
 <div style="border: 1px solid #007bff; padding: 15px; margin: 10px 0;">
 * <small>Verizon's Share Everything plan changed the industry's pricing framework transforming how data was monetized 
-* <small> It replaced device-by-device pricing with a single, shared data pool accessible by all devices enrolled on the same plan. Previously, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
-* <small>Verizon gave consumers the ability to optimize on data usage across devices by offering capped tiers instead of an unlimited option. 
-* <small>This allowed Verizon to more effectively monetize the growing dependence on data. 
-* <small>Verizon timed the switch with the rollout of 4G LTE aligning their interests with its customers to encourage adoption of the new structure.  
-* <small>Increasing the number of devices raised the costs of switching plans and reduced churn.
-* <small>The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchasing higher data tiers generating more revenue for Verizon.
+*  It replaced device-by-device pricing with a single, shared data pool accessible by all devices enrolled on the same plan. Previously, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
+* Verizon gave consumers the ability to optimize on data usage across devices by offering capped tiers instead of an unlimited option. 
+* This allowed Verizon to more effectively monetize the growing dependence on data. 
+* Verizon timed the switch with the rollout of 4G LTE aligning their interests with its customers to encourage adoption of the new structure.  
+* Increasing the number of devices raised the costs of switching plans and reduced churn.
+* The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchasing higher data tiers generating more revenue for Verizon.
+</small>
 </div>
 
 ## Verizon Case Study
