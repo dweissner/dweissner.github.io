@@ -8,7 +8,7 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 ---
 
 
-<div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding: 15px; margin: 10px 0;">
+<div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding: 8px; margin: 10px 0;">
 <h2>Key Takeaways</h2>
 <ul>
 <li>Verizon's <i>Share Everything</i> plan changed the industry's pricing framework transforming how data was monetized</li>
