@@ -18,23 +18,6 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 *The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchasing higher data tiers generating more revenue for Verizon.
 </div>
 
-<div style="font-size: 0.85em; border-top: 2px solid #6c757d; border-left: 2px solid #6c757d; padding: 15px; margin: 10px 0;">
-
-## Key Takeaways
-
-* Verizon's Strategic Changes
-  * Share Everything plan revolutionized family data sharing
-  * LTE technology enabled higher data consumption
-  * Tiered pricing captured revenue from increased data usage
-* Customer Impact
-  * Family plans increased customer retention through switching costs
-  * Simplified multi-device connectivity
-  * Cost savings for data-light users
-* Market Transformation
-  * Shifted focus from voice/text to data-centric pricing
-  * Paved way for IoT device connectivity
-
-</div>
 
 ## Verizon Case Study
 Between 2005 and 2015, communication technology underwent a seismic shift. Faster data transfer, the rise of smartphones catalyzed by the iPhone’s 2007 release, and the rollout of LTE technology reshaped how we connect. These innovations not only changed how people communicated but also transformed how carriers structured and monetized their services. This case study focuses on one pivotal case: Verizon’s shift in pricing models.
