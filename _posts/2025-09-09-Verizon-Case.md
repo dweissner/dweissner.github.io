@@ -1,5 +1,5 @@
 ---
-title: 'Verizon Case Study: How Share Everything changed everything'
+title: 'How _Share Everything_ Changed Everything'
 date: 2025-09-09
 permalink: /posts/2025/09/Verizon-Case-Study/
 tags:
