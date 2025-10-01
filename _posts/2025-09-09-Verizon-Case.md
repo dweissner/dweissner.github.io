@@ -8,14 +8,15 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 ---
 
 ## Key Takeaways
-* In June 2012, Verizon introduced the Share Everything which changed the industry's pricing framework and transformed how data was monetized 
-* Share Everything replaced device-by-device pricing with a single, shared data pool accessible by all smartphones and other internet-accessible devices enrolled on the same plan. Before this, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
-* Switching from unlimited data to capped price tiers gave consumers the ability to optimize on data usage across  devices on a plan. 
-* For Verizon, the switch allowed it to more effectively monetize the growing dependence on data. 
-* Verizon timed the switch with the rollout of 4G LTE thus aligning the interests of both consumers and Verizon,  helping encourage adoption of the new price structure.  
-* Increasing the number of devices raised the costs of switching plans and reduced churn.
-* The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchase of higher data tiers generating more revenue for Verizon.
-
+<div style="border: 1px solid #007bff; padding: 15px; margin: 10px 0;">
+* <small>Verizon's Share Everything plan changed the industry's pricing framework transforming how data was monetized 
+* <small> It replaced device-by-device pricing with a single, shared data pool accessible by all devices enrolled on the same plan. Previously, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
+* <small>Verizon gave consumers the ability to optimize on data usage across devices by offering capped tiers instead of an unlimited option. 
+* <small>This allowed Verizon to more effectively monetize the growing dependence on data. 
+* <small>Verizon timed the switch with the rollout of 4G LTE aligning their interests with its customers to encourage adoption of the new structure.  
+* <small>Increasing the number of devices raised the costs of switching plans and reduced churn.
+* <small>The new LTE technology brought faster data speeds and higher quality video which catalyzed data use which incentivized the purchasing higher data tiers generating more revenue for Verizon.
+</div>
 
 ## Verizon Case Study
 Between 2005 and 2015, communication technology underwent a seismic shift. Faster data transfer, the rise of smartphones catalyzed by the iPhone’s 2007 release, and the rollout of LTE technology reshaped how we connect. These innovations not only changed how people communicated but also transformed how carriers structured and monetized their services. This case study focuses on one pivotal case: Verizon’s shift in pricing models.
