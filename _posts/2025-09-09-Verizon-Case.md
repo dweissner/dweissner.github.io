@@ -11,7 +11,7 @@ Between 2005 and 2015, communication technology underwent a seismic shift. Faste
 ### Old Model: Voice First 
 Verizon’s earlier pricing model monetized primarily through voice minutes and text messages, with only limited options for data. Families purchased a bucket of minutes shared across lines, but each smartphone required its own separate data package within the plan. Tablets faced an even clumsier setup—customers had to sign separate agreements with their own price tiers, making multi-device connectivity costly and inconvenient. The result was a fragmented structure that discouraged households from adding devices and left Verizon exposed as WiFi offered a far simpler alternative.
 
-### The 2012 Pivot
+### The 2012 Pivot: Introducing Share Everything
 The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that by streamlining how we contract for cellular services. It replaced device-by-device pricing with a single, shared data pool - an overhaul that made multi-device connectivity far simpler. Verizon also moved beyond smartphones to allowing other internet-enabled devices like tablets and laptops to enroll in the same family plan as smartphone devices and also share in the data pool. By no longer requiring separate agreements for each device, the complexity of connecting new devices to the internet was greatly reduced. 
 
 
