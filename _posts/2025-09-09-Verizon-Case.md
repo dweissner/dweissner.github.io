@@ -4,6 +4,7 @@ date: 2025-09-09
 permalink: /posts/2025/09/Verizon-Case-Study/
 tags:
 category: econ
+excerpt_separator: "In June 2012, Verizon introduced the Share Everything which changed the industry's pricing framework and transformed how data was monetized. Read more to find out."
 ---
 
 ## Key Takeaways
