@@ -130,7 +130,7 @@ Many Verizon customers held onto their Nationwide unlimited data deals with whit
 
 
 ## Key Takeaways
-* Verizon's Share data plans changed the industry's framework
+* Verizon's Share data plans changed the industry's pricing framework
 * Switching from unlimited data to capped price tiers 
   * Gave consumers the ability to optimize on data usage costs across all devices on a family plan
   * Allowed Verizon to effectively monetize the growing dependence on data. 
