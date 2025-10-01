@@ -8,7 +8,7 @@ excerpt: "In June 2012, Verizon introduced the Share Everything which changed th
 ---
 
 ## Key Takeaways
-<div style="font-size: .8em; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding: 15px; margin: 10px 0;">
+<div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding: 15px; margin: 10px 0;">
 <ul>
 <li>Verizon's <i>Share Everything</i> plan changed the industry's pricing framework transforming how data was monetized</li>
 <li> <i>Share Everything</i> replaced device-by-device pricing with a single, shared data pool accessible by all devices on the same plan.</li>
@@ -36,7 +36,7 @@ The _Share Everything_ plan introduced by Verizon in 2012 changed all that by st
 
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and an increase in overall market share. 
 
-> "With the shared pricing plan that we have, number one people are more enticed to add more devices. So if they have a Smartphone they'll add a tablet, they'll add a Dongle, they'll add additional smart phones. Device attachment is increasing 4% quarter-over-quarter, year-over-year," [Fran Shammo at Morgan Stanley Technology Media & Telecoms Conference](https://www.verizon.com/about/system/files/investor-event-transcript/ms_vz_conf_transcript.pdf)
+> "With the shared pricing plan that we have, number one people are more enticed to add more devices. So if they have a Smartphone they'll add a tablet, they'll add a Dongle, they'll add additional smart phones. Device attachment is increasing 4% quarter-over-quarter, year-over-year," [Verizon CFO Fran Shammo at Morgan Stanley Technology Media & Telecoms Conference](https://www.verizon.com/about/system/files/investor-event-transcript/ms_vz_conf_transcript.pdf)
 
 
 > "Verizon is gaining market share in wireless. Unless one believes that industry growth rates accelerated — and we certainly don’t — Verizon’s gain is AT&T’s, Sprint’s, and T-Mobile’s loss,” 
