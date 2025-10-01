@@ -47,7 +47,7 @@ The ease of connecting more devices induced customers to connect more smartphone
 More devices on a single family plan also raises the cost of switching providers. The more devices and individuals under a single plan, the more cumbersome it is to change. Tying multiple users into a shared plan creates a network of emotional, social and economic commitments. Family members will want to avoid inconveniencing other members or breaking shared routines. Primary subscribers feel responsible for the disruption that cancellation would cause their entire group. With more devices attached, the members of a plan become even more reliant. This gave Verizon more traction and price stickiness in the market for family plans. It is in this way group plans are structured so that margin is traded for massive reductions in churn. 
 
 
-<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 500px; height: auto; flex-shrink: 0;">
+<img src="/images/whatsinitforme.png" alt="whatsinitforme" style="width: 300px; height: auto; flex-shrink: 0;">
 ### What's in it for me? 
 For consumers, the new pricing structure allowed them to optimize data use and generate a windfall in savings especially if they relied heavily on voice and text but used data sparingly. 
 
