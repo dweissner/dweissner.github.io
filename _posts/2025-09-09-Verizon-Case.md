@@ -6,7 +6,7 @@ tags:
 category: econ
 ---
 
-Between 2005 and 2015, communication technology underwent a seismic shift. Faster data transfer, the rise of smartphones catalyzed by the iPhone’s 2007 release, and the rollout of LTE technology reshaped how we connect. These innovations not only changed how people communicated but also transformed how carriers structured and monetized their services. This essay focuses on one pivotal case: Verizon’s shift in pricing models.
+Between 2005 and 2015, communication technology underwent a seismic shift. Faster data transfer, the rise of smartphones catalyzed by the iPhone’s 2007 release, and the rollout of LTE technology reshaped how we connect. These innovations not only changed how people communicated but also transformed how carriers structured and monetized their services. This case study focuses on one pivotal case: Verizon’s shift in pricing models.
 
 ### Old Model: Voice First 
 Verizon’s earlier pricing model monetized primarily through voice minutes and text messages, with only limited options for data. Families purchased a bucket of minutes shared across lines, but each smartphone required its own separate data package within the plan. Tablets faced an even clumsier setup—customers had to sign separate agreements with their own price tiers, making multi-device connectivity costly and inconvenient. The result was a fragmented structure that discouraged households from adding devices and left Verizon exposed as WiFi offered a far simpler alternative.
@@ -19,6 +19,9 @@ The <u>Share Everything</u> plan introduced by Verizon in 2012 changed all that 
 #### “The greatest subscription retention product in history is The Family Plan,” - Brian Norgard, former Chief Product Officer at Tinder [on X](https://x.com/BrianNorgard/status/1889808483496894956?utm_source=startupspells&utm_medium=referral&utm_campaign=how-family-and-group-plans-improve-saas-retention-and-redvc%20%20uce-churn%20From%20%3Chhttps://startupspells.com/p/family-plans-saas-retention-churn-reduction)
 
 The ease of connecting more devices induced customers to connect more smartphones, tablets and other devices. This led to an expansion in the number of devices per household under the Verizon umbrella and an increase in overall market share. 
+
+> "With the shared pricing plan that we have, number one people are more enticed to add more devices. So if they have a Smartphone they'll add a tablet, they'll add a Dongle, they'll add additional smart phones. Device attachment is increasing 4% quarter-over-quarter, year-over-year," [Fran Shammo at Morgan Stanley Technology Media & Telecoms Conference](https://www.verizon.com/about/system/files/investor-event-transcript/ms_vz_conf_transcript.pdf)
+
 
 > "Verizon is gaining market share in wireless. Unless one believes that industry growth rates accelerated — and we certainly don’t — Verizon’s gain is AT&T’s, Sprint’s, and T-Mobile’s loss,” 
 #### said by Sanford Bernstein analyst Craig Moffett in the [NYPost](https://nypost.com/2012/10/18/verizons-share-everything-plan-boosts-third-quarter-earnings/), 
