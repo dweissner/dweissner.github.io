@@ -6,13 +6,9 @@ tags:
 category: econ
 ---
 
-## Quick Context & Key Takeaways
-
-### Quick Context
-
-
-### Key Takeaways
-* Verizon's Share data plans changed the industry's pricing framework
+## Key Takeaways
+* In June 2012, Verizon introduced a new wireless plan called Share Everything which changed the industry's pricing framework and transformed how data was monetized. 
+* Share Everything replaced device-by-device pricing with a single, shared data pool accessible by all smartphones and other internet-accessible devices enrolled on one plan. Before this, separate data packages were purchased for each smartphone and separate agreements were required for each non-smartphone device. 
 * Switching from unlimited data to capped price tiers 
   * Gave consumers the ability to optimize on data usage costs across all devices on a family plan
   * Allowed Verizon to effectively monetize the growing dependence on data. 
