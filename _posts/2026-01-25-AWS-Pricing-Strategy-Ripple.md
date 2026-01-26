@@ -40,11 +40,11 @@ Amazon Web Services (est. 2006) changed this equation to one that shared more va
 Success took off for AWS as 12,000 developers had signed up for their storage solution [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized market share and also captured new markets as more startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
 
-<img src="/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
 
 
 In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below). 
-<img src="/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 300px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 300px; height: auto; flex-shrink: 0;">
 
 
 Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud),
