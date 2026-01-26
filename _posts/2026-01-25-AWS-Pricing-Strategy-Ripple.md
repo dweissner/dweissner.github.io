@@ -6,11 +6,18 @@ tags:
 category: econ
 ---
 
-Product: Cloud Computing
-Target Market: Developers
-New or existing: Modified existing product
-Value creating or cost saving: Immediately cost saving but creates value over time as more value was created by firms in other industries. 
-Change: Pricing basis - from large costs upfront via procurement to on the go scalable.
+<div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding-left: 15px; margin: 5px;">
+<h2>Summary</h2>
+<ul> 
+<li><strong>New or existing:</strong> Increased accessibility to existing product</li>
+<li><strong>Product:</strong> Cloud Computing</li>
+<li> <strong>Target Market:</strong> Developers</li>
+<li> <strong>Value creating or cost saving:</strong> Immediately cost saving but creates value over time as more value was created by firms in other industries.</li>
+<li> <strong>Change:</strong> Pricing basis - from large costs upfront via procurement to on the go scalable. </li>
+</ul>
+</div>
+ 
+ 
 
 
 Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. This was illuminated when Amazon Web Services (AWS) eased barriers to cloud computing by replacing large upfront capital purchases and fixed-term hosting contracts with usage-based, on-demand pricing. 
