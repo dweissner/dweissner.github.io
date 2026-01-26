@@ -7,7 +7,7 @@ category: econ
 ---
 
 <div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding-left: 15px; margin: 5px;">
-<h2>Summary</h2>
+<h2>AWS Cloud Computing</h2>
 <ul> 
 <li><strong>New or existing:</strong> Increased accessibility to existing product</li>
 <li><strong>Product:</strong> Cloud Computing</li>
@@ -20,7 +20,7 @@ category: econ
  
 
 ### CONTEXT
-Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. This was illuminated when Amazon Web Services (AWS) eased barriers to cloud computing by replacing large upfront capital purchases and fixed-term hosting contracts with usage-based, on-demand pricing. 
+Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. This was illuminated by Amazon Web Services (AWS) when they replaced large upfront capital purchases and fixed-term contracts with usage-based on demand priced easing barriers to cloud computing. 
  
 The internet reshaped how people transact, communicate and exchange information,.  Amazon Prime (2005) gave subscribers access to free two-day shipping on hundreds of thousands of items and the iPhone (2007) dropped the internet into every hand. The internet was creating new needs where they didn't exist as Facebook created new ways to network and businesses sought to harness digitalization for product development, marketing and creating new channels with online shopping.
 
@@ -39,12 +39,12 @@ Amazon Web Services (est. 2006) changed this equation to one that shared more va
 ### GROWTH & OTHER RIPPLE EFFECTS
 Success took off for AWS as 12,000 developers had signed up for their storage solution [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized market share and also captured new markets as more startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
 
+In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below).
 
-In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below). 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 300px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 500px; height: auto; flex-shrink: 0;">
 
 
 Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud),
