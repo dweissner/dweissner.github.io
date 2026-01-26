@@ -13,8 +13,10 @@ category: econ
 <li><strong>New or existing:</strong> Innovated an existing product</li>
 <li><strong>Disruption:</strong> Lowered cost, risk & barriers to entry of storage & compute services by giving developers access via API easily on demand. This previously required astronomical upfront spend via lengthy procurement processes.</li>
 <li> <strong>Target Market:</strong> Developers</li>
-<li> <strong>Value creating or cost saving:</strong> Immediately cost saving but creates value over time as more value was created by firms in other industries.</li>
-<li> <strong>Change:</strong> Pricing basis - from large costs upfront via procurement to on the go scalable. </li>
+<li> <strong>Value:</strong>Businesses could spend less time on procurement. Services priced on demand for any amount and easily scaled up or down. </li>
+<li> <strong>Cost:</strong>Significantly lowered costs. Lowered major barrier to entry for new startups </li>
+<li> <strong>Competition:</strong> AWS had the millions of $$$ in infrastructure through the Amazon business and priced in a way that allowed them to gain efficiencies via economies of scale</li>
+
 </ul>
 </div>
  
