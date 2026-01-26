@@ -21,7 +21,8 @@ category: econ
 </div>
  
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-aws3.png" alt="AWS3" style="width: 500px; height: auto; flex-shrink: 0;">
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS3.png" alt="AWS3" style="width: 500px; height: auto; flex-shrink: 0;">
 
 
 ### CONTEXT
