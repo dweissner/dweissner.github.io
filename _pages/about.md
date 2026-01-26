@@ -10,17 +10,15 @@ redirect_from:
 
 
 ![](/images/sunset.png)
-<sub>Photo taken on an early morning run along the East River in New York City.
+<sub>East River, New York City
 
 
 Purpose of this page
 ------
-This is to be a place beyond scrappy notebooks and OneNote tabs to aggregate what I see, read and experience into more thoughtful applications and further reinforce the scaffolding from those knowledge streams. I will also use this space to write reviews on books and other content related to pricing, or related streams, that I am currently reading. 
-
-I enjoy thinking about the intersection between pricing, economics and psychology. I approach pricing problems as strategy puzzles rather than as math problems that need tactical solutions. Andrew Wiles said the following to describe his approach to mathematics and I think it also applies well to pricing: 
+I enjoy immersing in the intersection between pricing, economics and psychology. Pricing is more art than science and I approach each challenge as a puzzle with a cascading set of variables rather than a math problem in need of a tactical solution. Andrew Wiles said the following to describe his approach to mathematics and I think it applies well to pricing: 
 >|"Perhaps I could best describe my experience of \[pricing] in terms of entering a dark mansion. You go into the first room and it's dark, completely dark. You stumble around, bumping into furniture. Gradually, you learn where each piece of furniture is. And finally, after six months or so, you find the light switch and turn it on. Suddenly, it's all illuminated and you can see exactly where you were. Then you enter the next dark room..." 
 
-My notes here will not contain any information or learnings from my place of employment. 
+Notes here will not contain any information or learnings from my place of employment. 
 
 
 Let's connect!

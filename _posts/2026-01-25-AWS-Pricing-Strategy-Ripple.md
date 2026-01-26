@@ -15,7 +15,7 @@ category: econ
 <li> <strong>Target Market:</strong> Developers</li>
 <li> <strong>Value:</strong> Businesses could spend less time on procurement. Services priced on demand for any amount and easily scaled up or down. </li>
 <li> <strong>Cost:</strong> Significantly lowered costs. Lowered major barrier to entry for new startups </li>
-<li> <strong>Competition:</strong> AWS had the $$$ infrastructure through under Amazon to scale quickly, gain economies of scale which reduced their cost and then AWS passed those savings to customers via lower prices building a strong moat that warded off competition for many years.</li>
+<li> <strong>Competition:</strong> AWS had the $$$ infrastructure under Amazon to scale quickly, gain economies of scale which reduced their cost and then AWS passed those savings to customers via lower prices building a strong moat that warded off competition for many years.</li>
 
 </ul>
 </div>
@@ -29,7 +29,7 @@ Pricing strategy has the power not only to influence sales for a product but to 
  
 The internet reshaped how people transact, communicate and exchange information,.  Amazon Prime (2005) gave subscribers access to free two-day shipping on hundreds of thousands of items and the iPhone (2007) dropped the internet into every hand. The internet was creating new needs where they didn't exist as Facebook created new ways to network and businesses sought to harness digitalization for product development, marketing and creating new channels with online shopping.
 
-Before 2006, computing required heavy investments in capital and forecasting of the right amount of storage capacity and compute power so that businesses could secure sufficient server equipment or else risk being ill-prepared for surges resulting in missed business opportunities. On the other hand, overshooting compute needs meant computing infrastructure sat idly waste. For firms in some industries like accounting, compute needs vary seasonally and for startups the future carries more general uncertainty furthering the risk of capital gone to waste. The previous model hindered the ability to scale quickly. 
+Before 2006, firms needed to anticipate forecast and pay for enough compute power to cover their needs, accommodate growth and bursts of traffic so that they secured sufficient server equipment or else risk being ill-prepared for surges resulting in missed business opportunities.  On the other hand, overshooting compute needs meant computing infrastructure sat idling in waste. For firms in some industries like accounting, compute needs vary seasonally and for startups the future carries more general uncertainty furthering the risk of capital gone to waste. The previous model hindered the ability to scale quickly. 
 
 
 ### INTRODUCING AWS 
