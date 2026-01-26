@@ -20,7 +20,6 @@ category: econ
 </ul>
 </div>
  
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS3.png" alt="AWS3" style="width: 500px; height: auto; flex-shrink: 0;">
 
@@ -36,6 +35,7 @@ Before 2006, computing required heavy investments in capital and forecasting of 
 ### INTRODUCING AWS 
 Amazon Web Services (est. 2006) changed this equation to one that shared more value by restructuring the price basis to any amount available for purchase on-demand. Instead of having to forecast some amount for a future period,  firms could purchase the storage and computing power they need from AWS for use right away and could easily scale up or down as moderated by their needs. Before AWS, if a product or service went viral, the firm would need to purchase or rent additional servers through a procurement process but AWS, storage could be allocated via API with cloud computing (the "cloud" just means someone else's computers). 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
 
 
 #### Andy Jassy (first CEO of AWS), 
