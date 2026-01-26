@@ -9,8 +9,9 @@ category: econ
 <div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding-left: 15px; margin: 5px;">
 <h2>AWS Cloud Computing</h2>
 <ul> 
-<li><strong>New or existing:</strong> Increased accessibility to existing product</li>
 <li><strong>Product:</strong> Cloud Computing</li>
+<li><strong>New or existing:</strong> Innovated an existing product</li>
+<li><strong>Disruption:</strong> Gave developers access to Storage & Compute services via API</li>
 <li> <strong>Target Market:</strong> Developers</li>
 <li> <strong>Value creating or cost saving:</strong> Immediately cost saving but creates value over time as more value was created by firms in other industries.</li>
 <li> <strong>Change:</strong> Pricing basis - from large costs upfront via procurement to on the go scalable. </li>
