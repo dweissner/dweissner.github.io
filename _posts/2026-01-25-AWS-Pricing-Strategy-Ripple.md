@@ -20,7 +20,8 @@ category: econ
 </ul>
 </div>
  
- 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
+
 
 ### CONTEXT
 Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. This was illuminated by Amazon Web Services (AWS) when they replaced large upfront capital purchases and fixed-term contracts with usage-based on demand priced easing barriers to cloud computing. 
