@@ -11,7 +11,7 @@ category: econ
 <ul> 
 <li><strong>Product:</strong> Cloud Computing</li>
 <li><strong>New or existing:</strong> Innovated an existing product</li>
-<li><strong>Disruption:</strong> Gave developers access to Storage & Compute services via API</li>
+<li><strong>Disruption:</strong> Lowered cost, risk & barriers to entry of storage & compute services by giving developers access via API easily on demand. This previously required astronomical upfront spend via lengthy procurement processes.</li>
 <li> <strong>Target Market:</strong> Developers</li>
 <li> <strong>Value creating or cost saving:</strong> Immediately cost saving but creates value over time as more value was created by firms in other industries.</li>
 <li> <strong>Change:</strong> Pricing basis - from large costs upfront via procurement to on the go scalable. </li>
