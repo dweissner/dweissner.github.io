@@ -35,15 +35,16 @@ Amazon Web Services (est. 2006) changed this equation to one that shared more va
 #### Andy Jassy (first CEO of AWS), 
 > “Amazon S3 is based on the idea that quality Internet-based storage should be taken for granted. It helps free developers from worrying about where they are going to store data, whether it will be safe and secure, if it will be available when they need it, the costs associated with server maintenance, or whether they have enough storage available. Amazon S3 enables developers to focus on innovating with data, rather than figuring out how to store it.”
 
+
 ### GROWTH & OTHER RIPPLE EFFECTS
-Success took off for AWS as 12,000 developers had signed up for their storage solution [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized share and also captured new markets as startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
+Success took off for AWS as 12,000 developers had signed up for their storage solution [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized market share and also captured new markets as more startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
 
-<img src="/images/2026-01-25-AWS1.PNG" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
+<img src="/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
 
 
 In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below). 
-<img src="/images/2026-01-25-AWS2.PNG" alt="AWS2" style="width: 300px; height: auto; flex-shrink: 0;">
+<img src="/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 300px; height: auto; flex-shrink: 0;">
 
 
 Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud),
