@@ -7,7 +7,7 @@ category: econ
 ---
 
 <div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding-left: 15px; margin: 5px;">
-<h2>AWS Cloud Computing</h2>
+<h2>AWS</h2>
 <ul> 
 <li><strong>Product:</strong> Cloud Computing</li>
 <li><strong>New or existing:</strong> Innovated an existing product</li>
