@@ -1,5 +1,5 @@
 ---
-title: 'Wide Ripple Effects of Pricing Strategy at AWS'
+title: 'Rippling Price Strategy of AWS'
 date: 2026-01-25
 permalink: /posts/2025/07/Pricing-Impact/
 tags:
