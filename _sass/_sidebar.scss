@@ -84,7 +84,12 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 10px; /* Change this value to adjust shape:
+                            - 0px = square
+                            - 10px = rounded square (current)
+                            - 50% = circle
+                            - 20px = more rounded
+                            - Or use clip-path for other shapes */
 
     @include breakpoint($large) {
       padding: 5px;
