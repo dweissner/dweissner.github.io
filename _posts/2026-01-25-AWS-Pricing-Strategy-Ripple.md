@@ -31,7 +31,7 @@ Before 2006, businesses on the web had to procure computing infrastructure and e
 
 Then there was the issue of scaling. Scaling up to accommodate growth before cloud computing meant purchasing more servers, infrastructure, equipment and related services via painfully slow procurement processes. Amazon redefined the equation in 2006. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
 [Jeff Barr, Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
 
 
@@ -48,7 +48,7 @@ In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion t
 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote3.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
 
 ### AWS GROWTH & RIPPLE EFFECTS
 AWS immediately saw great success. By the end of launch day, over 12,000 developers had signed up for S3 [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3)  and over 240,000 developers had worked with AWS by the end of the first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). Amazon's success had ripple effect on other markets and industries. Startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands to buy servers and access to data centers. Cloud computing became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired, "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate effect on startup growth but once he economy recovered, did see an acceleration (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
