@@ -33,7 +33,7 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
 
-</br>
+
 [Jeff Barr, Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
 
 
