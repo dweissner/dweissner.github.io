@@ -24,16 +24,28 @@ category: econ
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS3.png" alt="AWS3" style="width: 500px; height: auto; flex-shrink: 0;">
 
 
-### CONTEXT
-Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. This was illuminated by Amazon Web Services (AWS) when they replaced large upfront capital purchases and fixed-term contracts with usage-based on demand priced easing barriers to cloud computing. 
+### INTRODUCTION
+Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. Amazon illuminated this with Amazon Web Services (AWS) when it demolished the barriers to computing services by replacing large infrastructure with cloud computing. 
+
  
 The internet reshaped how people transact, communicate and exchange information,.  Amazon Prime (2005) gave subscribers access to free two-day shipping on hundreds of thousands of items and the iPhone (2007) dropped the internet into every hand. The internet was creating new needs where they didn't exist as Facebook created new ways to network and businesses sought to harness digitalization for product development, marketing and creating new channels with online shopping.
 
-Before 2006, firms needed to anticipate forecast and pay for enough compute power to cover their needs, accommodate growth and bursts of traffic so that they secured sufficient server equipment or else risk being ill-prepared for surges resulting in missed business opportunities.  On the other hand, overshooting compute needs meant computing infrastructure sat idling in waste. For firms in some industries like accounting, compute needs vary seasonally and for startups the future carries more general uncertainty furthering the risk of capital gone to waste. The previous model hindered the ability to scale quickly. 
+Before 2006, computing required heavy investments in capital and forecasting of the right amount of storage capacity and compute power so that businesses could secure sufficient server equipment or else risk being ill-prepared for surges resulting in missed business opportunities. At the other extreme, overshooting compute needs led to computing infrastructure sat idly waste. For firms in more seasonal industries like accounting, compute needs varied predictably over the year while for startups for which budgets are tight and the future is often more uncertain, and thus there was a greater risk of capital gone to waste. 
+
+Scaling up to accommodate growth before cloud computing meant purchasing more servers, infrastructure, equipment and related services via slow procurement processes . Amazon redefined this equation in 2006. 
 
 
-### INTRODUCING AWS 
-Amazon Web Services (est. 2006) changed this equation to one that shared more value by restructuring the price basis to any amount available for purchase on-demand. Instead of having to forecast some amount for a future period,  firms could purchase the storage and computing power they need from AWS for use right away and could easily scale up or down as moderated by their needs. Before AWS, if a product or service went viral, the firm would need to purchase or rent additional servers through a procurement process but AWS, storage could be allocated via API with cloud computing (the "cloud" just means someone else's computers). 
+
+### DISRUPTION 
+Amazon Web Services (est. 2006) changed this equation by restructuring the price basis to any amount available for purchase on-demand. Instead of having to forecast some amount for a future period,  firms could purchase the storage and computing power they need from AWS for immediate use and then scale up or down as moderated by their needs. Before AWS, if a product or service went viral, the firm would need to purchase or rent additional servers through a procurement process but with AWS, storage could be allocated via API. Thus, commenced the era of cloud computing (the "cloud" means someone else's computers). 
+[cite](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
+
+
+ AWS first released the S3 (Simple Storage service) in March 2006 and then EC2 (Elastic Compute Cloud) shortly after. Both eliminated lengthy sourcing processes and the setting up of physical hardware. Developers simply initiated a server instance hosted with Amazon and that virtual server instance was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents per hour for server time which over a month of continuous use came to $72, comparable to traditional server providers at that time. It was even surmised that these prices may not have been sufficiently low to compete in a TechCrunch article written at that time but the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
+
+> "Sometimes you need a lot of processing power, and sometimes you need just a little. Sometimes you need a lot, but you only need it for a limited amount of time. Perhaps you are doing some number crunching, some in-depth text processing, some scientific research, or your end-of-month accounting. Or perhaps you want to experiment with some radical new parallel processing algorithm for a week or two. In any of these situations, acquiring sufficient hardware to accommodate the high-water mark of your usage would definitely not be economical," [Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
+- Jeff Bar 
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
 
