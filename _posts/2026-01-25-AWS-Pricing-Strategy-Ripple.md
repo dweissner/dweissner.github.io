@@ -44,11 +44,9 @@ By keeping the price level, AWS may have been taking aim at new markets rather t
 
 In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS strategy as a strong cost leadership position likening it to the approach taken by low cost airlines like Ryanair and Southwest that reframed air travel as a commodity and their strategy was aimed at consumers priced out by legacy carriers.
 
-"We're not competing with other carriers. We want to pull people out of backyards and automobiles and get them off the bus," said by an Executive at Southwest Airlines
-
-
+<div style="text-align: center;>
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
-
+</div>
 
 
 
