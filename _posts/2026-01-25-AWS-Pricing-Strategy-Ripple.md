@@ -46,14 +46,15 @@ Amazon Web Services (est. 2006) changed this equation by restructuring the price
 > "Sometimes you need a lot of processing power, and sometimes you need just a little. Sometimes you need a lot, but you only need it for a limited amount of time. Perhaps you are doing some number crunching, some in-depth text processing, some scientific research, or your end-of-month accounting. Or perhaps you want to experiment with some radical new parallel processing algorithm for a week or two. In any of these situations, acquiring sufficient hardware to accommodate the high-water mark of your usage would definitely not be economical," [Jeff Barr, Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0; padding: 30px">
+
 
 
 #### Andy Jassy (first CEO of AWS), 
 > “Amazon S3 is based on the idea that quality Internet-based storage should be taken for granted. It helps free developers from worrying about where they are going to store data, whether it will be safe and secure, if it will be available when they need it, the costs associated with server maintenance, or whether they have enough storage available. Amazon S3 enables developers to focus on innovating with data, rather than figuring out how to store it.”
 
 
-### GROWTH & OTHER RIPPLE EFFECTS
+### AWS GROWTH & RIPPLE EFFECTS
 Success took off for AWS as 12,000 developers had signed up for their storage solution [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized market share and also captured new markets as more startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
