@@ -38,18 +38,6 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 ### DISRUPTION 
  AWS released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly thereafter. Developers could get rolling with a credit card and simply initiate a virtual server instance hosted with Amazon which was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents (USD) per hour for server time which over a month of continuous use came to $72, comparable to traditional server providers at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that these prices may not have been sufficiently low to compete but the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
-
-
-<blockquote>
-  <div style="display: flex; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
-    <img src="/images/Magnifying_Focus.png" alt="magnify" style="width: 100px; height: auto; flex-shrink: 0;">
-    <div style="flex: 1; min-width: 200px;">
-      <p style="margin: 0;">“Amazon S3 is based on the idea that quality Internet-based storage should be taken for granted. It helps free developers from worrying about where they are going to store data, whether it will be safe and secure, if it will be available when they need it, the costs associated with server maintenance, or whether they have enough storage available. Amazon S3 enables developers to focus on innovating with data, rather than figuring out how to store it,” Andy Jassy</p>
-    </div>
-  </div>
-</blockquote>
-
 By keeping the price level, AWS may have been taking aim at new markets rather than seeking conversion from existing onces. By shifting the model from sales-led enterprise procurement to self-serve, product-led purchasing, AWS made computing accessible to the startups and small businesses that previously could not afford all the large infrastructure. 
 
 In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS's pricing strategy for taking a strong cost leadership position. 
@@ -60,6 +48,7 @@ In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion t
 
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
 
 ### AWS GROWTH & RIPPLE EFFECTS
 AWS immediately saw great success. By the end of launch day, over 12,000 developers had signed up for S3 [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3)  and over 240,000 developers had worked with AWS by the end of the first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). Amazon's success had ripple effect on other markets and industries. Startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands to buy servers and access to data centers. Cloud computing became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired, "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate effect on startup growth but once he economy recovered, did see an acceleration (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
