@@ -42,10 +42,10 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 
 By keeping the price level, AWS may have been taking aim at new markets rather than seeking conversion from existing onces. By shifting the model from sales-led enterprise procurement to self-serve, product-led purchasing, AWS made computing accessible to the startups and small businesses that previously could not afford all the large infrastructure. 
 
-In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS strategy as a strong cost leadership position likening it to the approach taken by low cost airlines like Ryanair and Southwest that reframed air travel as a commodity and their strategy was aimed at consumers priced out by legacy carriers.
+In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS strategy for taking a strong cost leadership position likening it to the approach taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time.
 
 <div style="text-align: center;>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 450px; height: auto; flex-shrink: 0;">
 </div>
 
 
