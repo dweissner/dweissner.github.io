@@ -31,14 +31,14 @@ Before 2006, businesses on the web had to procure computing infrastructure and e
 
 Then there was the issue of scaling. Scaling up to accommodate growth before cloud computing meant purchasing more servers, infrastructure, equipment and related services via painfully slow procurement processes. Amazon redefined the equation in 2006. 
 
-
-> "Sometimes you need a lot of processing power, and sometimes you need just a little. Sometimes you need a lot, but you only need it for a limited amount of time. Perhaps you are doing some number crunching, some in-depth text processing, some scientific research, or your end-of-month accounting. Or perhaps you want to experiment with some radical new parallel processing algorithm for a week or two. In any of these situations, acquiring sufficient hardware to accommodate the high-water mark of your usage would definitely not be economical," [Jeff Barr, Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
+[Jeff Barr, Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
 
 
 ### DISRUPTION 
  AWS released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly thereafter. Developers could get rolling with a credit card and simply initiate a virtual server instance hosted with Amazon which was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents (USD) per hour for server time which over a month of continuous use came to $72, comparable to traditional server providers at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that these prices may not have been sufficiently low to compete but the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote1.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
 
 
 <blockquote>
