@@ -46,14 +46,11 @@ By keeping the price level, AWS may have been taking aim at new markets rather t
 In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS strategy for taking a strong cost leadership position likening it to the approach taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time.
 
 <div style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 450px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 350px; height: auto; flex-shrink: 0;">
 </div>
 
 
 
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote3.png" alt="AWS1" style="width: 350px; height: auto; flex-shrink: 0;">
 
 ### AWS GROWTH & RIPPLE EFFECTS
 AWS immediately saw great success. By the end of launch day, over 12,000 developers had signed up for S3 [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3)  and over 240,000 developers had worked with AWS by the end of the first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). Amazon's success had ripple effect on other markets and industries. Startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands to buy servers and access to data centers. Cloud computing became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired, "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate effect on startup growth but once he economy recovered, did see an acceleration (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
