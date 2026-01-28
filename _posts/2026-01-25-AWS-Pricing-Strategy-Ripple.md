@@ -32,9 +32,10 @@ Before 2006, businesses on the web had to procure computing infrastructure and e
 Then there was the issue of scaling. Scaling up to accommodate growth before cloud computing meant purchasing more servers, infrastructure, equipment and related services via painfully slow procurement processes. Amazon redefined the equation in 2006. 
 <div style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
-</div>
 
 [Jeff Barr, Amazon blog](https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com)
+</div>
+
 
 
 ### DISRUPTION 
