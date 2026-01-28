@@ -43,8 +43,9 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS strategy for taking a strong cost leadership position likening it to the approach taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time. 
 
 <div style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 350px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 350px; height: auto; flex-shrink: 0; padding:20px 0"> 
 </div>
+
 
 Similarly, by changing to an on-demand model that can accommodate scaling but keeping the cost of long-term computing otherwise level, AWS may have been taking aim at new markets rather than seeking conversion from existing onces. By shifting the model from sales-led enterprise procurement to self-serve, product-led purchasing, AWS made computing accessible to the startups and small businesses that previously could not afford all the large infrastructure. 
 
