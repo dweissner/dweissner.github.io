@@ -1,7 +1,7 @@
 ---
-title: 'Rippling Price Strategy of AWS'
+title: 'The Rippling Price Strategy of AWS'
 date: 2026-01-25
-permalink: /posts/2025/07/Pricing-Impact/
+permalink: /posts/2026/01/AWS/
 tags:
 category: econ
 ---
@@ -38,7 +38,7 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 ### DISRUPTION 
  AWS released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly thereafter. Developers could get rolling with a credit card and simply initiate a virtual server instance hosted with Amazon which was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents (USD) per hour for server time which over a month of continuous use came to $72, comparable to traditional server providers at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that these prices may not have been sufficiently low to compete but the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
 
- I would speculate that keeping the price for continuous use level with competition at that time was intentional and AWS strategy may have aimed at tapping into a new segment and creating a new market for computing rather than seizing market share by converting business away. 
+By keeping the price level but , AWS may have been taking aim at a new market rather than converting business away. 
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0; padding: 30px">
