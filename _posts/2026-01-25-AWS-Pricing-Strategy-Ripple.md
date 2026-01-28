@@ -41,7 +41,6 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 By keeping the price level but , AWS may have been taking aim at a new market rather than converting business away. 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-datacenter_to_cloud.gif" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0; padding: 30px">
 
 
 
