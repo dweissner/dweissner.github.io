@@ -23,7 +23,7 @@ category: econ
 
 
 ### INTRODUCTION
-Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. Amazon illuminated this with Amazon Web Services (AWS) when it demolished the barriers to computing services by replacing large infrastructure with cloud computing. 
+Pricing strategy has the power not only to influence sales for a product but to restructure an entire industry. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and risks they inherently take, and altogether that can reshape the broader economy. Amazon Web Services illuminated this when it demolished the computing barriers that businesses faced by replacing the large server infrastructure model with cloud computing. Cloud computing allowed businesses to trade fixed expenses like data centers and physical servers for variable ones by only paying on-demand to use Amazon's infastructure instead of acquiring their own.
 
 In the 2000's the internet began to reshape how people transact, communicate and exchange information.  Amazon Prime (2005) gave subscribers access to free two-day shipping on hundreds of thousands of items and the iPhone (2007) dropped the internet into every hand. The internet was creating new needs where they didn't exist as Facebook created new ways to network and businesses sought to harness digitalization for product development, marketing and creating new channels with online shopping.
 
