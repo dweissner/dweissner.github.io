@@ -11,11 +11,9 @@ category: econ
 <ul> 
 <li><strong>Product:</strong> Cloud Computing</li>
 <li><strong>New or existing:</strong> Innovated an existing product</li>
-<li><strong>Disruption:</strong> Lowered cost, risk & barriers to entry of storage & compute services by giving developers access via API easily on demand. This previously required astronomical upfront spend via lengthy procurement processes.</li>
-<li> <strong>Target Market:</strong> Developers</li>
-<li> <strong>Value:</strong> Businesses could spend less time on procurement. Services priced on demand for any amount and easily scaled up or down. </li>
-<li> <strong>Cost:</strong> Significantly lowered costs. Lowered major barrier to entry for new startups </li>
-<li> <strong>Competition:</strong> AWS had the $$$ infrastructure under Amazon to scale quickly, gain economies of scale which reduced their cost and then AWS passed those savings to customers via lower prices building a strong moat that warded off competition for many years.</li>
+<li><strong>Disruption:</strong> Drastically lowered costs, risks & barriers to entry of computing services by giving developers access on-demand via API.</li>
+<li> <strong>Target Market:</strong> Developers, small businesses, startups</li>
+<li> <strong>Competitive Landscape:</strong> AWS had the $$$ infrastructure under Amazon to scale quickly, gain economies of scale which reduced their cost and then AWS passed those savings to customers via lower prices building a strong moat that warded off competition for many years.</li>
 
 </ul>
 </div>
@@ -55,7 +53,7 @@ Amazon Web Services (est. 2006) changed this equation by restructuring the price
 
 
 ### AWS GROWTH & RIPPLE EFFECTS
-Success took off for AWS as 12,000 developers had signed up for their storage solution [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized market share and also captured new markets as more startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
+Success took off for AWS as 12,000 developers signed up for their storage solution S3 [1](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/S3) on launch day and over 240,000 developers were working with AWS by the end of its first year [2](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). In a wide rippling of effects, AWS seized market share and also captured new markets as more startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands or millions to buy servers and obtain access to data centers. This became a key enabler of new business ventures as a Silicon Valley entrepreneur told Wired. "Infrastructure is the big guys' most powerful asset. This levels the playing field."[3](https://www.wired.com/2008/04/mf-amazon/). Had it not been for the financial crisis in 2007, we may have seen an immediate multiplier effect from cloud computing on startup growth but we did see a sharp acceleration when it recovered (see below). [4](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
 
