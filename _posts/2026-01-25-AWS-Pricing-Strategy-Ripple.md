@@ -40,11 +40,11 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 ### DISRUPTION 
  AWS released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly thereafter. Developers could get rolling with a credit card and simply initiate a virtual server instance hosted with Amazon which was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents (USD) per hour for server time and over a month of continuous use that added up to $72, which was comparable to traditional server providers at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that these prices may not have been sufficiently low to compete with traditional server providers at the time as it remained to be seen whether the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
 
-In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion AWS strategy for its cost leadership approach likening it to that taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time. 
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 400px; height: auto; flex-shrink: 0; padding:20px 0"> 
-</div>
+</div>In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion AWS strategy for its cost leadership approach likening it to that taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time. 
+
 
 Similarly, by changing to an on-demand model that can accommodate scaling but keeping the cost of long-term computing otherwise level, AWS may have been taking aim at new markets like smaller businesses with tighter budgets rather than seeking conversion from existing onces. Also by shifting from sales-led enterprise procurement to self-serve, product-led purchasing, AWS empowered developers to make 
 
