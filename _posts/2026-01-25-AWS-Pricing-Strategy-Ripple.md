@@ -72,6 +72,6 @@ Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-ea
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
 </div>
-Amazon was navigating uncharted waters the entering the tech space as an e-commerce conglomerate. 
+Amazon was navigating uncharted waters in entering the tech space as an e-commerce conglomerate. 
 
 
