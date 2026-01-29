@@ -42,7 +42,7 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 
 In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion AWS strategy for its cost leadership approach likening it to that taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time. 
 
-<div style="text-align: center;">
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 400px; height: auto; flex-shrink: 0; padding:20px 0"> 
 </div>
 
@@ -72,6 +72,6 @@ Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-ea
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
 </div>
-Amazon was navigating uncharted waters by the entering the tech space as an e-commerce conglomerate.  
+Amazon was navigating uncharted waters the entering the tech space as an e-commerce conglomerate. 
 
 
