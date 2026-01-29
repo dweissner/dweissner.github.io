@@ -7,7 +7,7 @@ category: econ
 ---
 
 <div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding-left: 15px; margin: 5px;">
-<h2>AWS</h2>
+<h1>AWS</h1>
 <ul> 
 <li><strong>Product:</strong> Cloud Computing</li>
 <li><strong>New or existing:</strong> Innovated an existing product</li>
@@ -38,16 +38,15 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 
 
 ### DISRUPTION 
- AWS released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly thereafter. Developers could get rolling with a credit card and simply initiate a virtual server instance hosted with Amazon which was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents (USD) per hour for server time which over a month of continuous use came to $72, comparable to traditional server providers at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that these prices may not have been sufficiently low to compete but the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
+ AWS released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly thereafter. Developers could get rolling with a credit card and simply initiate a virtual server instance hosted with Amazon which was charged back based on CPU, storage and bandwidth usage. Rather than continuous term lengths, firms paid for their usage on-demand starting at a base rate of 10 cents (USD) per hour for server time and over a month of continuous use that added up to $72, which was comparable to traditional server providers at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that these prices may not have been sufficiently low to compete with traditional server providers at the time as it remained to be seen whether the lure of the new model was not in its continuously available price but in the ease of launching and scaling it. 
 
-In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion the AWS strategy for taking a strong cost leadership position likening it to the approach taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time. 
+In their book <i>Game Changer,</i> Jean-Manuel Izaret and Arnab Sinha champion AWS strategy for its cost leadership approach likening it to that taken by low cost airlines like Ryanair and Southwest. These airlines reframed air travel as a commodity and took aim at consumers who were priced out by legacy carriers at the time. 
 
 <div style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 350px; height: auto; flex-shrink: 0; padding:20px 0"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote4.png" alt="AWS4" style="width: 400px; height: auto; flex-shrink: 0; padding:20px 0"> 
 </div>
 
-
-Similarly, by changing to an on-demand model that can accommodate scaling but keeping the cost of long-term computing otherwise level, AWS may have been taking aim at new markets rather than seeking conversion from existing onces. By shifting the model from sales-led enterprise procurement to self-serve, product-led purchasing, AWS made computing accessible to the startups and small businesses that previously could not afford all the large infrastructure. 
+Similarly, by changing to an on-demand model that can accommodate scaling but keeping the cost of long-term computing otherwise level, AWS may have been taking aim at new markets like smaller businesses with tighter budgets rather than seeking conversion from existing onces. Also by shifting from sales-led enterprise procurement to self-serve, product-led purchasing, AWS empowered developers to make 
 
 
 ### AWS GROWTH & RIPPLE EFFECTS
@@ -63,3 +62,6 @@ In addition, cloud computing was a little known term before rapidly grew in popu
 
 Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud),
 > "It totally changed how people build businesses. You no longer needed to find tens of thousands of dollars to invest in hardware when you weren't even sure if something was going to work. It just de-risked everything. You could store all the data you needed on S3, and things that you couldn't have run on your personal computer before suddenly became doable. It completely transformed our understanding of what was possible."
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 500px; height: auto; flex-shrink: 0;">
+### COMPETITION
