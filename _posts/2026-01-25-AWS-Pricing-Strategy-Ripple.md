@@ -67,7 +67,10 @@ Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-ea
 "It totally changed how people build businesses. You no longer needed to find tens of thousands of dollars to invest in hardware when you weren't even sure if something was going to work. It just de-risked everything. You could store all the data you needed on S3, and things that you couldn't have run on your personal computer before suddenly became doable. It completely transformed our understanding of what was possible."
 </div>
 
-<div style="text-align: center;">
+### COMPETITION
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
 </div>
-### COMPETITION
+Amazon was navigating uncharted waters by the entering the tech space as an e-commerce conglomerate.  
+
+
