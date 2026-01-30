@@ -25,16 +25,17 @@ category: econ
 ### INTRODUCTION
 Pricing strategy has the power not only to influence sales for a product but to reshape an industry and the entire economy. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and what risks they inherently take. Amazon Web Services (AWS) illuminated this by replacing upfront capital and long-term hosting commitments with metered, on-demand pricing.  Businesses traded fixed expenses like data centers and physical servers for variable ones by using Amazon's infrastructure on-demand instead of acquiring their own.
 
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
+<a href="https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
+</a>
+</div>
 The year 2000 commenced a decade when businesses sought to get on the web as the internet reshaped how people transact, communicate and exchange information.  Amazon Prime (2005) gave subscribers access to free two-day shipping on hundreds of thousands of items and the iPhone (2007) dropped the internet into every hand. Facebook created new ways to network (2006) and Google created a platform for advertising (2000). The internet created needs where they didn't exist and businesses were beginning to harness digitalization for product development, marketing and new channels created by online shopping.
 
 Before 2006, businesses on the web had to procure computing infrastructure and equipment costing thousands of dollars. They needed to forecast the amount of storage capacity and compute power needed for the future to  secure sufficient server equipment or risk being ill-prepared for surges and thus missing business opportunities. At the other extreme, overshooting compute needs led to computing infrastructure that sat idle. For firms in more seasonal industries like accounting, high intensity computing was integral but only needed for a few months every year, and for startups, budgets were tight and the future uncertain, so investments in servers and data centers carried a greater risk of capital gone to waste. 
 
 Then there was the issue of scaling. Scaling up to accommodate growth before cloud computing meant purchasing more servers, infrastructure, equipment and related services via painfully slow procurement processes. Amazon redefined the equation in 2006. 
-<div style="text-align: center;">
-<a href="https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com">
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
-</a>
-</div>
+
 
 
 ### DISRUPTION 
