@@ -11,7 +11,7 @@ category: econ
 <ul> 
 <li><strong>Product:</strong> Cloud Computing</li>
 <li><strong>New or existing:</strong> Innovated an existing product</li>
-<li><strong>Disruption:</strong> Drastically lowered costs, risks & barriers to entry of computing services by giving developers access on-demand via API.</li>
+<li><strong>Disruption:</strong> Replaced upfront capital and long-term hosting commitments with metered, on-demand pricing by giving developers access to storage and computing bandwidth on-demand via API which made computing more accessible to startups and small businesses.</li>
 <li> <strong>Target Market:</strong> Developers, small businesses, startups</li>
 <li> <strong>Competitive Landscape:</strong> AWS had the $$$ infrastructure under Amazon to scale quickly, gain economies of scale which reduced their cost and then AWS passed those savings to customers via lower prices building a strong moat that warded off competition for many years.</li>
 
