@@ -53,6 +53,8 @@ Similarly, by changing to an on-demand model that can accommodate scaling but ke
 
 
 ### AWS GROWTH & RIPPLE EFFECTS
+<div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote5.png" alt="AWSquote5" style="width: 300px; height: auto; flex-shrink: 0;">
 AWS immediately saw great success. By the end of launch day, over [12,000 developers had signed up for S3](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/)  and Amazon reported in their 2006 annual report that [over 240,000 developers had worked with AWS by the end of the first year](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). Amazon's success had ripple effects on other markets and industries. Startups could now get online with a credit card and pay a monthly bill for what they need instead of raising thousands to buy servers and access to data centers. Cloud computing became a key enabler of new business ventures as a Silicon Valley entrepreneur told [Wired,](https://www.wired.com/2008/04/mf-amazon/) "Infrastructure is the big guys' most powerful asset. This levels the playing field.". Had it not been for the financial crisis in 2007, we may have seen an immediate effect on startup growth but once he economy recovered, did see an acceleration (see below). 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
