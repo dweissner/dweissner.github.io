@@ -71,7 +71,11 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 [Chart from SiliconValleyIndicators.org](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
 # UNFINISHED - STILL IN WORK:
-## AIN'T NO STOPPIN US NOW
+## Cost Leadership is ingrained in the Amazon Ethos
+Before we get to competitive dynamics and how Amazon used pricing to fortify its positioning its important to understand how Amazon manages its costs. 
+
+For companies in the cost leadership game, scale is the key tool that widens the field of defensive plays available  companies that play the Cost Leadership game. 
+
 AWS was born to tackle a costly inefficiency problem at Amazon. To power its own diverse business spanning books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast and before AWS, developers across this vast ecosystem were constantly bogged down by repetitive and overcomplicated workflows which slowed innovation. 
 
 To mitigate this, Amazon streamlined processes into a replicable system of primitives and mandated that all data and functionality be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus undertaken the gargantuan cost of building a cloud system for itself and scaled that into a monetizable service. 
@@ -82,6 +86,7 @@ For its own computing needs, Amazon had already acquired abut to offer be a clou
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
 </div>
 
+## AIN'T NO STOPPIN US NOW
 As AWS focused intensely on acquisition and many startups under its umbrella among them Airbnb, Dropbox, Instagram, Pinterest and Stripe also grew and scaled, Amazon's market power in procurement also grew yielding economic returns to scale with cost savings on data center infrastructure. AWS thus achieved a cost leadership position by the time Microsoft introduced their cloud computing service Azure in 2010 and  Google Cloud in 2013. 
 
 This is how it achieved a leaps and bounds head start. 
