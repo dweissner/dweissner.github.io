@@ -71,7 +71,15 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 [Chart from SiliconValleyIndicators.org](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
 
-So 
+### AIN'T NO STOPPIN US NOW
+To be a cloud computing provider, Amazon had to acquire a tremendous amount of costly infrastructure that few other companies could afford. Those costs always made sense because the first and most important customer of AWS was always Amazon itself.  The backbone of AWS was developed in response to an inefficiency problem among teams of developers across Amazon.The solution reduced various computing steps into a set of primitives thus creating a replicable system which developers could tap into via API. Amazon had undertaken the gargantuan cost for itself and then scaled it into a new service, thus achieving a leaps and bounds head start. 
+
+As it focused intensely on acquisition and startups under its umbrella scaled and demanded more, Amazon's market power in procurement also grew yielding economic returns to scale with cost savings on data center infrastructure. AWS thus achieved a cost leadership position by the time Microsoft introduced their cloud computing service, Azure in 2010 and then Google Cloud in 2013. 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS6.png" alt="AWS6" style="width: 500px; height: auto; flex-shrink: 0;">
+
+This cost leadership position enabled the Consumer Retailer to compete with the two largest tech giants Microsoft and Google on their own turf. AWS took a very transparent approach to cost reductions.  By 2014, AWS [lowered prices for the 42nd time](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com)
+
 
 In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below).
 
