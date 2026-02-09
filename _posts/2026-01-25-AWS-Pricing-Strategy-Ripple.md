@@ -59,7 +59,7 @@ Similarly, with AWS Amazon commoditized computing services since a CPU is a CPU,
 </div> 
 
 AWS immediately saw great success with, over [12,000 developers signing up for S3 by the end of the day it was released](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/) and Amazon reported in their 2006 annual report that [over 240,000 developers worked with AWS by the end of the first year](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). AWS's success had ripple effects across the economy. Startups no longer needed to raise gargantuan stashes of cash to buy servers and data center access to hit the ground running. As a Silicon Valley entrepreneur told [Wired,](https://www.wired.com/2008/04/mf-amazon/) "Infrastructure is the big guys' most powerful asset. This levels the playing field." The AWS Start-up Tour launched in 2008. 
-<div style="font-size: .8em; font-weight: 600; border-top: 3px solid #6c757d; border-left: 3px solid #6c757d; padding-left: 15px; padding-right: 15px; margin: 5px;">
+<div style="font-size: .8em; font-weight: 600; padding-left: 15px; padding-right: 15px; margin: 5px;">
 The 2008 AWS Start-Up Tour is set to take off September 3rd. We invite all start-up leaders and entrepreneurs to join us for these half-day events to learn how AWS empowers entrepreneurship, innovation and sustainable growth. Join us in San Francisco, Palo Alto, Boston, New York, Austin, Salt Lake City, Los Angeles, Seattle, Toronto, London, and Amsterdam. 
 </div>
 The chart below from SiliconValleyIndicators.org shows that start-up growth saw impressive acceleration once the economy recovered from the 2008 financial crisis (see below). 
