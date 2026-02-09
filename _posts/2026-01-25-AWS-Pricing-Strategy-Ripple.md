@@ -64,7 +64,7 @@ AWS immediately saw great success with, over [12,000 developers signing up for S
     The 2008 AWS Start-Up Tour is set to take off September 3rd. We invite all start-up leaders and entrepreneurs to join us for these half-day events to learn how AWS empowers entrepreneurship, innovation and sustainable growth. Join us in San Francisco, Palo Alto, Boston, New York, Austin, Salt Lake City, Los Angeles, Seattle, Toronto, London, and Amsterdam. 
 </div>
 
-The economy took an across the board hit during the 2008 financial crisis but when that ended, Silicon Valley saw an impressive growth in new start-ups. See chart below from SiliconValleyIndicators.org. 
+The economy took an across the board hit during the 2008 financial crisis but when that ended, Silicon Valley saw an impressive growth in new start-ups. In the chart below from SiliconValleyIndicators.org you can see how the number of startup companies began to accelerate in 2010 similar to that of the dot-com era in the late 90s. Of course a number of governmental policy initiatives and stimulus checks likely contributed to that growth as well.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
 
