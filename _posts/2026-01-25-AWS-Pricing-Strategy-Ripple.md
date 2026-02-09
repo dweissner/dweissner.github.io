@@ -72,17 +72,21 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 
 ### AIN'T NO STOPPIN US NOW
-AWS was born to tackle an inefficiency problem at Amazon. To power its own diverse business across books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast but before AWS, the teams of developers across this vast ecosystem were bogged down by repetitive and overcomplicated workflows and this all slowed innovation and created 
+AWS was born to tackle a costly inefficiency problem at Amazon. To power its own diverse business spanning books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast and before AWS, developers across this vast ecosystem were constantly bogged down by repetitive and overcomplicated workflows which slowed innovation. 
 
-The solution identified by Andy Jassy and his team mitigated this by streamlining workflows and reducing complex steps into simpler primitives . The solution reduced various computing steps into a set of primitives thus creating a replicable system which developers could tap into via API. Amazon had undertaken the gargantuan cost for itself and then scaled it into a new service, thus achieving a leaps and bounds head start. 
+To mitigate this, Amazon streamlined processes into a replicable system of primitives and mandated that all data and functionality be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus undertaken the gargantuan cost of building a cloud system for itself and scaled that into a monetizable service. 
 
-  acquired over time a tremendous amount   For its own computing needs, Amazon had already acquired abut to offer  be a cloud computing provider, Amazon had to acquire a tremendous amount of costly infrastructure that few other companies could afford. Those costs always made sense because the first and most important customer of AWS was always Amazon itself.  
+For its own computing needs, Amazon had already acquired abut to offer be a cloud computing provider, Amazon had to acquire a tremendous amount of costly infrastructure that few other companies could afford. Those costs always made sense because the first and most important customer of AWS was always Amazon itself.  
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
 </div>
 
-As AWS focused intensely on acquisition and many startups under its umbrella themselves scaled, Amazon's market power in procurement also grew yielding economic returns to scale with cost savings on data center infrastructure. AWS thus achieved a cost leadership position by the time Microsoft introduced their cloud computing service Azure in 2010 and  Google Cloud in 2013. 
+As AWS focused intensely on acquisition and many startups under its umbrella among them Airbnb, Dropbox, Instagram, Pinterest and Stripe also grew and scaled, Amazon's market power in procurement also grew yielding economic returns to scale with cost savings on data center infrastructure. AWS thus achieved a cost leadership position by the time Microsoft introduced their cloud computing service Azure in 2010 and  Google Cloud in 2013. 
+
+This is how it achieved a leaps and bounds head start. 
+
+  acquired over time a tremendous amount   
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS6.png" alt="AWS6" style="width: 500px; height: auto; flex-shrink: 0;">
 
