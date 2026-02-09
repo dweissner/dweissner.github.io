@@ -72,11 +72,11 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 # UNFINISHED - STILL IN WORK:
 ## Cost Leadership is ingrained in the Amazon Ethos
-Before we get to competitive dynamics and how Amazon used pricing to fortify its positioning its important to understand how Amazon manages its costs. 
+Before we get to competitive dynamics and how Amazon used pricing to fortify its positioning its important to understand the central role that cost management plays in the Amazon playbook. 
 
 For companies in the cost leadership game, scale is the key tool that widens the field of defensive plays available  companies that play the Cost Leadership game. 
 
-AWS was born to tackle a costly inefficiency problem at Amazon. To power its own diverse business spanning books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast and before AWS, developers across this vast ecosystem were constantly bogged down by repetitive and overcomplicated workflows which slowed innovation. 
+AWS was born out of a need to tackle a costly inefficiency problem at Amazon. To power its own diverse business spanning books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast and before AWS, developers across this vast ecosystem were constantly bogged down by repetitive and overcomplicated workflows which slowed innovation. 
 
 To mitigate this, Amazon streamlined processes into a replicable system of primitives and mandated that all data and functionality be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus undertaken the gargantuan cost of building a cloud system for itself and scaled that into a monetizable service. 
 
