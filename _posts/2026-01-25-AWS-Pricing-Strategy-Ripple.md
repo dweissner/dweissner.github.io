@@ -52,7 +52,7 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 Similarly, with AWS Amazon commoditized computing services since a CPU is a CPU, and AWS made that CPU very accessible. By shifting to an on-demand hourly pricing model that facilitated easy scaling while keeping what the monthly cost would be level with the prevailing monthly rental price of dedicated hosting, AWS may have been taking aim at new markets like startups with tight budgets and small businesses which require agility to scale up or down. Mature enterprises on the other hand have much of that capital and operating infrastructure already financed and optimized which would have made switching to a cloud service provider less appealing initially. By lowering the entry barriers, AWS also shifted the purchasing decisions from being enterprise procurement-led to self-serve product-led, thus empowering developers to make agile decisions directly for their organization.
 
 
-### AWS GROWTH & RIPPLE EFFECTS
+### GARGANTUAN GROWTH
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote5.png" alt="AWSquote5" style="width: 300px; height: auto; flex-shrink: 0;">
@@ -70,6 +70,8 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 [Chart from SiliconValleyIndicators.org](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
+
+So 
 
 In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below).
 
