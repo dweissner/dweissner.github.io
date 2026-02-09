@@ -30,7 +30,7 @@ The year 2000 commenced a decade when businesses sought to get on the web as the
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
     <a href="https://aws.amazon.com/blogs/aws/amazon_ec2_beta/?utm_source=chatgpt.com">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 450px; height: auto; flex-shrink: 0;">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote2.png" alt="AWS1" style="width: 375px; height: auto; flex-shrink: 0;">
     </a>
 </div>
 
