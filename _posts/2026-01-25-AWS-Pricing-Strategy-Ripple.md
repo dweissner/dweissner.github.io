@@ -70,8 +70,8 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 [Chart from SiliconValleyIndicators.org](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
-
-### AIN'T NO STOPPIN US NOW
+# UNFINISHED - STILL IN WORK:
+## AIN'T NO STOPPIN US NOW
 AWS was born to tackle a costly inefficiency problem at Amazon. To power its own diverse business spanning books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast and before AWS, developers across this vast ecosystem were constantly bogged down by repetitive and overcomplicated workflows which slowed innovation. 
 
 To mitigate this, Amazon streamlined processes into a replicable system of primitives and mandated that all data and functionality be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus undertaken the gargantuan cost of building a cloud system for itself and scaled that into a monetizable service. 
