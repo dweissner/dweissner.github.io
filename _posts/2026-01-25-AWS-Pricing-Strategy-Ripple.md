@@ -72,7 +72,11 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 
 ### AIN'T NO STOPPIN US NOW
-To be a cloud computing provider, Amazon had to acquire a tremendous amount of costly infrastructure that few other companies could afford. Those costs always made sense because the first and most important customer of AWS was always Amazon itself.  The backbone of AWS was developed in response to an inefficiency problem among teams of developers across Amazon.The solution reduced various computing steps into a set of primitives thus creating a replicable system which developers could tap into via API. Amazon had undertaken the gargantuan cost for itself and then scaled it into a new service, thus achieving a leaps and bounds head start. 
+AWS was born to tackle an inefficiency problem at Amazon. To power its own diverse business across books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast but before AWS, the teams of developers across this vast ecosystem were bogged down by repetitive and overcomplicated workflows and this all slowed innovation and created 
+
+The solution identified by Andy Jassy and his team mitigated this by streamlining workflows and reducing complex steps into simpler primitives . The solution reduced various computing steps into a set of primitives thus creating a replicable system which developers could tap into via API. Amazon had undertaken the gargantuan cost for itself and then scaled it into a new service, thus achieving a leaps and bounds head start. 
+
+  acquired over time a tremendous amount   For its own computing needs, Amazon had already acquired abut to offer  be a cloud computing provider, Amazon had to acquire a tremendous amount of costly infrastructure that few other companies could afford. Those costs always made sense because the first and most important customer of AWS was always Amazon itself.  
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
