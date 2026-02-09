@@ -21,7 +21,7 @@ category: econ
     <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS3.png" alt="AWS3" style="width: 500px; height: auto; flex-shrink: 0;">
 </div>
 
-### INTRODUCTION
+## INTRODUCTION
 Pricing strategy has the power not only to influence sales for a product but to reshape an industry, industries that interact with that industry and even the entire economy. Pricing is the mechanism that determines who can afford to participate in an industry, how fast they can scale and what risks they inherently take. Amazon Web Services (AWS) illuminated this by replacing upfront capital and long-term hosting commitments with metered, on-demand pricing allowing businesses traded fixed expenses like data centers and physical servers for variable ones by using Amazon's infrastructure on-demand instead of acquiring their own.
 
 The year 2000 commenced a decade when businesses sought to get on the web as the internet reshaped how people transact, communicate and exchange information.  Amazon Prime (2005) gave subscribers access to free two-day shipping on hundreds of thousands of items and the iPhone (2007) dropped the internet into every hand. Facebook created new ways to network (2006) and Google created a platform for advertising (2000). The internet created needs where they didn't exist and businesses were beginning to harness digitalization for product development, marketing and new channels created by online shopping. 
@@ -40,7 +40,7 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 
 
 
-### DISRUPTION 
+## DISRUPTION 
  AWS first released the S3 (Simple Storage service) in March 2006 and the EC2 (Elastic Compute Cloud) shortly after. With just a credit card, developers could sign onto AWS and initiate a virtual server instance hosted by Amazon which was then charged back based on CPU, storage and bandwidth usage. Prices started at a base rate of 10 cents (USD) per hour for server time which if used continuously over an entire month would have added up to $72 and was comparable to what traditional server providers charged on a monthly basis at that time. It was even surmised [(in an article on TechCrunch at the time)](https://techcrunch.com/2006/08/24/exclusive-amazon-readies-utility-computing-service/) that the price may not have been sufficiently low to compete with traditional server providersat the time as it remained to be seen that the value of AWS was not in its continuously available monthly price but in offering an on-demand hourly rate along with the ease of launching and scaling the service. 
 
 
@@ -52,7 +52,7 @@ Then there was the issue of scaling. Scaling up to accommodate growth before clo
 Similarly, with AWS Amazon commoditized computing services since a CPU is a CPU, and AWS made that CPU very accessible. By shifting to an on-demand hourly pricing model that facilitated easy scaling while keeping what the monthly cost would be level with the prevailing monthly rental price of dedicated hosting, AWS may have been taking aim at new markets like startups with tight budgets and small businesses which require agility to scale up or down. Mature enterprises on the other hand have much of that capital and operating infrastructure already financed and optimized which would have made switching to a cloud service provider less appealing initially. By lowering the entry barriers, AWS also shifted the purchasing decisions from being enterprise procurement-led to self-serve product-led, thus empowering developers to make agile decisions directly for their organization.
 
 
-### GARGANTUAN GROWTH
+## GARGANTUAN GROWTH
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote5.png" alt="AWSquote5" style="width: 300px; height: auto; flex-shrink: 0;">
@@ -66,7 +66,7 @@ AWS immediately saw great success with, over [12,000 developers signing up for S
 
 The economy took an across the board hit during the 2008 financial crisis but when that ended, Silicon Valley saw an impressive growth in new start-ups. In the chart below from SiliconValleyIndicators.org you can see how the number of startup companies began to accelerate in 2010 similar to that of the dot-com era in the late 90s. Of course a number of governmental policy initiatives and stimulus checks likely contributed to that growth as well.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 500px; height: auto; flex-shrink: 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
 
 [Chart from SiliconValleyIndicators.org](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
