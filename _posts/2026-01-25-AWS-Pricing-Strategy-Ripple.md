@@ -72,15 +72,7 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 # UNFINISHED - STILL IN WORK:
 ## Cost Leadership is ingrained in the Amazon Ethos
-Before we get to competitive dynamics and how Amazon used pricing to fortify its positioning its important to understand the central role that cost management plays in the Amazon playbook. 
-
-For companies in the cost leadership game, scale is the key tool that widens the field of defensive plays available  companies that play the Cost Leadership game. 
-
-AWS was born out of a need to tackle a costly inefficiency problem at Amazon. To power its own diverse business spanning books, furniture, e-commerce, logistics, video streaming etc., Amazon's computing needs were vast and before AWS, developers across this vast ecosystem were constantly bogged down by repetitive and overcomplicated workflows which slowed innovation. 
-
-To mitigate this, Amazon streamlined processes into a replicable system of primitives and mandated that all data and functionality be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus undertaken the gargantuan cost of building a cloud system for itself and scaled that into a monetizable service. 
-
-For its own computing needs, Amazon had already acquired abut to offer be a cloud computing provider, Amazon had to acquire a tremendous amount of costly infrastructure that few other companies could afford. Those costs always made sense because the first and most important customer of AWS was always Amazon itself.  
+To understand how AWS used pricing to fortify its market share, it is essential to recognize the moat it built through disciplined cost and capital management as well as strong economies of scale. AWS itself was born out of a pursuit for efficiency and cost savings at Amazon. To power its own diverse business spanning e-commerce, logistics, streaming etc., Amazon's computing needs were enormous and before AWS, developers across its vast ecosystem were constantly bogged down by repetitive unruy workflows which slowed innovation. To mitigate this, Amazon streamlined processes into a set of "primitives" and mandated that all data be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus built an internal cloud system and then scaled that into a monetizable service. In this way, the first and most important customer of AWS was always Amazon itself and that justified the initial costs of infrastructure and development. 
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
