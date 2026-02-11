@@ -78,9 +78,9 @@ To understand the leverage AWS had over pricing to fortify its market share, it 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 280px; height: auto; flex-shrink: 0;">
 </div>
 
-As their customer base skyrocketed and startups like Airbnb, Dropbox, Instagram, Pinterest and Stripe under its umbrella also scaled, Amazon's market power in procuring computing infrastructure grew. Rather than large purchases upfront, AWS employed capital leases trading large outlays of cash for smaller payments. This reinforced the negative cash conversion cycle Amazon is known for and optimized positive cash flows. With stringent cost management and cash preservation AWS established itself as a cost leader by the time Microsoft and Google introduced their cloud computing services and that moat afforded AWS the strategic buffer it needed to lower [prices 42 times by March 2014](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake.
+As their customer base skyrocketed and startups like Airbnb, Dropbox, Instagram, Pinterest and Stripe under its umbrella also scaled, Amazon's market power in procuring computing infrastructure grew. Rather than large purchases upfront, AWS employed capital leases trading large outlays of cash for smaller payments. This reinforced the negative cash conversion cycle that Amazon is known for. With these tactics for preserving cash and stringent cost management, AWS established itself as a cost leader by the time Microsoft and Google rolled out their own cloud computing services, and that moat afforded AWS the strategic buffering it needed to lower [prices 42 times by March 2014](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake amidst this competition.
 
-This is how AWS achieved a leaps and bounds head start in cloud computing.
+This is how an e-commerce giant achieved a leaps and bounds head start in cloud computing and claimed a seat at the tech giant table. 
 
 
 
