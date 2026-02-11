@@ -86,3 +86,27 @@ This is AWS achieved a leaps and bounds head start in cloud computing.
  
 
 
+
+<!-- In this way, the first and most important customer of AWS was always Amazon itself and that justified the initial cost of infrastructure. 
+
+
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS6.png" alt="AWS6" style="width: 500px; height: auto; flex-shrink: 0;">
+
+Amazon was navigating uncharted waters as an e-commerce giant but their cost leadership position enabled it to compete with the two largest tech giants Microsoft and Google on their own turf. AWS took a very transparent approach to cost reductions.  By 2014, AWS [lowered prices for the 42nd time](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com)
+
+
+In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below).
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 500px; height: auto; flex-shrink: 0;">
+
+
+
+Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud),
+
+<div style="font-size: 0.75em;">
+
+"It totally changed how people build businesses. You no longer needed to find tens of thousands of dollars to invest in hardware when you weren't even sure if something was going to work. It just de-risked everything. You could store all the data you needed on S3, and things that you couldn't have run on your personal computer before suddenly became doable. It completely transformed our understanding of what was possible."
+</div> -->
+
