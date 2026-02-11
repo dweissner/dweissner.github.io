@@ -58,7 +58,7 @@ Similarly, AWS commoditized computing services since a CPU is a CPU, and suddenl
     <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWSquote5.png" alt="AWSquote5" style="width: 300px; height: auto; flex-shrink: 0;">
 </div> 
 
-AWS immediately saw great success with over [12,000 developers signing up for S3 by the end of the day it was released](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/) and Amazon reported in their 2006 annual report that [over 240,000 developers worked with AWS by the end of the first year](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). The AWS Start-up Tour launched in 2008 with the following [announcement](https://aws.amazon.com/about-aws/whats-new/2008/08/14/aws-start-up-tour/?utm_source=chatgpt.com):
+AWS immediately saw great success with over [12,000 developers signing up for S3 by the end of the day it was released](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/) and Amazon reported in their 2006 annual report that [over 240,000 developers worked with AWS by the end of the first year](https://s2.q4cdn.com/299287126/files/doc_financials/annual/2006AnnualReport.pdf). Amazon launched the AWS Start-up Tour in 2008 with the following [announcement](https://aws.amazon.com/about-aws/whats-new/2008/08/14/aws-start-up-tour/?utm_source=chatgpt.com):
 
 <div style="font-size: .7em; font-weight: 500; padding-left: 25px; padding-right: 25px; margin: 15px;">
     The 2008 AWS Start-Up Tour is set to take off September 3rd. We invite all start-up leaders and entrepreneurs to join us for these half-day events to learn how AWS empowers entrepreneurship, innovation and sustainable growth. Join us in San Francisco, Palo Alto, Boston, New York, Austin, Salt Lake City, Los Angeles, Seattle, Toronto, London, and Amsterdam. 
@@ -66,7 +66,7 @@ AWS immediately saw great success with over [12,000 developers signing up for S3
 
 AWS's success had ripple effects across the economy.  As a Silicon Valley entrepreneur told [Wired,](https://www.wired.com/2008/04/mf-amazon/) "Infrastructure is the big guys' most powerful asset. This levels the playing field."
 
-The economy took an across the board hit during the 2008 financial crisis but when that ended, Silicon Valley saw an impressive growth in new start-ups. In the chart below from SiliconValleyIndicators.org you can see how the number of startup companies began to accelerate in 2010 similar to that of the dot-com era in the late 90s. Of course a number of governmental policy initiatives and stimulus checks likely contributed to that growth as well.
+Despite the 2008 financial crisis when the economy took an across the board hit, Silicon Valley saw an impressive growth in new start-ups when it recovered. In the chart below from SiliconValleyIndicators.org you can see how the number of startup companies began to accelerate in 2010 similar to that of the dot-com era in the late 90s. Of course a number of governmental policy initiatives and stimulus checks likely contributed to that growth as well.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
 
