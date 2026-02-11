@@ -86,7 +86,7 @@ Rather than laying out billions of dollars on data center infrastructure up fron
 
 This positioned AWS to offer cloud services at unbeatable prices from a strong cost leadership position. For a competitor to enter this ring offering the same CPU as AWS, they would need to have their ducks aligned in a row. Realistically that could only be another large tech firm. 
 
-By the time Microsoft and Google rolled out their own cloud computing services, AWS had built up a strategic margin buffer to lower price as the competitive landscape intensified into a full on price war. By March 2014, AWS had lowered their [prices 42 times](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake amidst this competition.
+By the time Microsoft and Google rolled out their own cloud computing services, AWS had built up a strategic margin buffer to lower price as the competitive landscape intensified into a full-on [price war](https://www.techmonitor.ai/hardware/cloud/is-the-aws-azure-google-cloud-price-war-saving-you-money-4783577?utm_source=chatgpt.com&cf-view). By March 2014, AWS had lowered their [prices 42 times](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake amidst this competition.
 
 This is how an e-commerce giant achieved a leaps and bounds head start in cloud computing and claimed a seat at the tech giant table. 
 
