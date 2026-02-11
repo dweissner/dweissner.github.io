@@ -70,38 +70,18 @@ The economy took an across the board hit during the 2008 financial crisis but wh
 
 [Chart from SiliconValleyIndicators.org](https://siliconvalleyindicators.org/data/economy/innovation-entrepreneurship/startups/number-of-seed-or-early-stage-startups-and-total-number-of-startup-companies/?utm_source=chatgpt.com)
 
-# UNFINISHED - STILL IN WORK:
-## Cost Leadership is ingrained in the Amazon Ethos
-To understand how AWS used pricing to fortify its market share, it is essential to recognize the moat it built through disciplined cost and capital management as well as strong economies of scale. AWS itself was born out of a pursuit for efficiency and cost savings at Amazon. To power its own diverse business spanning e-commerce, logistics, streaming etc., Amazon's computing needs were enormous and before AWS, developers across its vast ecosystem were constantly bogged down by repetitive unruy workflows which slowed innovation. To mitigate this, Amazon streamlined processes into a set of "primitives" and mandated that all data be made externally accessible via APIs (a set of rules that lets different software systems talk to each other). Amazon had thus built an internal cloud system and then scaled that into a monetizable service. In this way, the first and most important customer of AWS was always Amazon itself and that justified the initial costs of infrastructure and development. 
+
+## AIN'T NO STOPPIN US NOW
+To understand the leverage AWS had over pricing to fortify its market share, it is essential to recognize the moat it built through disciplined capital management and strong economies of scale. AWS itself was born out of a pursuit for efficiency and cost reduction at Amazon. To power its own diverse business lines spanning e-commerce, logistics, streaming etc., Amazon's computing needs were enormous and before AWS, developers across its vast ecosystem were constantly bogged down by repetitive  workflows that slowed innovation. AWS streamlined those processes into a set of "primitives" and all data was made externally accessible via APIs. Amazon had thus built an internal cloud system and it then scaled that into a monetizable service. 
+
+As their customer base skyrocketed and startups like Airbnb, Dropbox, Instagram, Pinterest and Stripe under its umbrella also scaled, Amazon's market power in procuring computing infrastructure grew. Rather than large purchases upfront, AWS employed capital leases trading large outlays of cash for smaller payments. This reinforced the negative cash conversion cycle Amazon is known for and optimized positive cash flows. With stringent cost management and cash preservation AWS established itself as a cost leader by the time Microsoft and Google introduced their cloud computing services and that moat afforded AWS the strategic buffer to lower their prices as needed to preserve their stake, and by March 2014, AWS announced its [42nd overall price reduction.](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com)
+
+This is AWS achieved a leaps and bounds head start in cloud computing.
 
 <div style="float: right; margin-left: 1em; margin-bottom: 0.5em;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 300px; height: auto; flex-shrink: 0;">
 </div>
 
-## AIN'T NO STOPPIN US NOW
-As AWS focused intensely on acquisition and many startups under its umbrella among them Airbnb, Dropbox, Instagram, Pinterest and Stripe also grew and scaled, Amazon's market power in procurement also grew yielding economic returns to scale with cost savings on data center infrastructure. AWS thus achieved a cost leadership position by the time Microsoft introduced their cloud computing service Azure in 2010 and  Google Cloud in 2013. 
-
-This is how it achieved a leaps and bounds head start. 
-
-  acquired over time a tremendous amount   
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS6.png" alt="AWS6" style="width: 500px; height: auto; flex-shrink: 0;">
-
-Amazon was navigating uncharted waters as an e-commerce giant but their cost leadership position enabled it to compete with the two largest tech giants Microsoft and Google on their own turf. AWS took a very transparent approach to cost reductions.  By 2014, AWS [lowered prices for the 42nd time](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com)
-
-
-In addition, cloud computing was a little known term before rapidly grew in popularity by the end of 2007 (see Google trends chart below).
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS2.png" alt="AWS2" style="width: 500px; height: auto; flex-shrink: 0;">
-
-
-
-Jeff Barr wrote in his [blog series](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud),
-
-<div style="font-size: 0.75em;">
-
-"It totally changed how people build businesses. You no longer needed to find tens of thousands of dollars to invest in hardware when you weren't even sure if something was going to work. It just de-risked everything. You could store all the data you needed on S3, and things that you couldn't have run on your personal computer before suddenly became doable. It completely transformed our understanding of what was possible."
-</div>
 
  
 
