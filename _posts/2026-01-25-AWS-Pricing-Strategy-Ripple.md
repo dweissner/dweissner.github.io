@@ -88,9 +88,9 @@ This positioned AWS to offer cloud services at unbeatable prices from a strong c
 
 By the time Microsoft and Google rolled out their own cloud computing services, AWS had built up a strategic margin buffer to lower price as the competitive landscape intensified into a full-on [price war](https://www.techmonitor.ai/hardware/cloud/is-the-aws-azure-google-cloud-price-war-saving-you-money-4783577?utm_source=chatgpt.com&cf-view). By March 2014, AWS had lowered their [prices 42 times](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake amidst the competition.
 
-Today, a few more competitors including Alibaba have entered the cloud computing space but [Amazon (28% market share) continues to lead Microsoft (21%) and Google (14%).](https://www.srgresearch.com/articles/genai-helps-drive-quarterly-cloud-revenues-to-119-billion-as-growth-rate-jumped-yet-again-in-q4). This space is ripe again for more disruption as AI continues to grow and take over.
+Today, a few more competitors including Alibaba have entered the cloud computing space but [Amazon (28% market share) continues to lead Microsoft (21%) and Google (14%).](https://www.srgresearch.com/articles/genai-helps-drive-quarterly-cloud-revenues-to-119-billion-as-growth-rate-jumped-yet-again-in-q4). This space is ripe again for more disruption as AI continues to grow and take over but that deserves a separate discussion.
 
-This is how an e-commerce giant achieved a leaps and bounds head start in cloud computing and claimed a seat at the tech giant table. 
+This is how an e-commerce giant achieved a leaps and bounds head start in cloud computing and claimed a seat at the tech giant table. While Amazon receives much gripe for how its business practices, its pricing strategy sits on a complex foundation born out of undeniable genius. 
 
 
  
