@@ -66,7 +66,7 @@ AWS immediately saw great success with over [12,000 developers signing up for S3
 
 AWS's success had ripple effects across the economy.  As a Silicon Valley entrepreneur told [Wired,](https://www.wired.com/2008/04/mf-amazon/) "Infrastructure is the big guys' most powerful asset. This levels the playing field."
 
-Despite the 2008 financial crisis when the economy took an across the board hit, Silicon Valley saw an impressive growth in new start-ups when it recovered. In the chart below from SiliconValleyIndicators.org you can see how the number of startup companies began to accelerate in 2010 similar to that of the dot-com era in the late 90s. Of course a number of governmental policy initiatives and stimulus checks likely contributed to that growth as well.
+Despite the 2008 financial crisis when the economy took an across the board hit, Silicon Valley saw an impressive growth in new start-ups when it recovered. In the chart below you can see how the number of startup companies began to accelerate in 2010 similar to how it had in the 90s dot-com era. Of course a number of governmental policy initiatives and stimulus checks likely also contributed to that growth.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS1.png" alt="AWS1" style="width: 300px; height: auto; flex-shrink: 0;">
 
@@ -80,7 +80,9 @@ To understand the leverage AWS had over pricing to fortify its market share, it 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-01-25-AWS4.png" alt="AWS4" style="width: 280px; height: auto; flex-shrink: 0;">
 </div>
 
-As their customer base skyrocketed and startups like Airbnb, Dropbox, Instagram, Pinterest and Stripe under its umbrella also scaled, Amazon's market power in procuring computing infrastructure grew. Rather than large purchases upfront, AWS employed capital leases trading large outlays of cash for smaller payments. This reinforced the negative cash conversion cycle that Amazon is known for. With these tactics for preserving cash and stringent cost management, AWS established itself as a cost leader by the time Microsoft and Google rolled out their own cloud computing services, and that moat afforded AWS the strategic buffering it needed to lower [prices 42 times by March 2014](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake amidst this competition.
+As their customer base grew and startups under its umbrella scaled, AWS's own infrastructure also scaled enriching not only their economies of scale but also their bargaining power in procurement yielding more savings and enhancing AWS's fixed capital structure. Rather than spending billions on data center infrastructure up front, before they ever used to earn revenue, Amazon utilizes capital leases that effectively align cash outflow with utilization. This is a negative cash conversion cycle trick that Amazon is well known for. 
+
+With these tactics for preserving cash and stringent cost management, AWS established itself as a cost leader by the time Microsoft and Google rolled out their own cloud computing services, and that moat afforded AWS the strategic buffering it needed to lower [prices 42 times by March 2014](https://aws.amazon.com/blogs/aws/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce/?utm_source=chatgpt.com) to preserve their stake amidst this competition.
 
 This is how an e-commerce giant achieved a leaps and bounds head start in cloud computing and claimed a seat at the tech giant table. 
 
