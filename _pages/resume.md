@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-<iframe src="https://dweissner.github.io/files/Resume_WeissnerDeborah.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="https://dweissner.github.io/files/Weissner_Deborah_Resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 <a href="https://dweissner.github.io/files/Weissner_Deborah_Resume.pdf" target="_blank">Download PDF</a>
 {% include base_path %}
