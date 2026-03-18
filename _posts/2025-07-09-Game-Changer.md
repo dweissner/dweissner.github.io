@@ -2,6 +2,7 @@
 title: 'How Pricing Shapes Behavior on a Grander Scale'
 date: 2025-07-09
 permalink: /posts/2025/07/Pricing-Impact/
+published: false
 tags:
 category: econ
 ---
