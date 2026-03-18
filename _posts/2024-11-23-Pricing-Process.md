@@ -2,12 +2,24 @@
 title: 'Price as a default negotiation strategy is a dangerous game'
 date: 2024-11-23
 permalink: /posts/2024/11/dangerous-pricing/
+published: false
 tags:
 category: econ
 ---
-It's tempting in the heat of a negotiation after you've made your first pitch and set the price but the party comes back and vaguely asks for more so now you have several dials to turn but one shines brighter than all the others. As the "room" gets hot with  rising tension, you reach for the dial in the hopes of alleviating the pressure and hearing a resounding yes for reaching an agreement but to your surprise, the other party turns away leaving you hanging with your offer. 
+Your face is hot and your heart is beating a bit faster than normal. You are in the heat of a negotiation after making a pitch. 
 
-But was it because of price? The price may not be the lever that needs pulling. I argue that it is cognitive laziness which often leads us into the pitfalls of believing it is. Often sellers go into a sales situation without undergoing the due diligence of analyzing the other side's value drivers and requirements. When the prospect rejects their proposition maybe because the competition has done the work and offered a more optimal solution, in a last ditch effort, they wiggle down the price in a brute force attempt to fit the misshapen piece into the puzzle. This might make sense in B2C situations like selling an overripe avocado or other static product, but most B2B situations are more complex with tailored solutions and contract terms, and thus more potential value drivers to align with price. Relationship building in B2B contexts can help identify those drivers so that when the time comes to set the ball of contracting in motion, more cards might be in play rather than just price. 
+The party comes back and asks if that's all you've got. You have several dials you can turn but one shines brighter than the others. You reach for it in the hopes of alleviating the pressure to hear the resounding yes you long for to finally reach an agreement and send out "We won! Team work makes the dream work!" emails to all your colleagues. To your surprise, the other party instead turns away leaving you in the silent dust with your offer. 
+
+Did we get the price wrong? 
+
+A better question:
+Was the price even the lever we needed to pull? It may not have been. 
+
+In Deepak Malhotra gives an excellent example in his book Negotiation Genius in which he tells 
+
+I argue that it is cognitive laziness which often leads us into the pitfalls of believing it is. 
+
+Often sellers go into a sales situation without undergoing the due diligence of analyzing the other side's value drivers and requirements. When the prospect rejects their proposition maybe because the competition has done the work and offered a more optimal solution, in a last ditch effort, they wiggle down the price in a brute force attempt to fit the misshapen piece into the puzzle. This might make sense in B2C situations like selling an overripe avocado or other static product, but most B2B situations are more complex with tailored solutions and contract terms, and thus more potential value drivers to align with price. Relationship building in B2B contexts can help identify those drivers so that when the time comes to set the ball of contracting in motion, more cards might be in play rather than just price. 
 
 Using price as a default strategy can be a dangerous game not just for the business but for the entire market. See it as a sort of pinball machine of cascading effects whereby once the lever is pulled, there is the end customer's decision in that moment but also reactions of competitors, any trickle effect to other customers, a reduction in contribution margin and the associated impact on the business's cost drivers which may conflict with the very value drivers of higher paying customers. That sounds like a cannibalistic downward spiral.
 
