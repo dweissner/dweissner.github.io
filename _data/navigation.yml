@@ -12,8 +12,8 @@ main:
   - title: "Pricing" 
     url: /pricing/
     
-  - title: "Life&Travel" 
-    url: /lifeandtravel/
+#  - title: "Life&Travel" 
+#    url: /lifeandtravel/
 
   - title: "Resume"
     url: /resume/
