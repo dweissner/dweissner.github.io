@@ -2,6 +2,7 @@
 title: 'Moved by sound'
 date: 2019-06-08
 permalink: /posts/2020/06/blog-post-2/
+published: false
 category: leisure
 tags:
   - lifeandtravel
