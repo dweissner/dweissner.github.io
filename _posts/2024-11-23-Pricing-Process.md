@@ -14,6 +14,10 @@ Did we get the price wrong?
 
 A better question:
 Was the price even the lever we needed to pull? It may not have been. 
+One thing I have learned in B2B is that price more often not the right lever and often the belief that it must be pulled is a result of fear mongering. 
+
+I'm not saying it's not possible to price ourselves out of the market but often in B2B the urge of pulling it is out of desperation of escaping a hole we ourselves have dug.   
+
 
 In Deepak Malhotra gives an excellent example in his book Negotiation Genius in which he tells 
 
